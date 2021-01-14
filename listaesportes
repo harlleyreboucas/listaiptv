@@ -1,40 +1,44 @@
 #EXTM3U
-#EXTINF:-1,BR | BAND SPORTS HD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/102164
-#EXTINF:-1,BR | COMBATE HD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/102169
-#EXTINF:-1,BR | EI PLUS HD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/102187
-#EXTINF:-1,BR | ESPN 2 HD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/102188
-#EXTINF:-1,BR | ESPN BRASIL HD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/102189
-#EXTINF:-1,BR | ESPN HD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/102190
-#EXTINF:-1,BR | FOX SPORTS 2 HD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/102198
-#EXTINF:-1,BR | FOX SPORTS HD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/102199
-#EXTINF:-1,BR | PREMIERE CLUBES HD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/102243
-#EXTINF:-1,BR | PREMIERE 2 HD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/102239
-#EXTINF:-1,BR | PREMIERE 2 SD
-http://201.1.151.74:2083/play/a078/index.m3u8?checkedby:hlscat.com
-#EXTINF:-1,BR | PREMIERE 3 HD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/102240
-#EXTINF:-1,BR | PREMIERE 4 HD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/102241
-#EXTINF:-1,BR | PREMIERE 5 HD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/102242
-#EXTINF:-1,BR | SPORTV 2 HD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/102257
-#EXTINF:-1,BR | SPORTV 3 HD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/102258
-#EXTINF:-1,BR | SPORTV HD
-http://nomorecable.xyz:80/hostingsupport/fz8jQtMrX8/102259
+#EXTINF:-1,BAND SPORTS
+http://rec2.distv.net:8500/plinio/123/119
+#EXTINF:-1,COMBATE
+http://rec2.distv.net:8500/plinio/123/126
+#EXTINF:-1,DAZN
+http://rec2.distv.net:8500/plinio/123/226
+#EXTINF:-1,ESPN
+http://rec2.distv.net:8500/plinio/123/142
+#EXTINF:-1,ESPN 2
+http://rec2.distv.net:8500/plinio/123/143
+#EXTINF:-1,ESPN BRASIL
+http://rec2.distv.net:8500/plinio/123/144
+#EXTINF:-1,ESPN EXTRA
+http://rec2.distv.net:8500/plinio/123/145
+#EXTINF:-1,FOX SPORTS
+http://rec2.distv.net:8500/plinio/123/152
+#EXTINF:-1,FOX SPORTS 2
+http://rec2.distv.net:8500/plinio/123/153
+#EXTINF:-1,PREMIERE 2
+http://rec2.distv.net:8500/plinio/123/179
+#EXTINF:-1,PREMIERE 3
+http://rec2.distv.net:8500/plinio/123/180
+#EXTINF:-1,PREMIERE 4
+http://rec2.distv.net:8500/plinio/123/181
+#EXTINF:-1,PREMIERE 5
+http://rec2.distv.net:8500/plinio/123/182
+#EXTINF:-1,PREMIERE 6
+http://rec2.distv.net:8500/plinio/123/183
+#EXTINF:-1,PREMIERE 7
+http://rec2.distv.net:8500/plinio/123/237
+#EXTINF:-1,PREMIERE CLUBES
+http://rec2.distv.net:8500/plinio/123/184
 #EXTINF:-1,BR | SPORTV SD
 http://201.1.151.74:2083/play/a052/index.m3u8?checkedby:hlscat.com
+#EXTINF:-1,SPORTV
+http://rec2.distv.net:8500/plinio/123/188
+#EXTINF:-1,SPORTV 2
+http://rec2.distv.net:8500/plinio/123/189
+#EXTINF:-1,SPORTV 3
+http://rec2.distv.net:8500/plinio/123/190
 #EXTINF:-1,BR | SBT - COPA LIBERTADORES
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8?checkedby:hlscat.com
 #EXTINF:-1,BR | SBT - COPA LIBERTADORES2
