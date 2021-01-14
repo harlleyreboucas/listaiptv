@@ -31,10 +31,10 @@ http://rec2.distv.net:8500/plinio/123/183
 http://rec2.distv.net:8500/plinio/123/237
 #EXTINF:-1,PREMIERE CLUBES
 http://rec2.distv.net:8500/plinio/123/184
+#EXTINF:-1,SPORTV HD
+http://rec2.distv.net:8500/plinio/123/188
 #EXTINF:-1,BR | SPORTV SD
 http://201.1.151.74:2083/play/a052/index.m3u8?checkedby:hlscat.com
-#EXTINF:-1,SPORTV
-http://rec2.distv.net:8500/plinio/123/188
 #EXTINF:-1,SPORTV 2
 http://rec2.distv.net:8500/plinio/123/189
 #EXTINF:-1,SPORTV 3
