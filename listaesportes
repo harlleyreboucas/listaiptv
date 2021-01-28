@@ -29,6 +29,10 @@ http://rec2.distv.net:8500/plinio/123/182
 http://rec2.distv.net:8500/plinio/123/183
 #EXTINF:-1,PREMIERE 7
 http://rec2.distv.net:8500/plinio/123/237
+#EXTINF:-1,PREMIERE CLUBES HD
+http://rv.therevenge.co:80/565656/565656/82406?checkedby:hlscat.co
+#EXTINF:-1,PREMIERE CLUBES 4k
+http://185.71.64.167:80/307245103371/307245103371/82406?checkedby:hlscat.com
 #EXTINF:-1,PREMIERE CLUBES
 http://rec2.distv.net:8500/plinio/123/184
 #EXTINF:-1,SPORTV HD
