@@ -17,6 +17,14 @@ http://rec2.distv.net:8500/plinio/123/145
 http://rec2.distv.net:8500/plinio/123/152
 #EXTINF:-1,FOX SPORTS 2
 http://rec2.distv.net:8500/plinio/123/153
+#EXTINF:-1 ,PREMIERE CLUBE1 HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/194530
+#EXTINF:-1,PREMIERE CLUBES HD
+http://rv.therevenge.co:80/565656/565656/82406?checkedby:hlscat.co
+#EXTINF:-1,PREMIERE CLUBES 4k
+http://185.71.64.167:80/307245103371/307245103371/82406?checkedby:hlscat.com
+#EXTINF:-1,PREMIERE CLUBES
+http://rec2.distv.net:8500/plinio/123/184
 #EXTINF:-1,PREMIERE 2
 http://rec2.distv.net:8500/plinio/123/179
 #EXTINF:-1,PREMIERE 3
@@ -29,12 +37,6 @@ http://rec2.distv.net:8500/plinio/123/182
 http://rec2.distv.net:8500/plinio/123/183
 #EXTINF:-1,PREMIERE 7
 http://rec2.distv.net:8500/plinio/123/237
-#EXTINF:-1,PREMIERE CLUBES HD
-http://rv.therevenge.co:80/565656/565656/82406?checkedby:hlscat.co
-#EXTINF:-1,PREMIERE CLUBES 4k
-http://185.71.64.167:80/307245103371/307245103371/82406?checkedby:hlscat.com
-#EXTINF:-1,PREMIERE CLUBES
-http://rec2.distv.net:8500/plinio/123/184
 #EXTINF:-1,SPORTV HD
 http://rec2.distv.net:8500/plinio/123/188
 #EXTINF:-1,BR | SPORTV SD
