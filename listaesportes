@@ -1,45 +1,77 @@
 #EXTM3U
-#EXTINF:-1,BAND SPORTS
-http://rec2.distv.net:8500/plinio/123/119
-#EXTINF:-1,COMBATE
-http://rec2.distv.net:8500/plinio/123/126
-#EXTINF:-1,DAZN
-http://rec2.distv.net:8500/plinio/123/226
-#EXTINF:-1,ESPN
-http://rec2.distv.net:8500/plinio/123/142
-#EXTINF:-1,ESPN 2
-http://rec2.distv.net:8500/plinio/123/143
-#EXTINF:-1,ESPN BRASIL
-http://rec2.distv.net:8500/plinio/123/144
-#EXTINF:-1,ESPN EXTRA
-http://rec2.distv.net:8500/plinio/123/145
-#EXTINF:-1,FOX SPORTS
-http://rec2.distv.net:8500/plinio/123/152
-#EXTINF:-1,FOX SPORTS 2
-http://rec2.distv.net:8500/plinio/123/153
-#EXTINF:-1,PREMIERE CLUBES HD
-http://185.71.64.167:80/307226126667/307226126667/82406?checkedby:hlscat.com
-#EXTINF:-1,PREMIERE CLUBES 4k
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/24176?checkedby:hlscat.com
-#EXTINF:-1,PREMIERE CLUBES
-http://rec2.distv.net:8500/plinio/123/184
-#EXTINF:-1,PREMIERE 2
-http://rec2.distv.net:8500/plinio/123/179
-#EXTINF:-1,PREMIERE 3
-http://rec2.distv.net:8500/plinio/123/180
-#EXTINF:-1,PREMIERE 4
-http://rec2.distv.net:8500/plinio/123/181
-#EXTINF:-1,PREMIERE 5
-http://rec2.distv.net:8500/plinio/123/182
-#EXTINF:-1,PREMIERE 6
-http://rec2.distv.net:8500/plinio/123/183
-#EXTINF:-1,PREMIERE 7
-http://rec2.distv.net:8500/plinio/123/237
-#EXTINF:-1,SPORTV HD
-http://rec2.distv.net:8500/plinio/123/188
-#EXTINF:-1,BR | SPORTV SD
-http://185.71.64.167:80/307226126667/307226126667/82362?checkedby:hlscat.com
-#EXTINF:-1,SPORTV 2
-http://rec2.distv.net:8500/plinio/123/189
-#EXTINF:-1,SPORTV 3
-http://rec2.distv.net:8500/plinio/123/190
+#EXTINF:-1 type="stream" tvg-id="Premiere 2" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 2
+http://lb.kstream.org/aovivo/SD_PFC_2/video.m3u8?token=7564fadd9952d3aa4b18cfbec05b534a
+#EXTINF:-1 type="stream" tvg-id="Premiere 2 FHD" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 2 FHD
+http://lb.kstream.org/aovivo/FHD_PFC_2/video.m3u8?token=7564fadd9952d3aa4b18cfbec05b534a
+#EXTINF:-1 type="stream" tvg-id="Premiere 2 HD" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 2 HD
+http://lb.kstream.org/aovivo/HD_PFC_2/video.m3u8?token=7564fadd9952d3aa4b18cfbec05b534a
+#EXTINF:-1 type="stream" tvg-id="Premiere 2 HD [Alter]" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 2 HD [Alter]
+http://lb.kstream.org/aovivo/HD_PFC_2_ALTER/video.m3u8?token=7564fadd9952d3aa4b18cfbec05b534a
+#EXTINF:-1 type="stream" tvg-id="Premiere 3" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 3
+http://lb.kstream.org/aovivo/SD_PFC_3/video.m3u8?token=7564fadd9952d3aa4b18cfbec05b534a
+#EXTINF:-1 type="stream" tvg-id="Premiere 3 FHD" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 3 FHD
+http://lb.kstream.org/aovivo/FHD_PFC_3/video.m3u8?token=7564fadd9952d3aa4b18cfbec05b534a
+#EXTINF:-1 type="stream" tvg-id="Premiere 3 HD" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 3 HD
+http://lb.kstream.org/aovivo/HD_PFC_3/video.m3u8?token=7564fadd9952d3aa4b18cfbec05b534a
+#EXTINF:-1 type="stream" tvg-id="Premiere 3 HD [Alter]" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 3 HD [Alter]
+http://lb.kstream.org/aovivo/HD_PFC_3_ALTER/video.m3u8?token=7564fadd9952d3aa4b18cfbec05b534a
+#EXTINF:-1 type="stream" tvg-id="Premiere 4" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 4
+http://lb.kstream.org/aovivo/SD_PFC_4/video.m3u8?token=7564fadd9952d3aa4b18cfbec05b534a
+#EXTINF:-1 type="stream" tvg-id="Premiere 4 FHD" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 4 FHD
+http://lb.kstream.org/aovivo/FHD_PFC_4/video.m3u8?token=7564fadd9952d3aa4b18cfbec05b534a
+#EXTINF:-1 type="stream" tvg-id="Premiere 4 HD" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 4 HD
+http://lb.kstream.org/aovivo/HD_PFC_4/video.m3u8?token=7564fadd9952d3aa4b18cfbec05b534a
+#EXTINF:-1 type="stream" tvg-id="Premiere 4 HD [Alter]" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 4 HD [Alter]
+http://lb.kstream.org/aovivo/HD_PFC_4_ALTER/video.m3u8?token=7564fadd9952d3aa4b18cfbec05b534a
+#EXTINF:-1 type="stream" tvg-id="Premiere 5" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 5
+http://lb.kstream.org/aovivo/SD_PFC_5/video.m3u8?token=7564fadd9952d3aa4b18cfbec05b534a
+#EXTINF:-1 type="stream" tvg-id="Premiere 5 FHD" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 5 FHD
+http://lb.kstream.org/aovivo/FHD_PFC_5/video.m3u8?token=7564fadd9952d3aa4b18cfbec05b534a
+#EXTINF:-1 type="stream" tvg-id="Premiere 5 HD" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 5 HD
+http://lb.kstream.org/aovivo/HD_PFC_5/video.m3u8?token=7564fadd9952d3aa4b18cfbec05b534a
+#EXTINF:-1 type="stream" tvg-id="Premiere 5 HD [Alter]" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 5 HD [Alter]
+http://lb.kstream.org/aovivo/HD_PFC_5_ALTER/video.m3u8?token=7564fadd9952d3aa4b18cfbec05b534a
+#EXTINF:-1 type="stream" tvg-id="Premiere 6" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 6
+http://lb.kstream.org/aovivo/SD_PFC_6/video.m3u8?token=7564fadd9952d3aa4b18cfbec05b534a
+#EXTINF:-1 type="stream" tvg-id="Premiere 6 FHD" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 6 FHD
+http://lb.kstream.org/aovivo/FHD_PFC_6/video.m3u8?token=7564fadd9952d3aa4b18cfbec05b534a
+#EXTINF:-1 type="stream" tvg-id="Premiere 6 HD" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 6 HD
+http://lb.kstream.org/aovivo/HD_PFC_6/video.m3u8?token=7564fadd9952d3aa4b18cfbec05b534a
+#EXTINF:-1 type="stream" tvg-id="Premiere 6 HD [Alter]" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 6 HD [Alter]
+http://lb.kstream.org/aovivo/HD_PFC_6_ALTER/video.m3u8?token=7564fadd9952d3aa4b18cfbec05b534a
+#EXTINF:-1 type="stream" tvg-id="Premiere 7 FHD" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 7 FHD
+http://lb.kstream.org/aovivo/FHD_PFC_7/video.m3u8?token=7564fadd9952d3aa4b18cfbec05b534a
+#EXTINF:-1 type="stream" tvg-id="Premiere 7 HD [Alter]" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere 7 HD [Alter]
+http://lb.kstream.org/aovivo/HD_PFC_7_ALTER/video.m3u8?token=7564fadd9952d3aa4b18cfbec05b534a
+#EXTINF:-1 type="stream" tvg-id="Premiere Clubes" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere Clubes
+http://lb.kstream.org/aovivo/SD_PFC_CLUBES/video.m3u8?token=7564fadd9952d3aa4b18cfbec05b534a
+#EXTINF:-1 type="stream" tvg-id="Premiere Clubes FHD" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere Clubes FHD
+http://lb.kstream.org/aovivo/FHD_PFC_CLUBES/video.m3u8?token=7564fadd9952d3aa4b18cfbec05b534a
+#EXTINF:-1 type="stream" tvg-id="Premiere Clubes HD" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere Clubes HD
+http://lb.kstream.org/aovivo/HD_PFC_CLUBES/video.m3u8?token=7564fadd9952d3aa4b18cfbec05b534a
+#EXTINF:-1 type="stream" tvg-id="Premiere Clubes HD [Alter]" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Esporte",Premiere Clubes HD [Alter]
+http://lb.kstream.org/aovivo/HD_PFC_CLUBES_ALTER/video.m3u8?token=7564fadd9952d3aa4b18cfbec05b534a
+#EXTINF:-1 type="stream" tvg-id="SporTV" tvg-logo="https://i.ibb.co/Rv3pNrH/sportv.png" group-title="Esporte",SporTV
+http://lb.kstream.org/aovivo/SD_UDHASKDN_1/video.m3u8?token=7564fadd9952d3aa4b18cfbec05b534a
+#EXTINF:-1 type="stream" tvg-id="SporTV 2" tvg-logo="https://i.ibb.co/Yy0Pv9X/sportv2.png" group-title="Esporte",SporTV 2
+http://lb.kstream.org/aovivo/SD_SPORTV_2/video.m3u8?token=7564fadd9952d3aa4b18cfbec05b534a
+#EXTINF:-1 type="stream" tvg-id="SporTV 2 FHD" tvg-logo="https://i.ibb.co/Yy0Pv9X/sportv2.png" group-title="Esporte",SporTV 2 FHD
+http://lb.kstream.org/aovivo/FHD_SPORTV_2/video.m3u8?token=7564fadd9952d3aa4b18cfbec05b534a
+#EXTINF:-1 type="stream" tvg-id="SporTV 2 HD" tvg-logo="https://i.ibb.co/Yy0Pv9X/sportv2.png" group-title="Esporte",SporTV 2 HD
+http://lb.kstream.org/aovivo/HD_SPORTV_2/video.m3u8?token=7564fadd9952d3aa4b18cfbec05b534a
+#EXTINF:-1 type="stream" tvg-id="SporTV 2 HD [Alter]" tvg-logo="https://i.ibb.co/Yy0Pv9X/sportv2.png" group-title="Esporte",SporTV 2 HD [Alter]
+http://lb.kstream.org/aovivo/HD_SPORTV_2_ALTER/video.m3u8?token=7564fadd9952d3aa4b18cfbec05b534a
+#EXTINF:-1 type="stream" tvg-id="SporTV 3" tvg-logo="https://i.ibb.co/G7wwzFS/sportv3.png" group-title="Esporte",SporTV 3
+http://lb.kstream.org/aovivo/SD_SPORTV_3/video.m3u8?token=7564fadd9952d3aa4b18cfbec05b534a
+#EXTINF:-1 type="stream" tvg-id="SporTV 3 FHD" tvg-logo="https://i.ibb.co/G7wwzFS/sportv3.png" group-title="Esporte",SporTV 3 FHD
+http://lb.kstream.org/aovivo/FHD_SPORTV_3/video.m3u8?token=7564fadd9952d3aa4b18cfbec05b534a
+#EXTINF:-1 type="stream" tvg-id="SporTV 3 HD" tvg-logo="https://i.ibb.co/G7wwzFS/sportv3.png" group-title="Esporte",SporTV 3 HD
+http://lb.kstream.org/aovivo/HD_SPORTV_3/video.m3u8?token=7564fadd9952d3aa4b18cfbec05b534a
+#EXTINF:-1 type="stream" tvg-id="SporTV 3 HD [Alter]" tvg-logo="https://i.ibb.co/G7wwzFS/sportv3.png" group-title="Esporte",SporTV 3 HD [Alter]
+http://lb.kstream.org/aovivo/HD_SPORTV_3_ALTER/video.m3u8?token=7564fadd9952d3aa4b18cfbec05b534a
+#EXTINF:-1 type="stream" tvg-id="SporTV FHD" tvg-logo="https://i.ibb.co/Rv3pNrH/sportv.png" group-title="Esporte",SporTV FHD
+http://lb.kstream.org/aovivo/FHD_SPORTV_1/video.m3u8?token=7564fadd9952d3aa4b18cfbec05b534a
+#EXTINF:-1 type="stream" tvg-id="SporTV HD" tvg-logo="https://i.ibb.co/Rv3pNrH/sportv.png" group-title="Esporte",SporTV HD
+http://lb.kstream.org/aovivo/HD_SOKASJDH_1/video.m3u8?token=7564fadd9952d3aa4b18cfbec05b534a
+#EXTINF:-1 type="stream" tvg-id="SporTV HD [Alter]" tvg-logo="https://i.ibb.co/Rv3pNrH/sportv.png" group-title="Esporte",SporTV HD [Alter]
+http://lb.kstream.org/aovivo/HD_SPORTV_1_ALTER/video.m3u8?token=7564fadd9952d3aa4b18cfbec05b534a
