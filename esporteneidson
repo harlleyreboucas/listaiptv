@@ -1,123 +1,44 @@
-#EXTM3U
-#EXTINF:-1 group-title="Canais | COMBATE HD
+#EXTINF:-1,BAND SPORTS
+http://rec2.distv.net:8500/plinio/123/119
+#EXTINF:-1,COMBATE
 http://rec2.distv.net:8500/plinio/123/126
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/CUDFA4M.jpg" ,98 LIVE (Musica e Esporte)
-http://radio98fm-lh.akamaihd.net/i/pp_1@359238/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" ,Al Kass Sports
-http://www.elahmad.com/tv/m3u8/alkass.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/D6ISx7c.png?1" ,Al Kass Sports 1
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/D6ISx7c.png?1" ,Al Kass Sports 2
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/D6ISx7c.png?1" ,Al Kass Sports 3
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/D6ISx7c.png?1" ,Al Kass Sports 4
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/D6ISx7c.png?1" ,Al Kass Sports 5
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://static.wixstatic.com/media/30f5ac_ceb7fad6e711455bbedba1131783e9da~mv2.png/v1/fill/w_121,h_31,al_c,usm_0.66_1.00_0.01/30f5ac_ceb7fad6e711455bbedba1131783e9da~mv2.png" ,ALL SPORTS BR
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1650280825.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bandsports.png" ,BAND SPORTS SD
-http://fonteangelusiptv.com:25461/c42fae920747/c42fae92/178604
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/bandsports.png" ,BAND SPORTS SD ALT
-http://fonteangelusiptv.com:25461/c42fae920747/c42fae92/178605
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/combate.png" ,COMBATE SD
-http://fonteangelusiptv.com:25461/c42fae920747/c42fae92/178609
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/combate.png" ,COMBATE SD ALT
-http://fonteangelusiptv.com:25461/c42fae920747/c42fae92/178610
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://127.0.0.1/" ,Dazn FHD
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes4/esportes4_2000/index.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://127.0.0.1/" ,Dazn HD
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes4/esportes4_1000/index.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://127.0.0.1/" ,Dazn SD
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes4/esportes4_350/index.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://reports.exodus-privacy.eu.org/reports/13215/icon" ,DAZN SD
-http://fonteangelusiptv.com:25461/c42fae920747/c42fae92/178615
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://127.0.0.1/" ,Dazn SD¹
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes4/esportes4_500/index.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://127.0.0.1/" ,DUBAI RACING
-https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://127.0.0.1/" ,DUBAI RACING 2
-http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" ,EI Maxx HD
-http://d2xuvs5rzrvjs7.cloudfront.net/live-stream-secure/58121908685da2dd08de7ec5/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://127.0.0.1/" ,ESPN
-http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/FW12yr4.png" ,ESPN
-http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_360_av-b.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/511px-Espn2.svg.png" ,ESPN 2
-http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/FW12yr4.png" ,ESPN 2
-http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_360_av-b.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/FW12yr4.png" ,ESPN 2 HD
-http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://127.0.0.1/" ,Espn Brasil FHD
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/FW12yr4.png" ,ESPN BRASIL HD
-http://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://127.0.0.1/" ,Espn Brasil SD
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/vintequatrohrs5_350/index.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://127.0.0.1/" ,Espn Brasil SD
-https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_480_av-p.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://127.0.0.1/" ,Espn Brasil SD¹
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/vintequatrohrs5_500/index.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://127.0.0.1/" ,ESPN Extra
-http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/FW12yr4.png" ,ESPN EXTRA
-http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_360_av-b.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/FW12yr4.png" ,ESPN EXTRA HD
-http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/FW12yr4.png" ,ESPN HD
-http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://127.0.0.1/" ,ESPN²
-http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" ,Esporte Interativo 2
-http://d2xuvs5rzrvjs7.cloudfront.net/live-stream-secure/5801261189b415d108f9603c/publish/media_2500.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" ,Esporte Interativo HD
-http://d2xuvs5rzrvjs7.cloudfront.net/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_2500.m3u8?dnt=true&/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" ,Esporte Interativo HD²
-http://d2xuvs5rzrvjs7.cloudfront.net/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" ,Esporte Interativo HD¹
-http://d2xuvs5rzrvjs7.cloudfront.net/live-stream-secure/58121908685da2dd08de7ec5/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://resiliation.net/wp-content/uploads/logo-eurosport.jpeg" ,EUROSPORTE
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" ,KTV Sport (Kuwait)
-http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://127.0.0.1/" ,Premiere 4K
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/54800
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/RFmCV9E.png" ,Real Madrid
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://i.imgur.com/5jMqNpW.png" ,REAL MADRID TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" ,Real Madrid TV HD
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/bNXH4cj.png" ,Real Madrid TV | SD
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8#1
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" ,Red Bull TV
-http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/301f06c166156f3e5234ee0b6231b9a0.png" ,RED BULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://127.0.0.1/" ,RedBull TV
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://127.0.0.1/" ,SportTV 2 HD
-http://cdnz.videezy.gq/live/sportv2/playlist.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://127.0.0.1/" ,SportTV 3 HD
-http://cdnz.videezy.gq/live/sportv3/playlist.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://127.0.0.1/" ,SportTV HD
-http://cdnz.videezy.gq/live/sportv/chunks.m3u8
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://127.0.0.1/" ,SporTV 2 HD
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/9411
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv2.png" ,SPORTV 2 SD ALT
-http://fonteangelusiptv.com:25461/c42fae920747/c42fae92/178659
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://127.0.0.1/" ,SporTV 3 HD
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/9412
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv3.png" ,SPORTV 3 SD ALT
-http://fonteangelusiptv.com:25461/c42fae920747/c42fae92/178665
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://127.0.0.1/" ,SporTV FHD
-http://212.102.60.121:8000/calem7/4BY4CSaMUW/9413
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/sportv.png" ,SPORTV SD ALT
-http://fonteangelusiptv.com:25461/c42fae920747/c42fae92/178653
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://127.0.0.1/" ,UFC
-http://live-ng-01.more.tv/hls/UFC/index_3.m3u8?sbn
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/7tmZnMy.png" ,Viasat Sport | SD
-http://persik.by/stream/2944/263250/10249.m3u8
+#EXTINF:-1,DAZN
+http://rec2.distv.net:8500/plinio/123/226
+#EXTINF:-1,ESPN
+http://rec2.distv.net:8500/plinio/123/142
+#EXTINF:-1,ESPN 2
+http://rec2.distv.net:8500/plinio/123/143
+#EXTINF:-1,ESPN BRASIL
+http://rec2.distv.net:8500/plinio/123/144
+#EXTINF:-1,ESPN EXTRA
+http://rec2.distv.net:8500/plinio/123/145
+#EXTINF:-1,FOX SPORTS
+http://rec2.distv.net:8500/plinio/123/152
+#EXTINF:-1,FOX SPORTS 2
+http://rec2.distv.net:8500/plinio/123/153
+#EXTINF:-1,PREMIERE CLUBES HD
+http://185.71.64.167:80/307226126667/307226126667/82406?checkedby:hlscat.com
+#EXTINF:-1,PREMIERE CLUBES 4k
+http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/24176?checkedby:hlscat.com
+#EXTINF:-1,PREMIERE CLUBES
+http://rec2.distv.net:8500/plinio/123/184
+#EXTINF:-1,PREMIERE 2
+http://rec2.distv.net:8500/plinio/123/179
+#EXTINF:-1,PREMIERE 3
+http://rec2.distv.net:8500/plinio/123/180
+#EXTINF:-1,PREMIERE 4
+http://rec2.distv.net:8500/plinio/123/181
+#EXTINF:-1,PREMIERE 5
+http://rec2.distv.net:8500/plinio/123/182
+#EXTINF:-1,PREMIERE 6
+http://rec2.distv.net:8500/plinio/123/183
+#EXTINF:-1,PREMIERE 7
+http://rec2.distv.net:8500/plinio/123/237
+#EXTINF:-1,SPORTV HD
+http://rec2.distv.net:8500/plinio/123/188
+#EXTINF:-1,BR | SPORTV SD
+http://185.71.64.167:80/307226126667/307226126667/82362?checkedby:hlscat.com
+#EXTINF:-1,SPORTV 2
+http://rec2.distv.net:8500/plinio/123/189
+#EXTINF:-1,SPORTV 3
+http://rec2.distv.net:8500/plinio/123/190
