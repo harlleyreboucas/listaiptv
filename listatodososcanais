@@ -95,6 +95,16 @@ http://187.32.214.221:8001/play/a0ed/index.m3u8
 http://187.32.214.221:8001/play/a0ee/index.m3u8
 #EXTINF:-1,Premiere Clubes HD
 http://187.32.214.221:8001/play/a0er/index.m3u8
+#EXTINF:-1,SporTV BR
+http://mytv.fun:8080/ccvamejaeger13/txl3b616ks/13602
+#EXTINF:-1,SporTV 2 HD BR
+http://mytv.fun:8080/ccvamejaeger13/txl3b616ks/13604
+#EXTINF:-1,ESPN Brasil HD BR
+http://mytv.fun:8080/ccvamejaeger13/txl3b616ks/13633
+#EXTINF:-1,ESPN HD BR
+http://mytv.fun:8080/ccvamejaeger13/txl3b616ks/13634
+#EXTINF:-1,ESPN BR
+http://mytv.fun:8080/ccvamejaeger13/txl3b616ks/16502
 #EXTINF:-1,Prime Box Brazil HD
 http://187.32.214.221:8001/play/a0dy/index.m3u8
 #EXTINF:-1,Rede Gospel HD
