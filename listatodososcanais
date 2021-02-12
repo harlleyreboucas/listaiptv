@@ -205,3 +205,354 @@ http://187.32.214.221:8004/play/a0dw/index.m3u8
 http://187.32.214.221:8004/play/a0ei/index.m3u8
 #EXTINF:-1,Zoomoo HD
 http://187.32.214.221:8004/play/a0du/index.m3u8
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AMC
+http://mags.vip:2086/live/miriam/miriam123/92726.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AMC 2K
+http://plustlc.com:8080/live/huseyin61/24.10.2020/126353.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",AUTO MOTOR SPORT Channel HD
+http://raostvip.com:8080/semi16/1609.sem/117535?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AXN
+http://mags.vip:2086/live/miriam/miriam123/92724.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND
+http://mags.vip:2086/live/miriam/miriam123/92735.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND NEWS
+http://mags.vip:2086/live/miriam/miriam123/92723.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND 4K
+http://plustlc.com:8080/live/huseyin61/24.10.2020/126362.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",BAND NEWS HD
+http://xtn.ddns.net:80/Vanessa/123456/19509?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS SD
+http://xtn.ddns.net:80/Vanessa/123456/15093?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BLOOMBERG HD
+http://xtn.ddns.net:80/Vanessa/123456/10400?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Band News HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3307?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Bis SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3469?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Chaves 24H
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/76519?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Cinemax FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24245?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="http://i.imgur.com/SYPYeHt.jpg" group-title="Undefined",Cine+
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Cinemax HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/22536?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Cnn Internacional HD BR
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46512?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Combate 4K UHD BR
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/51182?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Combate FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24156?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Combate HD BR
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46513?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Combate SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3402?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Comedy Central HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3294?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DAZN BRASIL HD
+http://raostvip.com:8080/semi16/1609.sem/117588?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Cultura HD BR
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46515?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL
+http://mags.vip:2086/live/miriam/miriam123/92734.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL
+http://mags.vip:2086/live/miriam/miriam123/92715.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY CIVILIZATION
+http://mags.vip:2086/live/miriam/miriam123/92714.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY H&H
+http://mags.vip:2086/live/miriam/miriam123/92713.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY HOME & HEALTH
+http://mags.vip:2086/live/miriam/miriam123/92712.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY KIDS
+http://mags.vip:2086/live/miriam/miriam123/92711.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY THEATER
+http://mags.vip:2086/live/miriam/miriam123/92710.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY TURBO
+http://mags.vip:2086/live/miriam/miriam123/92708.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Discovery H&H FHD
+http://raostvip.com:8080/semi16/1609.sem/117596?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Discovery H&H FHD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/126408.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Discovery HD BR
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46518?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Discovery THEATER FHD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/126414.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Discovery World HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3328?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",EI PLUS HD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/126435.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN
+http://mags.vip:2086/live/miriam/miriam123/92702.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 1 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24171?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 1 SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3405?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2
+http://mags.vip:2086/live/miriam/miriam123/92736.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2 HD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/126437.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN BRASIL
+http://mags.vip:2086/live/miriam/miriam123/92701.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 4K UHD BR
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/51184?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Espn   HD BR
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46528?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN Extra FHD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/126441.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FOX
+http://mags.vip:2086/live/miriam/miriam123/92699.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FOX BRASIL HD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/126456.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FOX LIFE
+http://mags.vip:2086/live/miriam/miriam123/92698.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FOX PREMIUM 1
+http://mags.vip:2086/live/miriam/miriam123/92697.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FOX PREMIUM 1 HD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/126461.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FOX Premium 2 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24231?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FOX SPORTS 1
+http://mags.vip:2086/live/miriam/miriam123/92696.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FOX SPORTS 2
+http://mags.vip:2086/live/miriam/miriam123/92695.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FX FHD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/126464.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Fox HD BR
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46535?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Fx HD BR
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46542?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO BRASILIA
+http://mags.vip:2086/live/miriam/miriam123/92692.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO NEWS
+http://mags.vip:2086/live/miriam/miriam123/92691.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO NSC TV FLORIANOPOLIS HD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/126481.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO RJ HD
+http://raostvip.com:8080/semi16/1609.sem/117689?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO SP EPTV RIBEIRAO HD
+http://raostvip.com:8080/semi16/1609.sem/117695?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOOB
+http://mags.vip:2086/live/miriam/miriam123/92686.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GNT FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24340?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo Minas HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3285?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Gnt HD BR
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46547?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",H2
+http://mags.vip:2086/live/miriam/miriam123/92684.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",H2 HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3329?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",H2 HD BR
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46548?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO
+http://mags.vip:2086/live/miriam/miriam123/92680.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO 1 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24233?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO 2
+http://mags.vip:2086/live/miriam/miriam123/92682.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO 2 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24232?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO 3 HD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/126513.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO FAMILY
+http://mags.vip:2086/live/miriam/miriam123/92681.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO PLUS
+http://mags.vip:2086/live/miriam/miriam123/92679.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO SIGNATURE
+http://mags.vip:2086/live/miriam/miriam123/92678.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HISTORY CHANNEL
+http://mags.vip:2086/live/miriam/miriam123/92732.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HISTORY CHANNEL
+http://mags.vip:2086/live/miriam/miriam123/92677.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Hbo HD BR
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46550?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",History HD BR
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46554?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ID Discovery HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3331?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",MAX HD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/126539.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",MEGAPIX FHD
+http://raostvip.com:8080/semi16/1609.sem/117743?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",MTV Brasil
+http://plustlc.com:8080/live/huseyin61/24.10.2020/126547.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",MULTISHOW FHD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/126550.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Max HD BR
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46558?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Max Up HD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/126544.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",NAT GEO FHD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/126553.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",NAT GEO WILD FHD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/126557.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",OFF FHD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/126566.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PARAMOUNT CHANNEL
+http://mags.vip:2086/live/miriam/miriam123/92661.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 2
+http://mags.vip:2086/live/miriam/miriam123/92660.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 3
+http://mags.vip:2086/live/miriam/miriam123/92659.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 4
+http://mags.vip:2086/live/miriam/miriam123/92658.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 5
+http://mags.vip:2086/live/miriam/miriam123/92657.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 5 HD
+http://raostvip.com:8080/semi16/1609.sem/117771?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE CLUBES
+http://mags.vip:2086/live/miriam/miriam123/92656.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE CLUBES HD
+http://raostvip.com:8080/semi16/1609.sem/117774?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE HD
+http://raostvip.com:8080/semi16/1609.sem/117775?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Paramount FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24313?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Paramount HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3265?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Education",Portal Cultura Pará
+http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/live.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premier 1 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24163?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premier 1 HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24176?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premier 2 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24164?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premier 4 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24166?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premier 5 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24168?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premier 6 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24169?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premier 7 SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24173?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 2 HD BR
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46573?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 3 HD
+http://raostvip.com:8080/semi16/1609.sem/117769?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 3 HD BR
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46574?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 4 HD BR
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46575?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 6 HD
+http://raostvip.com:8080/semi16/1609.sem/117772?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 5 HD BR
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46576?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 6 HD BR
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46577?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 7 HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3522?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere Clubes HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3523?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere Clubes HD BR
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46579?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",RECORD
+http://mags.vip:2086/live/miriam/miriam123/92655.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",RECORD NEWS HD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/126589.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",RECORD MG HD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/126588.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",RECORD Nordeste HD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/126590.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",RECORD Rio de Janeiro FHD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/126591.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",RECORD SP
+http://mags.vip:2086/live/miriam/miriam123/92654.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",REDE TV
+http://mags.vip:2086/live/miriam/miriam123/92652.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Record HD BR
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46582?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="Undefined",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SBT RJ
+http://raostvip.com:8080/semi16/1609.sem/117807?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SPACE
+http://mags.vip:2086/live/miriam/miriam123/92648.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV
+http://mags.vip:2086/live/miriam/miriam123/92645.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV 1
+http://mags.vip:2086/live/miriam/miriam123/92731.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV 2
+http://mags.vip:2086/live/miriam/miriam123/92647.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV 2 FHD
+http://raostvip.com:8080/semi16/1609.sem/117813?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV 3
+http://mags.vip:2086/live/miriam/miriam123/92646.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPorTV 2 HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3524?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPorTV 3 SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3410?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",STUDIO UNIVERSAL
+http://mags.vip:2086/live/miriam/miriam123/92644.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",STUDIO UNIVERSAL FHD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/126616.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Sbt FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24184?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Sony  HD BR
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46592?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Sony BR
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46593?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Sport Tv 3 HD BR
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46595?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Syfy HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3269?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TBS HD
+http://raostvip.com:8080/semi16/1609.sem/117822?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TC Action
+http://plustlc.com:8080/live/huseyin61/24.10.2020/126619.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TC Pipoca HD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/126622.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TCM HD BR
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46601?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TELECINE CULT
+http://mags.vip:2086/live/miriam/miriam123/92641.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TELECINE FUN
+http://mags.vip:2086/live/miriam/miriam123/92729.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TELECINE FUN
+http://mags.vip:2086/live/miriam/miriam123/92640.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TELECINE FUN FHD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/126626.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TELECINE PIPOCA FHD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/126627.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TELECINE PREMIUM
+http://mags.vip:2086/live/miriam/miriam123/92638.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TELECINE Premium FHD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/126628.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TELECINE TOUCH
+http://mags.vip:2086/live/miriam/miriam123/92637.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TLC HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3319?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TNT
+http://mags.vip:2086/live/miriam/miriam123/92635.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TNT FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24252?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TOONCAST HD
+http://raostvip.com:8080/semi16/1609.sem/117838?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TOONCAST HD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/126635.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TNT Series SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3444?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/MAMGt7I.png" group-title="General",TV Gazeta
+https://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",The History Channel
+http://raostvip.com:8080/semi16/1609.sem/117830?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/hBaG4Ce.png" group-title="Hobby",Terra Viva
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",VIVA
+http://mags.vip:2086/live/miriam/miriam123/92632.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",VH1 FHD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/126673.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",WARNER CHANNEL
+http://mags.vip:2086/live/miriam/miriam123/92631.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Warner Channel FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24236?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPorTV HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3526?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPorTV SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3411?checkedby:hlscat.com
