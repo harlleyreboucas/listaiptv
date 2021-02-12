@@ -205,354 +205,614 @@ http://187.32.214.221:8004/play/a0dw/index.m3u8
 http://187.32.214.221:8004/play/a0ei/index.m3u8
 #EXTINF:-1,Zoomoo HD
 http://187.32.214.221:8004/play/a0du/index.m3u8
-#PLAYLIST:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AMC
-http://mags.vip:2086/live/miriam/miriam123/92726.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AMC 2K
-http://plustlc.com:8080/live/huseyin61/24.10.2020/126353.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",AUTO MOTOR SPORT Channel HD
-http://raostvip.com:8080/semi16/1609.sem/117535?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",AXN
-http://mags.vip:2086/live/miriam/miriam123/92724.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND
-http://mags.vip:2086/live/miriam/miriam123/92735.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND NEWS
-http://mags.vip:2086/live/miriam/miriam123/92723.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BAND 4K
-http://plustlc.com:8080/live/huseyin61/24.10.2020/126362.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",BAND NEWS HD
-http://xtn.ddns.net:80/Vanessa/123456/19509?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS SD
-http://xtn.ddns.net:80/Vanessa/123456/15093?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",BLOOMBERG HD
-http://xtn.ddns.net:80/Vanessa/123456/10400?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Band News HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3307?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Bis SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3469?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Chaves 24H
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/76519?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Cinemax FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24245?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="http://i.imgur.com/SYPYeHt.jpg" group-title="Undefined",Cine+
-http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Cinemax HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/22536?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Cnn Internacional HD BR
-http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46512?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Combate 4K UHD BR
-http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/51182?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Combate FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24156?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Combate HD BR
-http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46513?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Combate SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3402?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Comedy Central HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3294?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DAZN BRASIL HD
-http://raostvip.com:8080/semi16/1609.sem/117588?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Cultura HD BR
-http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46515?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL
-http://mags.vip:2086/live/miriam/miriam123/92734.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY CHANNEL
-http://mags.vip:2086/live/miriam/miriam123/92715.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY CIVILIZATION
-http://mags.vip:2086/live/miriam/miriam123/92714.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY H&H
-http://mags.vip:2086/live/miriam/miriam123/92713.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY HOME & HEALTH
-http://mags.vip:2086/live/miriam/miriam123/92712.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY KIDS
-http://mags.vip:2086/live/miriam/miriam123/92711.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY THEATER
-http://mags.vip:2086/live/miriam/miriam123/92710.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",DISCOVERY TURBO
-http://mags.vip:2086/live/miriam/miriam123/92708.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Discovery H&H FHD
-http://raostvip.com:8080/semi16/1609.sem/117596?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Discovery H&H FHD
-http://plustlc.com:8080/live/huseyin61/24.10.2020/126408.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Discovery HD BR
-http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46518?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Discovery THEATER FHD
-http://plustlc.com:8080/live/huseyin61/24.10.2020/126414.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Discovery World HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3328?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",EI PLUS HD
-http://plustlc.com:8080/live/huseyin61/24.10.2020/126435.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN
-http://mags.vip:2086/live/miriam/miriam123/92702.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 1 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24171?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 1 SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3405?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2
-http://mags.vip:2086/live/miriam/miriam123/92736.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2 HD
-http://plustlc.com:8080/live/huseyin61/24.10.2020/126437.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN BRASIL
-http://mags.vip:2086/live/miriam/miriam123/92701.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 4K UHD BR
-http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/51184?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Espn   HD BR
-http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46528?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN Extra FHD
-http://plustlc.com:8080/live/huseyin61/24.10.2020/126441.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FOX
-http://mags.vip:2086/live/miriam/miriam123/92699.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FOX BRASIL HD
-http://plustlc.com:8080/live/huseyin61/24.10.2020/126456.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FOX LIFE
-http://mags.vip:2086/live/miriam/miriam123/92698.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FOX PREMIUM 1
-http://mags.vip:2086/live/miriam/miriam123/92697.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FOX PREMIUM 1 HD
-http://plustlc.com:8080/live/huseyin61/24.10.2020/126461.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FOX Premium 2 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24231?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FOX SPORTS 1
-http://mags.vip:2086/live/miriam/miriam123/92696.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FOX SPORTS 2
-http://mags.vip:2086/live/miriam/miriam123/92695.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",FX FHD
-http://plustlc.com:8080/live/huseyin61/24.10.2020/126464.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Fox HD BR
-http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46535?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Fx HD BR
-http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46542?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO BRASILIA
-http://mags.vip:2086/live/miriam/miriam123/92692.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO NEWS
-http://mags.vip:2086/live/miriam/miriam123/92691.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO NSC TV FLORIANOPOLIS HD
-http://plustlc.com:8080/live/huseyin61/24.10.2020/126481.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO RJ HD
-http://raostvip.com:8080/semi16/1609.sem/117689?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOBO SP EPTV RIBEIRAO HD
-http://raostvip.com:8080/semi16/1609.sem/117695?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GLOOB
-http://mags.vip:2086/live/miriam/miriam123/92686.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",GNT FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24340?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Globo Minas HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3285?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Gnt HD BR
-http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46547?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",H2
-http://mags.vip:2086/live/miriam/miriam123/92684.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",H2 HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3329?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",H2 HD BR
-http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46548?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO
-http://mags.vip:2086/live/miriam/miriam123/92680.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO 1 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24233?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO 2
-http://mags.vip:2086/live/miriam/miriam123/92682.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO 2 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24232?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO 3 HD
-http://plustlc.com:8080/live/huseyin61/24.10.2020/126513.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO FAMILY
-http://mags.vip:2086/live/miriam/miriam123/92681.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO PLUS
-http://mags.vip:2086/live/miriam/miriam123/92679.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HBO SIGNATURE
-http://mags.vip:2086/live/miriam/miriam123/92678.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HISTORY CHANNEL
-http://mags.vip:2086/live/miriam/miriam123/92732.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",HISTORY CHANNEL
-http://mags.vip:2086/live/miriam/miriam123/92677.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Hbo HD BR
-http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46550?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",History HD BR
-http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46554?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",ID Discovery HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3331?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",MAX HD
-http://plustlc.com:8080/live/huseyin61/24.10.2020/126539.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",MEGAPIX FHD
-http://raostvip.com:8080/semi16/1609.sem/117743?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",MTV Brasil
-http://plustlc.com:8080/live/huseyin61/24.10.2020/126547.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",MULTISHOW FHD
-http://plustlc.com:8080/live/huseyin61/24.10.2020/126550.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Max HD BR
-http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46558?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Max Up HD
-http://plustlc.com:8080/live/huseyin61/24.10.2020/126544.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",NAT GEO FHD
-http://plustlc.com:8080/live/huseyin61/24.10.2020/126553.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",NAT GEO WILD FHD
-http://plustlc.com:8080/live/huseyin61/24.10.2020/126557.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",OFF FHD
-http://plustlc.com:8080/live/huseyin61/24.10.2020/126566.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PARAMOUNT CHANNEL
-http://mags.vip:2086/live/miriam/miriam123/92661.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 2
-http://mags.vip:2086/live/miriam/miriam123/92660.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 3
-http://mags.vip:2086/live/miriam/miriam123/92659.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 4
-http://mags.vip:2086/live/miriam/miriam123/92658.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 5
-http://mags.vip:2086/live/miriam/miriam123/92657.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 5 HD
-http://raostvip.com:8080/semi16/1609.sem/117771?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE CLUBES
-http://mags.vip:2086/live/miriam/miriam123/92656.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE CLUBES HD
-http://raostvip.com:8080/semi16/1609.sem/117774?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE HD
-http://raostvip.com:8080/semi16/1609.sem/117775?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Paramount FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24313?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Paramount HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3265?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Education",Portal Cultura Pará
-http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/live.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premier 1 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24163?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premier 1 HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24176?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premier 2 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24164?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premier 4 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24166?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premier 5 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24168?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premier 6 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24169?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premier 7 SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24173?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 2 HD BR
-http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46573?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 3 HD
-http://raostvip.com:8080/semi16/1609.sem/117769?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 3 HD BR
-http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46574?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 4 HD BR
-http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46575?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 6 HD
-http://raostvip.com:8080/semi16/1609.sem/117772?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 5 HD BR
-http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46576?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 6 HD BR
-http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46577?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 7 HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3522?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere Clubes HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3523?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere Clubes HD BR
-http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46579?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",RECORD
-http://mags.vip:2086/live/miriam/miriam123/92655.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",RECORD NEWS HD
-http://plustlc.com:8080/live/huseyin61/24.10.2020/126589.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",RECORD MG HD
-http://plustlc.com:8080/live/huseyin61/24.10.2020/126588.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",RECORD Nordeste HD
-http://plustlc.com:8080/live/huseyin61/24.10.2020/126590.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",RECORD Rio de Janeiro FHD
-http://plustlc.com:8080/live/huseyin61/24.10.2020/126591.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",RECORD SP
-http://mags.vip:2086/live/miriam/miriam123/92654.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",REDE TV
-http://mags.vip:2086/live/miriam/miriam123/92652.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Record HD BR
-http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46582?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="Undefined",SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SBT RJ
-http://raostvip.com:8080/semi16/1609.sem/117807?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SPACE
-http://mags.vip:2086/live/miriam/miriam123/92648.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV
-http://mags.vip:2086/live/miriam/miriam123/92645.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV 1
-http://mags.vip:2086/live/miriam/miriam123/92731.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV 2
-http://mags.vip:2086/live/miriam/miriam123/92647.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV 2 FHD
-http://raostvip.com:8080/semi16/1609.sem/117813?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV 3
-http://mags.vip:2086/live/miriam/miriam123/92646.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPorTV 2 HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3524?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPorTV 3 SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3410?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",STUDIO UNIVERSAL
-http://mags.vip:2086/live/miriam/miriam123/92644.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",STUDIO UNIVERSAL FHD
-http://plustlc.com:8080/live/huseyin61/24.10.2020/126616.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Sbt FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24184?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Sony  HD BR
-http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46592?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Sony BR
-http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46593?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Sport Tv 3 HD BR
-http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46595?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Syfy HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3269?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TBS HD
-http://raostvip.com:8080/semi16/1609.sem/117822?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TC Action
-http://plustlc.com:8080/live/huseyin61/24.10.2020/126619.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TC Pipoca HD
-http://plustlc.com:8080/live/huseyin61/24.10.2020/126622.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TCM HD BR
-http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/46601?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TELECINE CULT
-http://mags.vip:2086/live/miriam/miriam123/92641.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TELECINE FUN
-http://mags.vip:2086/live/miriam/miriam123/92729.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TELECINE FUN
-http://mags.vip:2086/live/miriam/miriam123/92640.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TELECINE FUN FHD
-http://plustlc.com:8080/live/huseyin61/24.10.2020/126626.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TELECINE PIPOCA FHD
-http://plustlc.com:8080/live/huseyin61/24.10.2020/126627.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TELECINE PREMIUM
-http://mags.vip:2086/live/miriam/miriam123/92638.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TELECINE Premium FHD
-http://plustlc.com:8080/live/huseyin61/24.10.2020/126628.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TELECINE TOUCH
-http://mags.vip:2086/live/miriam/miriam123/92637.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TLC HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3319?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TNT
-http://mags.vip:2086/live/miriam/miriam123/92635.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TNT FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24252?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TOONCAST HD
-http://raostvip.com:8080/semi16/1609.sem/117838?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TOONCAST HD
-http://plustlc.com:8080/live/huseyin61/24.10.2020/126635.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TNT Series SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3444?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/MAMGt7I.png" group-title="General",TV Gazeta
-https://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",The History Channel
-http://raostvip.com:8080/semi16/1609.sem/117830?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/hBaG4Ce.png" group-title="Hobby",Terra Viva
-http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",VIVA
-http://mags.vip:2086/live/miriam/miriam123/92632.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",VH1 FHD
-http://plustlc.com:8080/live/huseyin61/24.10.2020/126673.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",WARNER CHANNEL
-http://mags.vip:2086/live/miriam/miriam123/92631.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Warner Channel FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24236?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPorTV HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3526?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPorTV SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3411?checkedby:hlscat.com
+#EXTM3U
+#EXTINF:-1,BR: Chapolin 24H
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/76520
+#EXTINF:-1,BR: Chaves 24H
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/76519
+#EXTINF:-1,BR: Galinha Pintadinha 24H
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/93700
+#EXTINF:-1,BR: Um Maluco No Pedaço Temp 1 24H
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/77822
+#EXTINF:-1,BR: Os Simpsons 24H
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/77823
+#EXTINF:-1,BR: Patrulha Canina HD 24H
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/93702
+#EXTINF:-1,BR: Patrulha Canina SD 24H
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/93701
+#EXTINF:-1,BR: A&E FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24225
+#EXTINF:-1,BR: A&E SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3414
+#EXTINF:-1,BR: All Sports HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24177
+#EXTINF:-1,BR: AMC FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/101899
+#EXTINF:-1,BR: AMC HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24283
+#EXTINF:-1,BR: AMC SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24257
+#EXTINF:-1,BR: Animal Planet FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24290
+#EXTINF:-1,BR: Animal Planet HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3321
+#EXTINF:-1,BR: Animal Planet SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3485
+#EXTINF:-1,BR: Arte 1 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24244
+#EXTINF:-1,BR: Arte 1 HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/22534
+#EXTINF:-1,BR: Arte 1 SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3415
+#EXTINF:-1,BR: AXN FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24226
+#EXTINF:-1,BR: AXN HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/22535
+#EXTINF:-1,BR: AXN SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3416
+#EXTINF:-1,BR: Baby TV HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3291
+#EXTINF:-1,BR: Baby TV SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3447
+#EXTINF:-1,BR: Band Campinas HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3498
+#EXTINF:-1,BR: Band FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24179
+#EXTINF:-1,BR: Band HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3499
+#EXTINF:-1,BR: Band SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/101869
+#EXTINF:-1,BR: Band News FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24180
+#EXTINF:-1,BR: Band News HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3307
+#EXTINF:-1,BR: Band News SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3462
+#EXTINF:-1,BR: Band Sports FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24155
+#EXTINF:-1,BR: Band Sports HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3508
+#EXTINF:-1,BR: Band SPorts SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3401
+#EXTINF:-1,BR: Bis HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3310
+#EXTINF:-1,BR: Bis SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3469
+#EXTINF:-1,BR: Boomerang HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3292
+#EXTINF:-1,BR: Boomerang SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3448
+#EXTINF:-1,BR: Canal Brasil FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24331
+#EXTINF:-1,BR: Cartoon Network FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24306
+#EXTINF:-1,BR: Cartoon Network HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3293
+#EXTINF:-1,BR: Cartoon Network SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3449
+#EXTINF:-1,BR: Cinemax FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24245
+#EXTINF:-1,BR: Cinemax HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/22536
+#EXTINF:-1,BR: Cinemax SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3420
+#EXTINF:-1,BR: Cnn Internacional SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3463
+#EXTINF:-1,BR: Combate FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24156
+#EXTINF:-1,BR: Combate HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3509
+#EXTINF:-1,BR: Combate SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3402
+#EXTINF:-1,BR: Comedy Central FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24157
+#EXTINF:-1,BR: Comedy Central HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3294
+#EXTINF:-1,BR: Comedy Central SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3450
+#EXTINF:-1,BR: Discovery Channel FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24297
+#EXTINF:-1,BR: Discovery Channel HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3322
+#EXTINF:-1,BR: Discovery Channel SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3486
+#EXTINF:-1,BR: Discovery H&H HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3324
+#EXTINF:-1,BR: Discovery H&H SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3487
+#EXTINF:-1,BR: Discovery Kids FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24293
+#EXTINF:-1,BR: Discovery Kids HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3295
+#EXTINF:-1,BR: Discovery Kids SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3451
+#EXTINF:-1,BR: Discovery Science FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24303
+#EXTINF:-1,BR: Discovery Science HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3325
+#EXTINF:-1,BR: Discovery Theater FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24292
+#EXTINF:-1,BR: Discovery Turbo FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24291
+#EXTINF:-1,BR: Discovery Turbo HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3327
+#EXTINF:-1,BR: Discovery Turbo SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3488
+#EXTINF:-1,BR: Discovery World FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24294
+#EXTINF:-1,BR: Discovery World HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3328
+#EXTINF:-1,BR: Disney Channel FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24295
+#EXTINF:-1,BR: Disney Channel HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3296
+#EXTINF:-1,BR: Disney Channel SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3452
+#EXTINF:-1,BR: Disney Jr FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24309
+#EXTINF:-1,BR: Disney Jr HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3297
+#EXTINF:-1,BR: Disney Jr SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3453
+#EXTINF:-1,BR: Disney XD FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24310
+#EXTINF:-1,BR: Disney XD HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3298
+#EXTINF:-1,BR: Disney XD SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3454
+#EXTINF:-1,BR: E! HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3510
+#EXTINF:-1,BR: E! SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3484
+#EXTINF:-1,BR: ESPN 1 SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3405
+#EXTINF:-1,BR: ESPN 1 HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3514
+#EXTINF:-1,BR: ESPN 1 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24171
+#EXTINF:-1,BR: ESPN 2 SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/103096
+#EXTINF:-1,BR: ESPN 2 HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3511
+#EXTINF:-1,BR: ESPN 2 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/103097
+#EXTINF:-1,BR: Espn Brasil SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3403
+#EXTINF:-1,BR: Espn Brasil HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3512
+#EXTINF:-1,BR: Espn Brasil FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/103094
+#EXTINF:-1,BR: Espn Extra SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3404
+#EXTINF:-1,BR: Espn Extra HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3513
+#EXTINF:-1,BR: ESPN Extra FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24167
+#EXTINF:-1,BR: Fish TV SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3406
+#EXTINF:-1,BR: Food Network FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24296
+#EXTINF:-1,BR: Food Network HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3311
+#EXTINF:-1,BR: Food Network SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3470
+#EXTINF:-1,BR: Food Network SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24273
+#EXTINF:-1,BR: Fox FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24228
+#EXTINF:-1,BR: Fox HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3252
+#EXTINF:-1,BR: Fox Life FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24229
+#EXTINF:-1,BR: Fox Life HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3312
+#EXTINF:-1,BR: Fox Life SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3471
+#EXTINF:-1,BR: Fox Premium 1 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24230
+#EXTINF:-1,BR: Fox Premium 1 HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3253
+#EXTINF:-1,BR: FOX Premium 2 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24231
+#EXTINF:-1,BR: Fox Premium 2 HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3254
+#EXTINF:-1,BR: Fox SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3421
+#EXTINF:-1,BR: Fox Sports 1 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24158
+#EXTINF:-1,BR: Fox Sports 2 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24159
+#EXTINF:-1,BR: Fox Sports 2 HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3515
+#EXTINF:-1,BR: Fox Sports 2 SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3407
+#EXTINF:-1,BR: Fox Sports 1 HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3516
+#EXTINF:-1,BR: Fox Sports 1 SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3408
+#EXTINF:-1,BR: Fx FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3255
+#EXTINF:-1,BR: Fx SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3422
+#EXTINF:-1,BR: Globo 4K
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24103
+#EXTINF:-1,BR: Globo EPTV Campinas SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24191
+#EXTINF:-1,BR: Globo EPTV Ribeirao Preto SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24192
+#EXTINF:-1,BR: Globo FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24189
+#EXTINF:-1,BR: Globo HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24194
+#EXTINF:-1,BR: Globo Minas HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3285
+#EXTINF:-1,BR: Globo Minas SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24188
+#EXTINF:-1,BR: Globo News FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24196
+#EXTINF:-1,BR: Globo News HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3308
+#EXTINF:-1,BR: Globo News SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3465
+#EXTINF:-1,BR: Globo Nordeste HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3286
+#EXTINF:-1,BR: Globo Nordeste SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24197
+#EXTINF:-1,BR: Globo NSC Florianopolis HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24216
+#EXTINF:-1,BR: Globo RBS FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24218
+#EXTINF:-1,BR: Globo RBS HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24219
+#EXTINF:-1,BR: Globo RBS Porto Alegre SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24217
+#EXTINF:-1,BR: Globo Rede Amazonica Manaus SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24198
+#EXTINF:-1,BR: Globo RJ HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3288
+#EXTINF:-1,BR: Globo RJ SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24199
+#EXTINF:-1,BR: Globo SP HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3289
+#EXTINF:-1,BR: Globo TV Anhanguera Goiania SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24201
+#EXTINF:-1,BR: Globo TV Bahia
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24202
+#EXTINF:-1,BR: Globo TV Centro America SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24203
+#EXTINF:-1,BR: Globo TV Liberal Belem SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24204
+#EXTINF:-1,BR: Globo TV TEM Bauru SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24205
+#EXTINF:-1,BR: Globo TV TEM Sorocaba SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24206
+#EXTINF:-1,BR: Globo TV Tribuna Santos SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24207
+#EXTINF:-1,BR: Globo TV Verdes Mares SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24210
+#EXTINF:-1,BR: Globo Verdes Mares HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24187
+#EXTINF:-1,BR: Globo Brasilia HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24209
+#EXTINF:-1,BR: Globo brasilia SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24190
+#EXTINF:-1,BR: Gloobinho HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3300
+#EXTINF:-1,BR: Gloobinho SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3456
+#EXTINF:-1,BR: GNT FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24340
+#EXTINF:-1,BR: GNT HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3314
+#EXTINF:-1,BR: GNT SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3473
+#EXTINF:-1,BR: H2 HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3329
+#EXTINF:-1,BR: H2 SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3489
+#EXTINF:-1,BR: HBO 1 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24233
+#EXTINF:-1,BR: HBO 2 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24232
+#EXTINF:-1,BR: HBO 2 HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3258
+#EXTINF:-1,BR: HBO 2 SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3423
+#EXTINF:-1,BR: HBO Family FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24251
+#EXTINF:-1,BR: HBO Family HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3257
+#EXTINF:-1,BR: HBO Family SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3424
+#EXTINF:-1,BR: HBO HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3256
+#EXTINF:-1,BR: HBO HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24274
+#EXTINF:-1,BR: HBO Plus FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24234
+#EXTINF:-1,BR: Hbo Plus HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3259
+#EXTINF:-1,BR: Hbo Plus SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3425
+#EXTINF:-1,BR: HBO Signature FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24247
+#EXTINF:-1,BR: Hbo Signature HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3260
+#EXTINF:-1,BR: Hbo Signature SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3426
+#EXTINF:-1,BR: History FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24332
+#EXTINF:-1,BR: History HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3330
+#EXTINF:-1,BR: History SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3490
+#EXTINF:-1,BR: ID Discovery HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3331
+#EXTINF:-1,BR: ID Discovery SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3491
+#EXTINF:-1,BR: Lifetime FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24333
+#EXTINF:-1,BR: Lifetime HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3315
+#EXTINF:-1,BR: Lifetime SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3474
+#EXTINF:-1,BR: Mais Globo Sat FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24185
+#EXTINF:-1,BR: Max Prime SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3428
+#EXTINF:-1,BR: Max Up SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3429
+#EXTINF:-1,BR: Mega Pix FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24254
+#EXTINF:-1,BR: Mega Pix HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24287
+#EXTINF:-1,BR: Megapix SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3430
+#EXTINF:-1,BR: MTV HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3317
+#EXTINF:-1,BR: MTV SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3476
+#EXTINF:-1,BR: Multishow FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24335
+#EXTINF:-1,BR: Multishow HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3318
+#EXTINF:-1,BR: Multishow SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3477
+#EXTINF:-1,BR: Natgeo HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3332
+#EXTINF:-1,BR: NatGeo Kids FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24307
+#EXTINF:-1,BR: Natgeo Kids HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3301
+#EXTINF:-1,BR: Natgeo Kids SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3457
+#EXTINF:-1,BR: NatGeo SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3492
+#EXTINF:-1,BR: NatGeo Wild FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24311
+#EXTINF:-1,BR: NatGeo Wild HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3333
+#EXTINF:-1,BR: NatGeo Wild SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24301
+#EXTINF:-1,BR: Nick HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3302
+#EXTINF:-1,BR: Nick JR FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24312
+#EXTINF:-1,BR: Nick Jr HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3303
+#EXTINF:-1,BR: Nick Jr SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3458
+#EXTINF:-1,BR: Nickelodeon SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3459
+#EXTINF:-1,BR: Off HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3527
+#EXTINF:-1,BR: Off SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3412
+#EXTINF:-1,BR: Paramount FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24313
+#EXTINF:-1,BR: Paramount HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3265
+#EXTINF:-1,BR: Paramount SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24268
+#EXTINF:-1,BR: Premier 1 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24163
+#EXTINF:-1,BR: Premier 1 HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24176
+#EXTINF:-1,BR: Premier 1 SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24174
+#EXTINF:-1,BR: Premier 2 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24164
+#EXTINF:-1,BR: Premiere 2 HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3517
+#EXTINF:-1,BR: Premier 3 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24165
+#EXTINF:-1,BR: Premiere 3 HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3518
+#EXTINF:-1,BR: Premier 4 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24166
+#EXTINF:-1,BR: Premiere 4 HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3519
+#EXTINF:-1,BR: Premier 4 SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24172
+#EXTINF:-1,BR: Premier 5 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24168
+#EXTINF:-1,BR: Premiere 5 HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3520
+#EXTINF:-1,BR: Premier 6 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24169
+#EXTINF:-1,BR: Premiere 6 HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3521
+#EXTINF:-1,BR: Premiere 7 HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3522
+#EXTINF:-1,BR: Premier 7 SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24173
+#EXTINF:-1,BR: Premiere Clubes HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3523
+#EXTINF:-1,BR: Prime Box Brasil SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3479
+#EXTINF:-1,BR: Record Ba HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3504
+#EXTINF:-1,BR: Record FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24181
+#EXTINF:-1,BR: Record HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24222
+#EXTINF:-1,BR: Record News HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3309
+#EXTINF:-1,BR: Record News SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3466
+#EXTINF:-1,BR: Record RJ HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3507
+#EXTINF:-1,BR: Record RJ SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3398
+#EXTINF:-1,BR: Record RS SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3399
+#EXTINF:-1,BR: Record SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3505
+#EXTINF:-1,BR: Record TV SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3400
+#EXTINF:-1,BR: Rede Brasil SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3344
+#EXTINF:-1,BR: Sbt FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24184
+#EXTINF:-1,BR: Sbt HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24223
+#EXTINF:-1,BR: Sbt SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24224
+#EXTINF:-1,BR: Sony Channel HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3266
+#EXTINF:-1,BR: Sony HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24284
+#EXTINF:-1,BR: Sony SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3432
+#EXTINF:-1,BR: Space FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/101900
+#EXTINF:-1,BR: Space HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3267
+#EXTINF:-1,BR: Space SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3433
+#EXTINF:-1,BR: SPorTV SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3411
+#EXTINF:-1,BR: SPorTV HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3526
+#EXTINF:-1,BR: Sportv 1 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24160
+#EXTINF:-1,BR: SPorTV 2 SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3409
+#EXTINF:-1,BR: SPorTV 2 HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3524
+#EXTINF:-1,BR: Sportv 2 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24161
+#EXTINF:-1,BR: SPorTV 3 SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3410
+#EXTINF:-1,BR: SPorTV 3 HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3525
+#EXTINF:-1,BR: Sportv 3 FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24162
+#EXTINF:-1,BR: Studio Universal FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24237
+#EXTINF:-1,BR: Studio Universal HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3268
+#EXTINF:-1,BR: Studio Universal SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24261
+#EXTINF:-1,BR: SyFy FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24336
+#EXTINF:-1,BR: Syfy HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3269
+#EXTINF:-1,BR: Syfy SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3435
+#EXTINF:-1,BR: TBS FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24337
+#EXTINF:-1,BR: Tbs HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3270
+#EXTINF:-1,BR: Tbs SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3436
+#EXTINF:-1,BR: Tcm HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3271
+#EXTINF:-1,BR: Tcm SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3437
+#EXTINF:-1,BR: Telecine Action FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24243
+#EXTINF:-1,BR: Telecine Action HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24276
+#EXTINF:-1,BR: Telecine Action SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3438
+#EXTINF:-1,BR: Telecine Cult FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24255
+#EXTINF:-1,BR: Telecine Cult HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24288
+#EXTINF:-1,BR: Telecine Cult SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3439
+#EXTINF:-1,BR: Telecine Fun FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24242
+#EXTINF:-1,BR: Telecine Fun HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3274
+#EXTINF:-1,BR: Telecine Fun SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3440
+#EXTINF:-1,BR: Telecine Pipoca  FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24241
+#EXTINF:-1,BR: Telecine Pipoca HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3275
+#EXTINF:-1,BR: Telecine Pipoca HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24278
+#EXTINF:-1,BR: Telecine Premium FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24240
+#EXTINF:-1,BR: Telecine Premium HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24279
+#EXTINF:-1,BR: Telecine Premium SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3441
+#EXTINF:-1,BR: Telecine Touch FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24239
+#EXTINF:-1,BR: Telecine Touch SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3442
+#EXTINF:-1,BR: TLC HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3319
+#EXTINF:-1,BR: TLC SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3480
+#EXTINF:-1,BR: TNT FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24252
+#EXTINF:-1,BR: TNT SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3443
+#EXTINF:-1,BR: TNT Series FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24238
+#EXTINF:-1,BR: TNT Series HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3279
+#EXTINF:-1,BR: TNT Series SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3444
+#EXTINF:-1,BR: Tooncast FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3305
+#EXTINF:-1,BR: Tooncast HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24325
+#EXTINF:-1,BR: Tooncast SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24319
+#EXTINF:-1,BR: TV Eparana (Cultura Pr)
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3364
+#EXTINF:-1,BR: TV Gazeta FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24299
+#EXTINF:-1,BR: TV Ra Tim Bum HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3304
+#EXTINF:-1,BR: TV Ra Tim Bum SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3460
+#EXTINF:-1,BR: Universal Channel FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24256
+#EXTINF:-1,BR: Universal Channel HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3280
+#EXTINF:-1,BR: Universal Channel SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3445
+#EXTINF:-1,BR: Viva FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24343
+#EXTINF:-1,BR: Viva HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3320
+#EXTINF:-1,BR: Viva SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3483
+#EXTINF:-1,BR: Warner Channel FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24236
+#EXTINF:-1,BR: Warner Channel HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3281
+#EXTINF:-1,BR: Warner Channel SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3446
+#EXTINF:-1,BR: Woohoo SD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3413
+#EXTINF:-1,BR: Globo TV Centro America HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/101897
+#EXTINF:-1,BR: Globo TV Centro America FHD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/101898
