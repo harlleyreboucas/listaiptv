@@ -1,45 +1,96 @@
 #EXTM3U
-#EXTINF:-1,BAND SPORTS
-http://rec2.distv.net:8500/plinio/123/119
-#EXTINF:-1,COMBATE
-http://rec2.distv.net:8500/plinio/123/126
-#EXTINF:-1,DAZN
-http://rec2.distv.net:8500/plinio/123/226
-#EXTINF:-1,ESPN
-http://rec2.distv.net:8500/plinio/123/142
-#EXTINF:-1,ESPN 2
-http://rec2.distv.net:8500/plinio/123/143
-#EXTINF:-1,ESPN BRASIL
-http://rec2.distv.net:8500/plinio/123/144
-#EXTINF:-1,ESPN EXTRA
-http://rec2.distv.net:8500/plinio/123/145
-#EXTINF:-1,FOX SPORTS
-http://rec2.distv.net:8500/plinio/123/152
-#EXTINF:-1,FOX SPORTS 2
-http://rec2.distv.net:8500/plinio/123/153
-#EXTINF:-1,PREMIERE CLUBES HD
-http://185.71.64.167:80/307226126667/307226126667/82406?checkedby:hlscat.com
-#EXTINF:-1,PREMIERE CLUBES 4k
-http://tvgp.xyz:8080/iptvtoolintercam2932/6YrFEZrVgy/24176?checkedby:hlscat.com
-#EXTINF:-1,PREMIERE CLUBES
-http://rec2.distv.net:8500/plinio/123/184
-#EXTINF:-1,PREMIERE 2
-http://rec2.distv.net:8500/plinio/123/179
-#EXTINF:-1,PREMIERE 3
-http://rec2.distv.net:8500/plinio/123/180
-#EXTINF:-1,PREMIERE 4
-http://rec2.distv.net:8500/plinio/123/181
-#EXTINF:-1,PREMIERE 5
-http://rec2.distv.net:8500/plinio/123/182
-#EXTINF:-1,PREMIERE 6
-http://rec2.distv.net:8500/plinio/123/183
-#EXTINF:-1,PREMIERE 7
-http://rec2.distv.net:8500/plinio/123/237
-#EXTINF:-1,SPORTV HD
-http://rec2.distv.net:8500/plinio/123/188
-#EXTINF:-1,BR | SPORTV SD
-http://185.71.64.167:80/307226126667/307226126667/82362?checkedby:hlscat.com
-#EXTINF:-1,SPORTV 2
-http://rec2.distv.net:8500/plinio/123/189
-#EXTINF:-1,SPORTV 3
-http://rec2.distv.net:8500/plinio/123/190
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV
+http://mags.vip:2086/live/miriam/miriam123/92645.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV 1
+http://mags.vip:2086/live/miriam/miriam123/92731.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV 2
+http://mags.vip:2086/live/miriam/miriam123/92647.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV 2 FHD
+http://raostvip.com:8080/semi16/1609.sem/117813?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV 3
+http://mags.vip:2086/live/miriam/miriam123/92646.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SporTV 2 (720)(M)
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/9411?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SporTV 2 FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29656?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SporTV 2 HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29657?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SporTV 3 (720)(M)
+http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/9412?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SporTV 3 FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29659?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere Clubes FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29608?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere Clubes SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29610?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 2
+http://mags.vip:2086/live/miriam/miriam123/92660.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 3
+http://mags.vip:2086/live/miriam/miriam123/92659.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 4
+http://mags.vip:2086/live/miriam/miriam123/92658.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 5
+http://mags.vip:2086/live/miriam/miriam123/92657.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 5 HD
+http://raostvip.com:8080/semi16/1609.sem/117771?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 2 FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29590?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 2 HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29591?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 3 HD
+http://raostvip.com:8080/semi16/1609.sem/117769?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 3 SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29595?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 4 FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29596?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 4 HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29597?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 4 SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29598?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 5 FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29599?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 5 HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29600?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 5 SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29601?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 6 HD
+http://raostvip.com:8080/semi16/1609.sem/117772?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 6 HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29603?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 7 FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29605?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 7 HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29606?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FOX SPORTS 1
+http://mags.vip:2086/live/miriam/miriam123/92696.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FOX SPORTS 2
+http://mags.vip:2086/live/miriam/miriam123/92695.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Fox Sports SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29406?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN
+http://mags.vip:2086/live/miriam/miriam123/92702.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2
+http://mags.vip:2086/live/miriam/miriam123/92736.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2 FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29362?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2 HD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/126437.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2 HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29363?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2 SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29364?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN Brasil FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29365?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN BRASIL
+http://mags.vip:2086/live/miriam/miriam123/92701.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN Brasil SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29367?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN Brasil Sport
+http://attacktv.ddns.net:2052/12345/54321/55271?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN Extra FHD
+http://plustlc.com:8080/live/huseyin61/24.10.2020/126441.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN Extra FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29368?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN Extra HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29369?checkedby:hlscat.com
