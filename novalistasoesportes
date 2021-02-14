@@ -65,6 +65,8 @@ https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8
 #EXTINF:-1, RECORDTV SP SD
 https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_480_av-p.m3u8
+#EXTINF:-1, RECORDTV MANAUS HD
+https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/index_720_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1, SBT
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/sbt.m3u8?mu3zAQc9HC3GbwJq=FBWSyKUJJ_wjgteDiIzklg&3U1G7qaTxrPbalZnEx=1613334543
 #EXTINF:-1, SBT SD
@@ -79,4 +81,5 @@ https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fu
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/discovery.m3u8?mu3zAQc9HC3GbwJq=d_udAEmn46wbptfuv2v3Ug&3U1G7qaTxrPbalZnEx=1613333608
 #EXTINF:-1, CNN BRASIL
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+
 
