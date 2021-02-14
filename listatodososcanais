@@ -1,818 +1,1151 @@
 #EXTM3U
-#EXTINF:-1,A&E HD
-http://187.32.214.221:8001/play/a0e9/index.m3u8
-#EXTINF:-1,AMC HD
-http://187.32.214.221:8001/play/a0dp/index.m3u8
-#EXTINF:-1,Animal Planet HD
-http://187.32.214.221:8001/play/a0fe/index.m3u8
-#EXTINF:-1,BIS HD
-http://187.32.214.221:8001/play/a0ex/index.m3u8
-#EXTINF:-1,Band News HD
-http://187.32.214.221:8001/play/a0fa/index.m3u8
-#EXTINF:-1,Band Sports HD
-http://187.32.214.221:8001/play/a0f9/index.m3u8
-#EXTINF:-1,Boomerang HD
-http://187.32.214.221:8001/play/a0dw/index.m3u8
-#EXTINF:-1,CONMEBOL TV 3
-http://187.32.214.221:8001/play/a0ea/index.m3u8
-#EXTINF:-1,CONMEBOL TV 4
-http://187.32.214.221:8001/play/a0eb/index.m3u8
-#EXTINF:-1,Canal Brasil HD
-http://187.32.214.221:8001/play/a0el/index.m3u8
-#EXTINF:-1,Cinemax HD
-http://187.32.214.221:8001/play/a0ez/index.m3u8
-#EXTINF:-1,Combate HD
-http://187.32.214.221:8001/play/a0em/index.m3u8
-#EXTINF:-1,Cultura HD
-http://187.32.214.221:8001/play/a0eh/index.m3u8
-#EXTINF:-1,Curta! HD
-http://187.32.214.221:8001/play/a0du/index.m3u8
-#EXTINF:-1,Disc. Home & Health HD
-http://187.32.214.221:8001/play/a0en/index.m3u8
-#EXTINF:-1,Discovery Science HD
-http://187.32.214.221:8001/play/a0ds/index.m3u8
-#EXTINF:-1,Discovery Turbo HD
-http://187.32.214.221:8001/play/a0eo/index.m3u8
-#EXTINF:-1,Disney Channel HD
-http://187.32.214.221:8001/play/a0ep/index.m3u8
-#EXTINF:-1,Disney Junior HD
-http://187.32.214.221:8001/play/a0do/index.m3u8
-#EXTINF:-1,ESPN Extra HD
-http://187.32.214.221:8001/play/a0dv/index.m3u8
-#EXTINF:-1,ESPN2 HD
-http://187.32.214.221:8001/play/a0f8/index.m3u8
-#EXTINF:-1,Eurochannel HD
-http://187.32.214.221:8001/play/a0dt/index.m3u8
-#EXTINF:-1,FOX HD
-http://187.32.214.221:8001/play/a0f4/index.m3u8
-#EXTINF:-1,FOX Life HD
-http://187.32.214.221:8001/play/a0f6/index.m3u8
-#EXTINF:-1,FX HD
-http://187.32.214.221:8001/play/a0f5/index.m3u8
-#EXTINF:-1,Futura HD
-http://187.32.214.221:8001/play/a0f7/index.m3u8
-#EXTINF:-1,Gazeta HD
-http://187.32.214.221:8001/play/a0e4/index.m3u8
-#EXTINF:-1,Globo HD
-http://187.32.214.221:8001/play/a0eg/index.m3u8
-#EXTINF:-1,Gloob HD
-http://187.32.214.221:8001/play/a0ew/index.m3u8
-#EXTINF:-1,Gloobinho HD
-http://187.32.214.221:8001/play/a0fd/index.m3u8
-#EXTINF:-1,HBO MUNDI HD
-http://187.32.214.221:8001/play/a0f0/index.m3u8
-#EXTINF:-1,HBO XTREME HD
-http://187.32.214.221:8001/play/a0f1/index.m3u8
-#EXTINF:-1,HGTV HD
-http://187.32.214.221:8001/play/a0dq/index.m3u8
-#EXTINF:-1,History 2 HD
-http://187.32.214.221:8001/play/a0e8/index.m3u8
-#EXTINF:-1,Like HD
-http://187.32.214.221:8001/play/a0ei/index.m3u8
-#EXTINF:-1,Loading HD
-http://187.32.214.221:8001/play/a0fc/index.m3u8
-#EXTINF:-1,MAIS HD
-http://187.32.214.221:8001/play/a0ev/index.m3u8
-#EXTINF:-1,Music Box Brazil HD
-http://187.32.214.221:8001/play/a0dx/index.m3u8
-#EXTINF:-1,NatGeo Wild HD
-http://187.32.214.221:8001/play/a0f3/index.m3u8
-#EXTINF:-1,National Geographic HD
-http://187.32.214.221:8001/play/a0f2/index.m3u8
-#EXTINF:-1,Nickelodeon HD
-http://187.32.214.221:8001/play/a0dz/index.m3u8
-#EXTINF:-1,OFF HD
-http://187.32.214.221:8001/play/a0eu/index.m3u8
-#EXTINF:-1,Playboy TV HD
-http://187.32.214.221:8001/play/a0e3/index.m3u8
-#EXTINF:-1,Premiere 2 HD
-http://187.32.214.221:8001/play/a0es/index.m3u8
-#EXTINF:-1,Premiere 5 HD
-http://187.32.214.221:8001/play/a0et/index.m3u8
-#EXTINF:-1,Premiere 6 HD
-http://187.32.214.221:8001/play/a0ed/index.m3u8
-#EXTINF:-1,Premiere 7 HD
-http://187.32.214.221:8001/play/a0ee/index.m3u8
-#EXTINF:-1,Premiere Clubes HD
-http://187.32.214.221:8001/play/a0er/index.m3u8
-#EXTINF:-1,SporTV BR
-http://mytv.fun:8080/ccvamejaeger13/txl3b616ks/13602
-#EXTINF:-1,SporTV 2 HD BR
-http://mytv.fun:8080/ccvamejaeger13/txl3b616ks/13604
-#EXTINF:-1,ESPN Brasil HD BR
-http://mytv.fun:8080/ccvamejaeger13/txl3b616ks/13633
-#EXTINF:-1,ESPN HD BR
-http://mytv.fun:8080/ccvamejaeger13/txl3b616ks/13634
-#EXTINF:-1,ESPN BR
-http://mytv.fun:8080/ccvamejaeger13/txl3b616ks/16502
-#EXTINF:-1,Prime Box Brazil HD
-http://187.32.214.221:8001/play/a0dy/index.m3u8
-#EXTINF:-1,Rede Gospel HD
-http://187.32.214.221:8001/play/a0e7/index.m3u8
-#EXTINF:-1,Rede Vida HD
-http://187.32.214.221:8001/play/a0e2/index.m3u8
-#EXTINF:-1,Smithsonian HD
-http://187.32.214.221:8001/play/a0dn/index.m3u8
-#EXTINF:-1,SporTV3 HD
-http://187.32.214.221:8001/play/a0ej/index.m3u8
-#EXTINF:-1,TV Brasil HD
-http://187.32.214.221:8001/play/a0dm/index.m3u8
-#EXTINF:-1,TV RÃ† Tim Bum HD
-http://187.32.214.221:8001/play/a0ey/index.m3u8
-#EXTINF:-1,Universal TV HD
-http://187.32.214.221:8001/play/a0eq/index.m3u8
-#EXTINF:-1,Viva HD
-http://187.32.214.221:8001/play/a0ek/index.m3u8
-#EXTINF:-1,Woohoo HD
-http://187.32.214.221:8001/play/a0dr/index.m3u8
-#EXTINF:-1,AgroMais HD
-http://187.32.214.221:8004/play/a0fc/index.m3u8
-#EXTINF:-1,BBB HD 1
-http://187.32.214.221:8004/play/a0f9/index.m3u8
-#EXTINF:-1,BBB HD 2
-http://187.32.214.221:8004/play/a0fa/index.m3u8
-#EXTINF:-1,BBB Mosaico HD
-http://187.32.214.221:8004/play/a0fb/index.m3u8
-#EXTINF:-1,Baby TV
-http://187.32.214.221:8004/play/a0es/index.m3u8
-#EXTINF:-1,Bloomberg
-http://187.32.214.221:8004/play/a0ec/index.m3u8
-#EXTINF:-1,CNN International
-http://187.32.214.221:8004/play/a0eb/index.m3u8
-#EXTINF:-1,CONMEBOL TV 1
-http://187.32.214.221:8004/play/a0dy/index.m3u8
-#EXTINF:-1,CONMEBOL TV 2
-http://187.32.214.221:8004/play/a0dz/index.m3u8
-#EXTINF:-1,Canal ComunitÃ†rio
-http://187.32.214.221:8004/play/a0ek/index.m3u8
-#EXTINF:-1,Canal Rural
-http://187.32.214.221:8004/play/a0f6/index.m3u8
-#EXTINF:-1,Canal UniversitÃ†rio
-http://187.32.214.221:8004/play/a0el/index.m3u8
-#EXTINF:-1,DW (Deutsch+)
-http://187.32.214.221:8004/play/a0ev/index.m3u8
-#EXTINF:-1,Disney 😆
-http://187.32.214.221:8004/play/a0f1/index.m3u8
-#EXTINF:-1,Fashion TV HD
-http://187.32.214.221:8004/play/a0dp/index.m3u8
-#EXTINF:-1,Film&Arts HD
-http://187.32.214.221:8004/play/a0dv/index.m3u8
-#EXTINF:-1,Fish TV HD
-http://187.32.214.221:8004/play/a0eq/index.m3u8
-#EXTINF:-1,MTV LIVE HD
-http://187.32.214.221:8004/play/a0dr/index.m3u8
-#EXTINF:-1,Mais na Tela
-http://187.32.214.221:8004/play/a0f8/index.m3u8
-#EXTINF:-1,Megapix HD
-http://187.32.214.221:8004/play/a0e0/index.m3u8
-#EXTINF:-1,NHK
-http://187.32.214.221:8004/play/a0et/index.m3u8
-#EXTINF:-1,Polishop TV
-http://187.32.214.221:8004/play/a0eg/index.m3u8
-#EXTINF:-1,RAI
-http://187.32.214.221:8004/play/a0eh/index.m3u8
-#EXTINF:-1,SIC Internacional
-http://187.32.214.221:8004/play/a0f4/index.m3u8
-#EXTINF:-1,Sextreme
-http://187.32.214.221:8004/play/a0em/index.m3u8
-#EXTINF:-1,Sexy Hot
-http://187.32.214.221:8004/play/a0e7/index.m3u8
-#EXTINF:-1,Shoptime
-http://187.32.214.221:8004/play/a0f0/index.m3u8
-#EXTINF:-1,TV CÃmara
-http://187.32.214.221:8004/play/a0f3/index.m3u8
-#EXTINF:-1,TV Escola
-http://187.32.214.221:8004/play/a0eo/index.m3u8
-#EXTINF:-1,TV JustiÄ¿a
-http://187.32.214.221:8004/play/a0ef/index.m3u8
-#EXTINF:-1,TV Novo Tempo HD
-http://187.32.214.221:8004/play/a0ds/index.m3u8
-#EXTINF:-1,TV Senado
-http://187.32.214.221:8004/play/a0e6/index.m3u8
-#EXTINF:-1,TV5
-http://187.32.214.221:8004/play/a0ed/index.m3u8
-#EXTINF:-1,TVE
-http://187.32.214.221:8004/play/a0e9/index.m3u8
-#EXTINF:-1,Telecine Action HD
-http://187.32.214.221:8004/play/a0e1/index.m3u8
-#EXTINF:-1,Telecine Cult HD
-http://187.32.214.221:8004/play/a0e3/index.m3u8
-#EXTINF:-1,Telecine Fun HD
-http://187.32.214.221:8004/play/a0e2/index.m3u8
-#EXTINF:-1,Trace Brazuca HD
-http://187.32.214.221:8004/play/a0dw/index.m3u8
-#EXTINF:-1,Venus
-http://187.32.214.221:8004/play/a0ei/index.m3u8
-#EXTINF:-1,Zoomoo HD
-http://187.32.214.221:8004/play/a0du/index.m3u8
-#EXTM3U
-#EXTINF:-1,BR: Chapolin 24H
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/76520
-#EXTINF:-1,BR: Chaves 24H
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/76519
-#EXTINF:-1,BR: Galinha Pintadinha 24H
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/93700
-#EXTINF:-1,BR: Um Maluco No Pedaço Temp 1 24H
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/77822
-#EXTINF:-1,BR: Os Simpsons 24H
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/77823
-#EXTINF:-1,BR: Patrulha Canina HD 24H
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/93702
-#EXTINF:-1,BR: Patrulha Canina SD 24H
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/93701
-#EXTINF:-1,BR: A&E FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24225
+#EXTINF:-1,BR: BBB ¹ SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/32841
+#EXTINF:-1,BR: BBB ¹ HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/32840
+#EXTINF:-1,BR: BBB ² HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/32838
+#EXTINF:-1,BR: BBB ³ HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/32839
+#EXTINF:-1,BR: BBB Mosaico HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/32837
+#EXTINF:-1,BR: Jovem Pan TV FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/25444
+#EXTINF:-1,BR: KPOP TV HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/25445
+#EXTINF:-1,BR: Music Box Brasil 
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/25446
+#EXTINF:-1,BR: Film&Arts
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/25447
+#EXTINF:-1,BR: Top Songs Music
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/25449
+#EXTINF:-1,BR: Chef TV HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/25450
+#EXTINF:-1,BR: TV Beltrão HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/25456
+#EXTINF:-1,BR: TV Serra Verde
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/25457
+#EXTINF:-1,BR: TV Itapetininga FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/25458
+#EXTINF:-1,BR: STF TV
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/25459
+#EXTINF:-1,BR: Via Morena HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/25460
+#EXTINF:-1,BR: Rede TV Gospel BR FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/25461
+#EXTINF:-1,BR: FLA TV[somente quando há evento]
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/25462
+#EXTINF:-1,BR: TV Manchete
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/25463
+#EXTINF:-1,BR:  BR: A&E FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29196
+#EXTINF:-1,BR:  BR: A&E HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29197
+#EXTINF:-1,BR: A Fazenda HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29198
+#EXTINF:-1,BR: A Fazenda SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29199
+#EXTINF:-1,BR: A Pantera Cor de Rosa 24 Horas
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29200
 #EXTINF:-1,BR: A&E SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3414
-#EXTINF:-1,BR: All Sports HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24177
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29201
 #EXTINF:-1,BR: AMC FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/101899
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29202
 #EXTINF:-1,BR: AMC HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24283
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29203
 #EXTINF:-1,BR: AMC SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24257
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29204
 #EXTINF:-1,BR: Animal Planet FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24290
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29205
 #EXTINF:-1,BR: Animal Planet HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3321
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29206
 #EXTINF:-1,BR: Animal Planet SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3485
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29207
+#EXTINF:-1,BR: Arqueiro Verde 24 Horas
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29208
 #EXTINF:-1,BR: Arte 1 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24244
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29209
 #EXTINF:-1,BR: Arte 1 HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/22534
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29210
 #EXTINF:-1,BR: Arte 1 SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3415
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29211
+#EXTINF:-1,BR: As Aventuras De Jackie Chan 24 Horas
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29212
+#EXTINF:-1,BR: AS MENINAS SUPER PODEROSAS 24 HORAS
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29213
+#EXTINF:-1,BR: AS VISÕES DA RAVEN 24 HORAS
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29214
+#EXTINF:-1,BR: AUTHENTIC GAMES 24 HORAS
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29215
+#EXTINF:-1,BR: Avatar A Lenda de Aang 24 Horas
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29216
 #EXTINF:-1,BR: AXN FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24226
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29217
 #EXTINF:-1,BR: AXN HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/22535
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29218
 #EXTINF:-1,BR: AXN SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3416
-#EXTINF:-1,BR: Baby TV HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3291
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29219
+#EXTINF:-1,BR: Baby FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29220
+#EXTINF:-1,BR: Baby HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29221
 #EXTINF:-1,BR: Baby TV SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3447
-#EXTINF:-1,BR: Band Campinas HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3498
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29222
+#EXTINF:-1,BR: BACKARDIGANS 24 HORAS
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29223
 #EXTINF:-1,BR: Band FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24179
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29224
 #EXTINF:-1,BR: Band HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3499
-#EXTINF:-1,BR: Band SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/101869
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29225
 #EXTINF:-1,BR: Band News FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24180
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29226
 #EXTINF:-1,BR: Band News HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3307
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29227
 #EXTINF:-1,BR: Band News SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3462
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29228
+#EXTINF:-1,BR: Band SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29229
 #EXTINF:-1,BR: Band Sports FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24155
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29230
 #EXTINF:-1,BR: Band Sports HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3508
-#EXTINF:-1,BR: Band SPorts SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3401
-#EXTINF:-1,BR: Bis HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3310
-#EXTINF:-1,BR: Bis SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3469
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29231
+#EXTINF:-1,BR: Band Sports SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29232
+#EXTINF:-1,BR: BEN 10 24 HORAS
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29233
+#EXTINF:-1,BR: BIS FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29234
+#EXTINF:-1,BR: BIS HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29235
+#EXTINF:-1,BR: BIS SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29236
+#EXTINF:-1,BR: BOB ESPONJA 24 HORAS
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29237
+#EXTINF:-1,BR: BOB O CONSTRUTOR 24 HORAS
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29238
+#EXTINF:-1,BR: BOB O TREM 24 HORAS
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29239
+#EXTINF:-1,BR: BOBZOOM 24 HORAS
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29240
+#EXTINF:-1,BR: Boku no Hero Academia 24 Horas
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29241
+#EXTINF:-1,BR: BOOBA 24 HORAS
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29242
+#EXTINF:-1,BR: Boomerang FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29243
 #EXTINF:-1,BR: Boomerang HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3292
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29244
 #EXTINF:-1,BR: Boomerang SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3448
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29245
+#EXTINF:-1,BR: BRASIL VISTO DE CIMA 24 HORAS
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29246
+#EXTINF:-1,BR: Brooklyn Nine-Nine 24 Horas
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29247
+#EXTINF:-1,BR: C.S.I. Investigação Criminal 24 Horas
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29248
+#EXTINF:-1,BR: CAILLOU 24 HORAS
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29249
 #EXTINF:-1,BR: Canal Brasil FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24331
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29250
+#EXTINF:-1,BR: Canal Brasil HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29251
+#EXTINF:-1,BR: Canal Brasil SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29252
 #EXTINF:-1,BR: Cartoon Network FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24306
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29253
 #EXTINF:-1,BR: Cartoon Network HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3293
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29254
 #EXTINF:-1,BR: Cartoon Network SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3449
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29255
+#EXTINF:-1,BR: Castelo Rá Tim Bum 24 Horas
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29256
+#EXTINF:-1,BR: Chaves 24 Horas
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29257
+#EXTINF:-1,BR: Chef TV FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29258
+#EXTINF:-1,BR: Chef TV SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29259
 #EXTINF:-1,BR: Cinemax FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24245
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29260
 #EXTINF:-1,BR: Cinemax HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/22536
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29261
 #EXTINF:-1,BR: Cinemax SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3420
-#EXTINF:-1,BR: Cnn Internacional SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3463
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29262
+#EXTINF:-1,BR: CNN Brasil FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29263
+#EXTINF:-1,BR: CNN Brasil HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29264
+#EXTINF:-1,BR: Cnn Brasil SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29265
+#EXTINF:-1,BR: CNN Espanhol FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29266
+#EXTINF:-1,BR: CNN Espanhol HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29267
+#EXTINF:-1,BR: CNN Espanhol SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29268
+#EXTINF:-1,BR: CNN Internacional FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29269
+#EXTINF:-1,BR: CNN Internacional HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29270
+#EXTINF:-1,BR: CNN Internacional SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29271
 #EXTINF:-1,BR: Combate FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24156
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29272
 #EXTINF:-1,BR: Combate HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3509
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29273
 #EXTINF:-1,BR: Combate SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3402
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29274
 #EXTINF:-1,BR: Comedy Central FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24157
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29275
 #EXTINF:-1,BR: Comedy Central HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3294
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29276
 #EXTINF:-1,BR: Comedy Central SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3450
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29277
+#EXTINF:-1,BR: Como Eu Conheci Sua Mãe 24 Horas
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29278
+#EXTINF:-1,BR: Conmebol 1 FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29279
+#EXTINF:-1,BR: Conmebol 2 FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29280
+#EXTINF:-1,BR: Conmebol 3 FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29281
+#EXTINF:-1,BR: Conmebol 3 HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29282
+#EXTINF:-1,BR: Conmebol 4 FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29283
+#EXTINF:-1,BR: Conmebol 4 HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29284
+#EXTINF:-1,BR: COPA CATARINENSE *
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29285
+#EXTINF:-1,BR: COPA CATARINENSE 2 *
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29286
+#EXTINF:-1,BR: COPA CATARINENSE 2 HD *
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29287
+#EXTINF:-1,BR: COPA CATARINENSE HD *
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29288
+#EXTINF:-1,BR: COPA DO NORDESTE *
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29289
+#EXTINF:-1,BR: COPA DO NORDESTE 2 *
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29290
+#EXTINF:-1,BR: COPA DO NORDESTE 2 HD *
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29291
+#EXTINF:-1,BR: COPA DO NORDESTE 3
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29292
+#EXTINF:-1,BR: COPA DO NORDESTE 3 HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29293
+#EXTINF:-1,BR: COPA DO NORDESTE 4
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29294
+#EXTINF:-1,BR: COPA DO NORDESTE 4 HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29295
+#EXTINF:-1,BR: COPA DO NORDESTE 5
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29296
+#EXTINF:-1,BR: COPA DO NORDESTE 5 HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29297
+#EXTINF:-1,BR: COPA DO NORDESTE 6 HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29298
+#EXTINF:-1,BR: COPA DO NORDESTE 6 SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29299
+#EXTINF:-1,BR: COPA DO NORDESTE HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29300
+#EXTINF:-1,BR: COPA DO NORDESTE HD *
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29301
+#EXTINF:-1,BR: Copa Libertadores FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29302
+#EXTINF:-1,BR: Coragem - O Cão Covarde 24 Horas
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29303
+#EXTINF:-1,BR: Curta! FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29304
+#EXTINF:-1,BR: Curta! HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29305
+#EXTINF:-1,BR: Curta! SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29306
+#EXTINF:-1,BR: CUT THE HOPE 24 HORAS
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29307
+#EXTINF:-1,BR: DAZN *
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29308
+#EXTINF:-1,BR: DAZN FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29309
+#EXTINF:-1,BR: DIGIMON MINECRAFT 24 HORAS
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29310
 #EXTINF:-1,BR: Discovery Channel FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24297
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29311
 #EXTINF:-1,BR: Discovery Channel HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3322
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29312
 #EXTINF:-1,BR: Discovery Channel SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3486
-#EXTINF:-1,BR: Discovery H&H HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3324
-#EXTINF:-1,BR: Discovery H&H SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3487
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29313
+#EXTINF:-1,BR: Discovery Home & Health FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29314
+#EXTINF:-1,BR: Discovery Home & Health HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29315
+#EXTINF:-1,BR: Discovery Home & Health SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29316
+#EXTINF:-1,BR: Discovery ID FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29317
+#EXTINF:-1,BR: Discovery ID HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29318
+#EXTINF:-1,BR: Discovery ID SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29319
 #EXTINF:-1,BR: Discovery Kids FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24293
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29320
 #EXTINF:-1,BR: Discovery Kids HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3295
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29321
 #EXTINF:-1,BR: Discovery Kids SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3451
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29322
 #EXTINF:-1,BR: Discovery Science FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24303
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29323
 #EXTINF:-1,BR: Discovery Science HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3325
-#EXTINF:-1,BR: Discovery Theater FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24292
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29324
+#EXTINF:-1,BR: Discovery Science SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29325
+#EXTINF:-1,BR: Discovery Theather FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29326
+#EXTINF:-1,BR: Discovery Theather HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29327
+#EXTINF:-1,BR: Discovery Theather SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29328
 #EXTINF:-1,BR: Discovery Turbo FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24291
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29329
 #EXTINF:-1,BR: Discovery Turbo HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3327
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29330
 #EXTINF:-1,BR: Discovery Turbo SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3488
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29331
 #EXTINF:-1,BR: Discovery World FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24294
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29332
 #EXTINF:-1,BR: Discovery World HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3328
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29333
+#EXTINF:-1,BR: Discovery World SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29334
 #EXTINF:-1,BR: Disney Channel FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24295
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29335
 #EXTINF:-1,BR: Disney Channel HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3296
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29336
 #EXTINF:-1,BR: Disney Channel SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3452
-#EXTINF:-1,BR: Disney Jr FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24309
-#EXTINF:-1,BR: Disney Jr HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3297
-#EXTINF:-1,BR: Disney Jr SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3453
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29337
+#EXTINF:-1,BR: Disney JR FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29338
+#EXTINF:-1,BR: Disney JR HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29339
+#EXTINF:-1,BR: Disney Junior SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29340
 #EXTINF:-1,BR: Disney XD FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24310
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29341
 #EXTINF:-1,BR: Disney XD HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3298
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29342
 #EXTINF:-1,BR: Disney XD SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3454
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29343
+#EXTINF:-1,BR: Dora, a Aventureira 24 Horas
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29344
+#EXTINF:-1,BR: Dragon Ball Super 24 Horas
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29345
+#EXTINF:-1,BR: Dragon Ball Z 24 Horas
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29346
+#EXTINF:-1,BR: Drake & Josh 24 Horas
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29347
+#EXTINF:-1,BR: E! FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29348
 #EXTINF:-1,BR: E! HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3510
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29349
 #EXTINF:-1,BR: E! SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3484
-#EXTINF:-1,BR: ESPN 1 SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3405
-#EXTINF:-1,BR: ESPN 1 HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3514
-#EXTINF:-1,BR: ESPN 1 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24171
-#EXTINF:-1,BR: ESPN 2 SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/103096
-#EXTINF:-1,BR: ESPN 2 HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3511
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29350
+#EXTINF:-1,BR: EIPLUS 2 *
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29351
+#EXTINF:-1,BR: EIPLUS 2 HD *
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29352
+#EXTINF:-1,BR: EIPLUS 3 *
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29353
+#EXTINF:-1,BR: EIPLUS 3 HD *
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29354
+#EXTINF:-1,BR: EIPLUS 4 *
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29355
+#EXTINF:-1,BR: EIPLUS 4 HD *
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29356
+#EXTINF:-1,BR: EIPLUS 5 *
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29357
+#EXTINF:-1,BR: EIPLUS 5 HD *
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29358
+#EXTINF:-1,BR: EIPLUS 6 *
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29359
+#EXTINF:-1,BR: EIPLUS 6 HD *
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29360
+#EXTINF:-1,BR: Escolinha do Professor Raimundo 24 Horas
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29361
 #EXTINF:-1,BR: ESPN 2 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/103097
-#EXTINF:-1,BR: Espn Brasil SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3403
-#EXTINF:-1,BR: Espn Brasil HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3512
-#EXTINF:-1,BR: Espn Brasil FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/103094
-#EXTINF:-1,BR: Espn Extra SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3404
-#EXTINF:-1,BR: Espn Extra HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3513
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29362
+#EXTINF:-1,BR: ESPN 2 HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29363
+#EXTINF:-1,BR: ESPN 2 SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29364
+#EXTINF:-1,BR: ESPN Brasil FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29365
+#EXTINF:-1,BR: ESPN Brasil HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29366
+#EXTINF:-1,BR: ESPN Brasil SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29367
 #EXTINF:-1,BR: ESPN Extra FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24167
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29368
+#EXTINF:-1,BR: ESPN Extra HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29369
+#EXTINF:-1,BR: ESPN Extra SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29370
+#EXTINF:-1,BR: ESPN FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29371
+#EXTINF:-1,BR: ESPN HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29372
+#EXTINF:-1,BR: ESPN SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29373
+#EXTINF:-1,BR: ESPORTE INTERATIVO *
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29374
+#EXTINF:-1,BR: ESPORTE INTERATIVO HD *
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29375
+#EXTINF:-1,BR: EU A PATROA E AS CRIANÇAS 24 HORAS
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29376
+#EXTINF:-1,BR: Fate 24 Horas
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29377
+#EXTINF:-1,BR: Fish TV FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29378
+#EXTINF:-1,BR: Fish TV HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29379
 #EXTINF:-1,BR: Fish TV SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3406
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29380
+#EXTINF:-1,BR: Flash 24 Horas
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29381
+#EXTINF:-1,BR: FlaTV TESTE
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29382
 #EXTINF:-1,BR: Food Network FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24296
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29383
 #EXTINF:-1,BR: Food Network HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3311
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29384
 #EXTINF:-1,BR: Food Network SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3470
-#EXTINF:-1,BR: Food Network SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24273
-#EXTINF:-1,BR: Fox FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24228
-#EXTINF:-1,BR: Fox HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3252
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29385
+#EXTINF:-1,BR: FOX FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29386
+#EXTINF:-1,BR: FOX HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29387
 #EXTINF:-1,BR: Fox Life FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24229
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29388
 #EXTINF:-1,BR: Fox Life HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3312
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29389
 #EXTINF:-1,BR: Fox Life SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3471
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29390
+#EXTINF:-1,BR: Fox News FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29391
+#EXTINF:-1,BR: Fox News HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29392
+#EXTINF:-1,BR: Fox News SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29393
 #EXTINF:-1,BR: Fox Premium 1 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24230
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29394
 #EXTINF:-1,BR: Fox Premium 1 HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3253
-#EXTINF:-1,BR: FOX Premium 2 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24231
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29395
+#EXTINF:-1,BR: Fox Premium 1 SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29396
+#EXTINF:-1,BR: Fox Premium 2 FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29397
 #EXTINF:-1,BR: Fox Premium 2 HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3254
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29398
+#EXTINF:-1,BR: Fox Premium 2 SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29399
 #EXTINF:-1,BR: Fox SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3421
-#EXTINF:-1,BR: Fox Sports 1 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24158
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29400
+#EXTINF:-1,BR: Fox Sport HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29401
 #EXTINF:-1,BR: Fox Sports 2 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24159
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29402
 #EXTINF:-1,BR: Fox Sports 2 HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3515
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29403
 #EXTINF:-1,BR: Fox Sports 2 SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3407
-#EXTINF:-1,BR: Fox Sports 1 HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3516
-#EXTINF:-1,BR: Fox Sports 1 SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3408
-#EXTINF:-1,BR: Fx FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3255
-#EXTINF:-1,BR: Fx SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3422
-#EXTINF:-1,BR: Globo 4K
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24103
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29404
+#EXTINF:-1,BR: Fox Sports FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29405
+#EXTINF:-1,BR: Fox Sports SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29406
+#EXTINF:-1,BR: Fullmetal Alchemist 24 Horas
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29407
+#EXTINF:-1,BR: FX FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29408
+#EXTINF:-1,BR: FX HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29409
+#EXTINF:-1,BR: FX SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29410
+#EXTINF:-1,BR: GALINHA PINTADINHA 24 HORAS
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29411
+#EXTINF:-1,BR: GALINHA PINTADINHA MINI 24 HORAS
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29412
+#EXTINF:-1,BR: Game of Thrones 24 Horas
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29413
+#EXTINF:-1,BR: GATO TOM 24 HORAS
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29414
+#EXTINF:-1,BR: Globo Centro America FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29415
+#EXTINF:-1,BR: Globo Centro America HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29416
+#EXTINF:-1,BR: Globo Centro America SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29417
+#EXTINF:-1,BR: Globo EPTV Campinas FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29418
+#EXTINF:-1,BR: Globo EPTV Campinas HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29419
 #EXTINF:-1,BR: Globo EPTV Campinas SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24191
-#EXTINF:-1,BR: Globo EPTV Ribeirao Preto SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24192
-#EXTINF:-1,BR: Globo FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24189
-#EXTINF:-1,BR: Globo HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24194
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29420
+#EXTINF:-1,BR: Globo EPTV Sul de Minas FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29421
+#EXTINF:-1,BR: Globo EPTV Sul de Minas HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29422
+#EXTINF:-1,BR: Globo EPTV Sul de Minas SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29423
+#EXTINF:-1,BR: Globo Inter TV Grande Minas FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29424
+#EXTINF:-1,BR: Globo Inter TV Grande Minas HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29425
+#EXTINF:-1,BR: Globo Minas FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29426
 #EXTINF:-1,BR: Globo Minas HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3285
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29427
 #EXTINF:-1,BR: Globo Minas SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24188
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29428
 #EXTINF:-1,BR: Globo News FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24196
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29429
 #EXTINF:-1,BR: Globo News HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3308
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29430
 #EXTINF:-1,BR: Globo News SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3465
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29431
+#EXTINF:-1,BR: Globo Nordeste FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29432
 #EXTINF:-1,BR: Globo Nordeste HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3286
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29433
+#EXTINF:-1,BR: GLOBO NORDESTE HD#
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29434
 #EXTINF:-1,BR: Globo Nordeste SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24197
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29435
+#EXTINF:-1,BR: Globo NSC Florianopolis FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29436
 #EXTINF:-1,BR: Globo NSC Florianopolis HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24216
-#EXTINF:-1,BR: Globo RBS FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24218
-#EXTINF:-1,BR: Globo RBS HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24219
-#EXTINF:-1,BR: Globo RBS Porto Alegre SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24217
-#EXTINF:-1,BR: Globo Rede Amazonica Manaus SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24198
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29437
+#EXTINF:-1,BR: Globo NSC Florianopolis SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29438
+#EXTINF:-1,BR: GLOBO RBS PORTO ALEGRE SD#
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29439
+#EXTINF:-1,BR: GLOBO RBS TV POA FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29440
+#EXTINF:-1,BR: GLOBO RBS TV POA HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29441
+#EXTINF:-1,BR: GLOBO RBS TV POA SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29442
+#EXTINF:-1,BR: GLOBO REDE AMAZONICA MANAUS SD#
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29443
+#EXTINF:-1,BR: GLOBO RIO HD#
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29444
+#EXTINF:-1,BR: Globo RJ FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29445
 #EXTINF:-1,BR: Globo RJ HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3288
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29446
 #EXTINF:-1,BR: Globo RJ SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24199
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29447
+#EXTINF:-1,BR: Globo RPC Paranaense FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29448
+#EXTINF:-1,BR: Globo RPC Paranaense HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29449
+#EXTINF:-1,BR: Globo RPC Paranaense SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29450
+#EXTINF:-1,BR: GLOBO SP FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29451
 #EXTINF:-1,BR: Globo SP HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3289
-#EXTINF:-1,BR: Globo TV Anhanguera Goiania SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24201
-#EXTINF:-1,BR: Globo TV Bahia
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24202
-#EXTINF:-1,BR: Globo TV Centro America SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24203
-#EXTINF:-1,BR: Globo TV Liberal Belem SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24204
-#EXTINF:-1,BR: Globo TV TEM Bauru SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24205
-#EXTINF:-1,BR: Globo TV TEM Sorocaba SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24206
-#EXTINF:-1,BR: Globo TV Tribuna Santos SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24207
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29452
+#EXTINF:-1,BR: GLOBO SP HD#
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29453
+#EXTINF:-1,BR: Globo SP SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29454
+#EXTINF:-1,BR: GLOBO SP SD#2
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29455
+#EXTINF:-1,BR: GLOBO SP SD#3
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29456
+#EXTINF:-1,BR: Globo TV Anhanguera  SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29457
+#EXTINF:-1,BR: GLOBO TV ANHANGUERA GOIANIA SD#
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29458
+#EXTINF:-1,BR: Globo TV Bahia FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29459
+#EXTINF:-1,BR: Globo TV Bahia HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29460
+#EXTINF:-1,BR: Globo Tv Bahia SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29461
+#EXTINF:-1,BR: GLOBO TV BAHIA SD#
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29462
+#EXTINF:-1,BR: Globo TV Belem FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29463
+#EXTINF:-1,BR: Globo TV Belem HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29464
+#EXTINF:-1,BR: Globo TV Belem SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29465
+#EXTINF:-1,BR: Globo TV Brasilia FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29466
+#EXTINF:-1,BR: Globo TV Brasilia HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29467
+#EXTINF:-1,BR: Globo TV Brasilia SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29468
+#EXTINF:-1,BR: Globo TV Mirante FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29469
+#EXTINF:-1,BR: Globo TV Mirante HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29470
+#EXTINF:-1,BR: Globo TV Mirante SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29471
+#EXTINF:-1,BR: Globo TV Morena FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29472
+#EXTINF:-1,BR: Globo TV Morena HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29473
+#EXTINF:-1,BR: Globo TV Morena SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29474
+#EXTINF:-1,BR: GLOBO TV TEM BAURU SD#
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29475
+#EXTINF:-1,BR: GLOBO TV TEM SOROCABA SD#
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29476
+#EXTINF:-1,BR: GLOBO TV TRIBUNA SANTOS SD#
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29477
+#EXTINF:-1,BR: Globo TV Verdes Mares FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29478
+#EXTINF:-1,BR: Globo TV Verdes Mares HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29479
 #EXTINF:-1,BR: Globo TV Verdes Mares SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24210
-#EXTINF:-1,BR: Globo Verdes Mares HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24187
-#EXTINF:-1,BR: Globo Brasilia HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24209
-#EXTINF:-1,BR: Globo brasilia SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24190
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29480
+#EXTINF:-1,BR: GloboTV Anhanguera FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29481
+#EXTINF:-1,BR: GloboTV Anhanguera HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29482
+#EXTINF:-1,BR: Gloob FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29483
+#EXTINF:-1,BR: Gloob HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29484
+#EXTINF:-1,BR: Gloob SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29485
+#EXTINF:-1,BR: Gloobinho FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29486
 #EXTINF:-1,BR: Gloobinho HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3300
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29487
 #EXTINF:-1,BR: Gloobinho SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3456
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29488
 #EXTINF:-1,BR: GNT FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24340
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29489
 #EXTINF:-1,BR: GNT HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3314
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29490
 #EXTINF:-1,BR: GNT SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3473
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29491
+#EXTINF:-1,BR: GUMBALL 24 HORAS 24 HORAS
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29492
+#EXTINF:-1,BR: H2 FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29493
 #EXTINF:-1,BR: H2 HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3329
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29494
 #EXTINF:-1,BR: H2 SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3489
-#EXTINF:-1,BR: HBO 1 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24233
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29495
 #EXTINF:-1,BR: HBO 2 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24232
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29496
 #EXTINF:-1,BR: HBO 2 HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3258
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29497
 #EXTINF:-1,BR: HBO 2 SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3423
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29498
 #EXTINF:-1,BR: HBO Family FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24251
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29499
 #EXTINF:-1,BR: HBO Family HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3257
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29500
 #EXTINF:-1,BR: HBO Family SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3424
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29501
+#EXTINF:-1,BR: HBO FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29502
 #EXTINF:-1,BR: HBO HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3256
-#EXTINF:-1,BR: HBO HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24274
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29503
+#EXTINF:-1,BR: HBO Mundi FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29504
+#EXTINF:-1,BR: HBO Mundi HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29505
+#EXTINF:-1,BR: HBO Mundi SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29506
 #EXTINF:-1,BR: HBO Plus FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24234
-#EXTINF:-1,BR: Hbo Plus HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3259
-#EXTINF:-1,BR: Hbo Plus SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3425
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29507
+#EXTINF:-1,BR: HBO Plus HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29508
+#EXTINF:-1,BR: HBO Plus SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29509
+#EXTINF:-1,BR: HBO Pop FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29510
+#EXTINF:-1,BR: HBO Pop HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29511
+#EXTINF:-1,BR: HBO Pop SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29512
+#EXTINF:-1,BR: HBO SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29513
 #EXTINF:-1,BR: HBO Signature FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24247
-#EXTINF:-1,BR: Hbo Signature HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3260
-#EXTINF:-1,BR: Hbo Signature SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3426
-#EXTINF:-1,BR: History FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24332
-#EXTINF:-1,BR: History HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3330
-#EXTINF:-1,BR: History SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3490
-#EXTINF:-1,BR: ID Discovery HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3331
-#EXTINF:-1,BR: ID Discovery SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3491
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29514
+#EXTINF:-1,BR: HBO Signature HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29515
+#EXTINF:-1,BR: HBO Signature SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29516
+#EXTINF:-1,BR: HBO Xtreme FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29517
+#EXTINF:-1,BR: HBO Xtreme HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29518
+#EXTINF:-1,BR: HBO Xtreme SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29519
+#EXTINF:-1,BR: HGTV FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29520
+#EXTINF:-1,BR: HGTV HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29521
+#EXTINF:-1,BR: HGTV SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29522
+#EXTINF:-1,BR: Hora de Aventura 24 Horas
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29523
+#EXTINF:-1,BR: Hércules 24 Horas
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29524
+#EXTINF:-1,BR: i SAT FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29525
+#EXTINF:-1,BR: i SAT HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29526
+#EXTINF:-1,BR: I Sat SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29527
+#EXTINF:-1,BR: Inter TV dos Vales FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29528
+#EXTINF:-1,BR: Inter TV dos Vales SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29529
+#EXTINF:-1,BR: Inter TV Grande Minas SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29530
 #EXTINF:-1,BR: Lifetime FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24333
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29531
 #EXTINF:-1,BR: Lifetime HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3315
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29532
 #EXTINF:-1,BR: Lifetime SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3474
-#EXTINF:-1,BR: Mais Globo Sat FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24185
-#EXTINF:-1,BR: Max Prime SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3428
-#EXTINF:-1,BR: Max Up SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3429
-#EXTINF:-1,BR: Mega Pix FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24254
-#EXTINF:-1,BR: Mega Pix HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24287
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29533
+#EXTINF:-1,BR: LITTLE ANGEL 24 HORAS
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29534
+#EXTINF:-1,BR: Mais Globosat FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29535
+#EXTINF:-1,BR: Mais Globosat HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29536
+#EXTINF:-1,BR: Mais Globosat SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29537
+#EXTINF:-1,BR: Megapix FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29538
+#EXTINF:-1,BR: Megapix HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29539
 #EXTINF:-1,BR: Megapix SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3430
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29540
+#EXTINF:-1,BR: MICKEY MOUSE 24 HORAS
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29541
+#EXTINF:-1,BR: MISSA APARECIDA 24 HORAS
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29542
+#EXTINF:-1,BR: Mr Bean 24 Horas
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29543
+#EXTINF:-1,BR: MTV FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29544
 #EXTINF:-1,BR: MTV HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3317
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29545
 #EXTINF:-1,BR: MTV SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3476
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29546
 #EXTINF:-1,BR: Multishow FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24335
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29547
 #EXTINF:-1,BR: Multishow HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3318
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29548
 #EXTINF:-1,BR: Multishow SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3477
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29549
+#EXTINF:-1,BR: Music Box Brasil FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29550
+#EXTINF:-1,BR: Music Box Brasil HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29551
+#EXTINF:-1,BR: Music Box Brasil SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29552
+#EXTINF:-1,BR: Natgeo FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29553
 #EXTINF:-1,BR: Natgeo HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3332
-#EXTINF:-1,BR: NatGeo Kids FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24307
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29554
+#EXTINF:-1,BR: Natgeo Kids FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29555
 #EXTINF:-1,BR: Natgeo Kids HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3301
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29556
 #EXTINF:-1,BR: Natgeo Kids SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3457
-#EXTINF:-1,BR: NatGeo SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3492
-#EXTINF:-1,BR: NatGeo Wild FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24311
-#EXTINF:-1,BR: NatGeo Wild HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3333
-#EXTINF:-1,BR: NatGeo Wild SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24301
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29557
+#EXTINF:-1,BR: Natgeo SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29558
+#EXTINF:-1,BR: Natgeo Wild FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29559
+#EXTINF:-1,BR: Natgeo Wild HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29560
+#EXTINF:-1,BR: Natgeo Wild SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29561
+#EXTINF:-1,BR: Nick FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29562
 #EXTINF:-1,BR: Nick HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3302
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29563
 #EXTINF:-1,BR: Nick JR FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24312
-#EXTINF:-1,BR: Nick Jr HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3303
-#EXTINF:-1,BR: Nick Jr SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3458
-#EXTINF:-1,BR: Nickelodeon SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3459
-#EXTINF:-1,BR: Off HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3527
-#EXTINF:-1,BR: Off SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3412
-#EXTINF:-1,BR: Paramount FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24313
-#EXTINF:-1,BR: Paramount HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3265
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29564
+#EXTINF:-1,BR: Nick JR HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29565
+#EXTINF:-1,BR: Nick JR SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29566
+#EXTINF:-1,BR: Nick SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29567
+#EXTINF:-1,BR: NSC TV Blumenau FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29568
+#EXTINF:-1,BR: NSC TV Blumenau SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29569
+#EXTINF:-1,BR: O Show do Ze Colmeia 24 Horas
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29570
+#EXTINF:-1,BR: OFF FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29571
+#EXTINF:-1,BR: OFF HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29572
+#EXTINF:-1,BR: OFF SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29573
+#EXTINF:-1,BR: Os Flintstones 24 Horas
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29574
+#EXTINF:-1,BR: OS SIMPSONS 24 HORAS
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29575
+#EXTINF:-1,BR: PADRE MARCELO ROSSI 24 HORAS
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29576
+#EXTINF:-1,BR: Padrinhos Mágicos 24 Horas
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29577
+#EXTINF:-1,BR: Paramount Channel FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29578
+#EXTINF:-1,BR: Paramount Channel HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29579
 #EXTINF:-1,BR: Paramount SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24268
-#EXTINF:-1,BR: Premier 1 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24163
-#EXTINF:-1,BR: Premier 1 HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24176
-#EXTINF:-1,BR: Premier 1 SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24174
-#EXTINF:-1,BR: Premier 2 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24164
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29580
+#EXTINF:-1,BR: Patrulha Canina 24 Horas
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29581
+#EXTINF:-1,BR: PEPPA PIG 24 HORAS
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29582
+#EXTINF:-1,BR: Pica Pau 24 Horas
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29583
+#EXTINF:-1,BR: Play Kids HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29584
+#EXTINF:-1,BR: Play TV FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29585
+#EXTINF:-1,BR: Play TV HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29586
+#EXTINF:-1,BR: Play TV SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29587
+#EXTINF:-1,BR: POCOYO 24 HORAS
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29588
+#EXTINF:-1,BR: POKEMOM MANICRAFT 24 HORAS
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29589
+#EXTINF:-1,BR: Premiere 2 FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29590
 #EXTINF:-1,BR: Premiere 2 HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3517
-#EXTINF:-1,BR: Premier 3 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24165
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29591
+#EXTINF:-1,BR: Premiere 2 SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29592
+#EXTINF:-1,BR: Premiere 3 FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29593
 #EXTINF:-1,BR: Premiere 3 HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3518
-#EXTINF:-1,BR: Premier 4 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24166
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29594
+#EXTINF:-1,BR: Premiere 3 SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29595
+#EXTINF:-1,BR: Premiere 4 FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29596
 #EXTINF:-1,BR: Premiere 4 HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3519
-#EXTINF:-1,BR: Premier 4 SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24172
-#EXTINF:-1,BR: Premier 5 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24168
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29597
+#EXTINF:-1,BR: Premiere 4 SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29598
+#EXTINF:-1,BR: Premiere 5 FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29599
 #EXTINF:-1,BR: Premiere 5 HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3520
-#EXTINF:-1,BR: Premier 6 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24169
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29600
+#EXTINF:-1,BR: Premiere 5 SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29601
+#EXTINF:-1,BR: Premiere 6 FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29602
 #EXTINF:-1,BR: Premiere 6 HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3521
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29603
+#EXTINF:-1,BR: Premiere 6 SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29604
+#EXTINF:-1,BR: Premiere 7 FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29605
 #EXTINF:-1,BR: Premiere 7 HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3522
-#EXTINF:-1,BR: Premier 7 SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24173
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29606
+#EXTINF:-1,BR: Premiere 7 SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29607
+#EXTINF:-1,BR: Premiere Clubes FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29608
 #EXTINF:-1,BR: Premiere Clubes HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3523
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29609
+#EXTINF:-1,BR: Premiere Clubes SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29610
+#EXTINF:-1,BR: Prime Box Brasil FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29611
+#EXTINF:-1,BR: Prime Box Brasil HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29612
 #EXTINF:-1,BR: Prime Box Brasil SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3479
-#EXTINF:-1,BR: Record Ba HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3504
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29613
+#EXTINF:-1,BR: Record BA HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29614
+#EXTINF:-1,BR: RECORD BELEM*
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29615
+#EXTINF:-1,BR: Record BH HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29616
+#EXTINF:-1,BR: Record DF HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29617
+#EXTINF:-1,BR: Record ES HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29618
 #EXTINF:-1,BR: Record FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24181
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29619
+#EXTINF:-1,BR: Record GO HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29620
 #EXTINF:-1,BR: Record HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24222
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29621
+#EXTINF:-1,BR: RECORD HD*
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29622
+#EXTINF:-1,BR: RECORD MINAS HD*
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29623
+#EXTINF:-1,BR: RECORD MINAS*
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29624
+#EXTINF:-1,BR: Record News FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29625
 #EXTINF:-1,BR: Record News HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3309
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29626
 #EXTINF:-1,BR: Record News SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3466
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29627
+#EXTINF:-1,BR: Record PA HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29628
 #EXTINF:-1,BR: Record RJ HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3507
-#EXTINF:-1,BR: Record RJ SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3398
-#EXTINF:-1,BR: Record RS SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3399
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29629
+#EXTINF:-1,BR: Record RS HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29630
+#EXTINF:-1,BR: RECORD RS*
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29631
 #EXTINF:-1,BR: Record SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3505
-#EXTINF:-1,BR: Record TV SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3400
-#EXTINF:-1,BR: Rede Brasil SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3344
-#EXTINF:-1,BR: Sbt FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24184
-#EXTINF:-1,BR: Sbt HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24223
-#EXTINF:-1,BR: Sbt SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24224
-#EXTINF:-1,BR: Sony Channel HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3266
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29632
+#EXTINF:-1,BR: Record SP HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29633
+#EXTINF:-1,BR: RECORD*
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29634
+#EXTINF:-1,BR: Rede Genisis FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29635
+#EXTINF:-1,BR: Rede Genisis SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29636
+#EXTINF:-1,BR: Rede Super FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29637
+#EXTINF:-1,BR: Rede Super SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29638
+#EXTINF:-1,BR: Rede TV FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29639
+#EXTINF:-1,BR: Rede TV HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29640
+#EXTINF:-1,BR: Rede TV SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29641
+#EXTINF:-1,BR: Rick and morty 24 Horas
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29642
+#EXTINF:-1,BR: SBT FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29643
+#EXTINF:-1,BR: SBT HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29644
+#EXTINF:-1,BR: SBT SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29645
+#EXTINF:-1,BR: Scooby Doo Cadê Você 24 Horas
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29646
+#EXTINF:-1,BR: Shoptime FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29647
+#EXTINF:-1,BR: Shoptime SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29648
+#EXTINF:-1,BR: Sony FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29649
 #EXTINF:-1,BR: Sony HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24284
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29650
 #EXTINF:-1,BR: Sony SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3432
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29651
+#EXTINF:-1,BR: South Park 24 Horas
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29652
 #EXTINF:-1,BR: Space FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/101900
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29653
 #EXTINF:-1,BR: Space HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3267
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29654
 #EXTINF:-1,BR: Space SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3433
-#EXTINF:-1,BR: SPorTV SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3411
-#EXTINF:-1,BR: SPorTV HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3526
-#EXTINF:-1,BR: Sportv 1 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24160
-#EXTINF:-1,BR: SPorTV 2 SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3409
-#EXTINF:-1,BR: SPorTV 2 HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3524
-#EXTINF:-1,BR: Sportv 2 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24161
-#EXTINF:-1,BR: SPorTV 3 SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3410
-#EXTINF:-1,BR: SPorTV 3 HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3525
-#EXTINF:-1,BR: Sportv 3 FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24162
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29655
+#EXTINF:-1,BR: SporTV 2 FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29656
+#EXTINF:-1,BR: SporTV 2 HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29657
+#EXTINF:-1,BR: Sportv 2 SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29658
+#EXTINF:-1,BR: SporTV 3 FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29659
+#EXTINF:-1,BR: SporTV 3 HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29660
+#EXTINF:-1,BR: SporTV 3 SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29661
+#EXTINF:-1,BR: SporTV FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29662
+#EXTINF:-1,BR: SporTV HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29663
+#EXTINF:-1,BR: SporTV SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29664
 #EXTINF:-1,BR: Studio Universal FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24237
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29665
 #EXTINF:-1,BR: Studio Universal HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3268
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29666
 #EXTINF:-1,BR: Studio Universal SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24261
-#EXTINF:-1,BR: SyFy FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24336
-#EXTINF:-1,BR: Syfy HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3269
-#EXTINF:-1,BR: Syfy SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3435
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29667
+#EXTINF:-1,BR: SYFY FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29668
+#EXTINF:-1,BR: SYFY HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29669
+#EXTINF:-1,BR: SYFY SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29670
 #EXTINF:-1,BR: TBS FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24337
-#EXTINF:-1,BR: Tbs HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3270
-#EXTINF:-1,BR: Tbs SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3436
-#EXTINF:-1,BR: Tcm HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3271
-#EXTINF:-1,BR: Tcm SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3437
-#EXTINF:-1,BR: Telecine Action FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24243
-#EXTINF:-1,BR: Telecine Action HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24276
-#EXTINF:-1,BR: Telecine Action SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3438
-#EXTINF:-1,BR: Telecine Cult FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24255
-#EXTINF:-1,BR: Telecine Cult HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24288
-#EXTINF:-1,BR: Telecine Cult SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3439
-#EXTINF:-1,BR: Telecine Fun FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24242
-#EXTINF:-1,BR: Telecine Fun HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3274
-#EXTINF:-1,BR: Telecine Fun SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3440
-#EXTINF:-1,BR: Telecine Pipoca  FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24241
-#EXTINF:-1,BR: Telecine Pipoca HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3275
-#EXTINF:-1,BR: Telecine Pipoca HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24278
-#EXTINF:-1,BR: Telecine Premium FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24240
-#EXTINF:-1,BR: Telecine Premium HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24279
-#EXTINF:-1,BR: Telecine Premium SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3441
-#EXTINF:-1,BR: Telecine Touch FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24239
-#EXTINF:-1,BR: Telecine Touch SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3442
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29671
+#EXTINF:-1,BR: TBS HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29672
+#EXTINF:-1,BR: TBS SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29673
+#EXTINF:-1,BR: TC ACTION FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29674
+#EXTINF:-1,BR: TC Action HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29675
+#EXTINF:-1,BR: TC Action SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29676
+#EXTINF:-1,BR: TC Cult FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29677
+#EXTINF:-1,BR: TC Cult HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29678
+#EXTINF:-1,BR: TC Cult SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29679
+#EXTINF:-1,BR: TC Fun FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29680
+#EXTINF:-1,BR: TC Fun HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29681
+#EXTINF:-1,BR: Tc Fun SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29682
+#EXTINF:-1,BR: TC Pipoca FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29683
+#EXTINF:-1,BR: TC Pipoca HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29684
+#EXTINF:-1,BR: TC Pipoca SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29685
+#EXTINF:-1,BR: TC Premium FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29686
+#EXTINF:-1,BR: TC Premium HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29687
+#EXTINF:-1,BR: TC Premium SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29688
+#EXTINF:-1,BR: TC Touch FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29689
+#EXTINF:-1,BR: TC Touch HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29690
+#EXTINF:-1,BR: TC Touch SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29691
+#EXTINF:-1,BR: TCM FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29692
+#EXTINF:-1,BR: TCM HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29693
+#EXTINF:-1,BR: TCM SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29694
+#EXTINF:-1,BR: THE BING BANG THEORY 24 HORAS
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29695
+#EXTINF:-1,BR: The History FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29696
+#EXTINF:-1,BR: The History HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29697
+#EXTINF:-1,BR: The History SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29698
+#EXTINF:-1,BR: The Walking Dead 24 Horas
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29699
+#EXTINF:-1,BR: TLC FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29700
 #EXTINF:-1,BR: TLC HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3319
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29701
 #EXTINF:-1,BR: TLC SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3480
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29702
 #EXTINF:-1,BR: TNT FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24252
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29703
+#EXTINF:-1,BR: TNT HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29704
 #EXTINF:-1,BR: TNT SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3443
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29705
 #EXTINF:-1,BR: TNT Series FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24238
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29706
 #EXTINF:-1,BR: TNT Series HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3279
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29707
 #EXTINF:-1,BR: TNT Series SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3444
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29708
+#EXTINF:-1,BR: Todo Mundo Odeia o Chris 24 Horas
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29709
 #EXTINF:-1,BR: Tooncast FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3305
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29710
 #EXTINF:-1,BR: Tooncast HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24325
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29711
 #EXTINF:-1,BR: Tooncast SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24319
-#EXTINF:-1,BR: TV Eparana (Cultura Pr)
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3364
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29712
+#EXTINF:-1,BR: Trolls 24 Horas
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29713
+#EXTINF:-1,BR: Tru TV FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29714
+#EXTINF:-1,BR: Tru TV HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29715
+#EXTINF:-1,BR: Tru TV SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29716
+#EXTINF:-1,BR: Tv Diario FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29717
+#EXTINF:-1,BR: Tv Diario HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29718
+#EXTINF:-1,BR: Tv Diario SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29719
+#EXTINF:-1,BR: TV Gazeta Alagoas FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29720
+#EXTINF:-1,BR: TV Gazeta Alagoas SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29721
 #EXTINF:-1,BR: TV Gazeta FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24299
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29722
+#EXTINF:-1,BR: TV Gazeta SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29723
+#EXTINF:-1,BR: TV Gazeta Sul SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29724
+#EXTINF:-1,BR: TV Ra Tim Bum FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29725
 #EXTINF:-1,BR: TV Ra Tim Bum HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3304
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29726
 #EXTINF:-1,BR: TV Ra Tim Bum SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3460
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29727
+#EXTINF:-1,BR: TV Rio Sul SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29728
+#EXTINF:-1,BR: TV Santa Cruz FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29729
+#EXTINF:-1,BR: TV Santa Cruz SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29730
+#EXTINF:-1,BR: TV Sergipe FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29731
+#EXTINF:-1,BR: TV Sergipe SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29732
+#EXTINF:-1,BR: TV Tem Bauru FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29733
+#EXTINF:-1,BR: TV Tem Bauru HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29734
+#EXTINF:-1,BR: TV5****
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29735
+#EXTINF:-1,BR: Uma família da pesada 24 Horas
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29736
 #EXTINF:-1,BR: Universal Channel FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24256
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29737
 #EXTINF:-1,BR: Universal Channel HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3280
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29738
 #EXTINF:-1,BR: Universal Channel SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3445
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29739
+#EXTINF:-1,BR: VH1 Mega Hits FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29740
+#EXTINF:-1,BR: VH1 Mega Hits HD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29741
+#EXTINF:-1,BR: VH1 Mega Hits SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29742
+#EXTINF:-1,BR: Vikings 24 Horas
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29743
 #EXTINF:-1,BR: Viva FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24343
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29744
 #EXTINF:-1,BR: Viva HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3320
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29745
 #EXTINF:-1,BR: Viva SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3483
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29746
 #EXTINF:-1,BR: Warner Channel FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/24236
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29747
 #EXTINF:-1,BR: Warner Channel HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3281
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29748
 #EXTINF:-1,BR: Warner Channel SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3446
-#EXTINF:-1,BR: Woohoo SD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/3413
-#EXTINF:-1,BR: Globo TV Centro America HD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/101897
-#EXTINF:-1,BR: Globo TV Centro America FHD
-http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/101898
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29749
+#EXTINF:-1,BR: Wohoo FHD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29750
+#EXTINF:-1,BR: Wohoo SD
+http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29751
