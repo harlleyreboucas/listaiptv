@@ -69,4 +69,8 @@ https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8
 #EXTINF:-1, CULTURA
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
+#EXTINF:-1, HISTORY
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/history.m3u8?mu3zAQc9HC3GbwJq=E63K8TMhw7sDB_JPW9x1uQ&3U1G7qaTxrPbalZnEx=1613333517
+#EXTINF:-1, DISCOVERY
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/discovery.m3u8?mu3zAQc9HC3GbwJq=d_udAEmn46wbptfuv2v3Ug&3U1G7qaTxrPbalZnEx=1613333608
 
