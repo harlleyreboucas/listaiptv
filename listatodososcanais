@@ -29,6 +29,8 @@ https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/esportes2_2000/index
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes22/esportes22_2000/index.m3u8
 #EXTINF:-1, PREMIERE 2 SD
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes2/playlist.m3u8
+#EXTINF:-1, PREMIERE 2 SD
+https://qqgy2btbq626ry2e.ezcdn462.net:8443/hls/4szb27ruet2uk.m3u8?s=crT1dP8VLuavwsDkq9rXoA&e=1613350239
 #EXTINF:-1, PREMIERE 3
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/playlist.m3u8
 #EXTINF:-1, PREMIERE 3 FHD
