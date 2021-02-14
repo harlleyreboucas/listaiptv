@@ -1,99 +1,161 @@
 #EXTM3U
-#PLAYLIST:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV
-http://mags.vip:2086/live/miriam/miriam123/92645.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV 1
-http://mags.vip:2086/live/miriam/miriam123/92731.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV 2
-http://mags.vip:2086/live/miriam/miriam123/92647.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV 2 FHD
-http://raostvip.com:8080/semi16/1609.sem/117813?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SPORTV 3
-http://mags.vip:2086/live/miriam/miriam123/92646.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SporTV 2 (720)(M)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/9411?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SporTV 2 FHD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29656?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SporTV 2 HD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29657?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SporTV 3 (720)(M)
-http://tv.masterplaytv.xyz:8000/mv38Y9TW8b/XHHpMhvLCK/9412?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",SporTV 3 FHD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29659?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere Clubes FHD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29608?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere Clubes SD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29610?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 2
-http://mags.vip:2086/live/miriam/miriam123/92660.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 3
-http://mags.vip:2086/live/miriam/miriam123/92659.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 4
-http://mags.vip:2086/live/miriam/miriam123/92658.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 5
-http://mags.vip:2086/live/miriam/miriam123/92657.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",PREMIERE 5 HD
-http://raostvip.com:8080/semi16/1609.sem/117771?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 2 FHD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29590?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 2 HD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29591?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 3 HD
-http://raostvip.com:8080/semi16/1609.sem/117769?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 3 SD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29595?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 4 FHD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29596?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 4 HD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29597?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 4 SD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29598?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 5 FHD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29599?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 5 HD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29600?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 5 SD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29601?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 6 HD
-http://raostvip.com:8080/semi16/1609.sem/117772?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 6 HD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29603?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 7 FHD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29605?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Premiere 7 HD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29606?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FOX SPORTS 1
-http://mags.vip:2086/live/miriam/miriam123/92696.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FOX SPORTS 2
-http://mags.vip:2086/live/miriam/miriam123/92695.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Fox Sports SD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29406?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN
-http://mags.vip:2086/live/miriam/miriam123/92702.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2
-http://mags.vip:2086/live/miriam/miriam123/92736.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2 FHD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29362?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2 HD
-http://plustlc.com:8080/live/huseyin61/24.10.2020/126437.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2 HD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29363?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2 SD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29364?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN Brasil FHD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29365?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN BRASIL
-http://mags.vip:2086/live/miriam/miriam123/92701.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN Brasil SD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29367?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN Brasil Sport
-http://attacktv.ddns.net:2052/12345/54321/55271?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN Extra FHD
-http://plustlc.com:8080/live/huseyin61/24.10.2020/126441.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN Extra FHD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29368?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN Extra HD
-http://megatrade.ddns.net:80/8795449375/Jdbaj726283hshsjsb/29369?checkedby:hlscat.com
+#EXTM3U
+#EXTINF:-1,BR: TV Brasil
+http://attacktv.ddns.net:2052/12345/54321/55283
+#EXTINF:-1,BR: Canal Brasil
+http://attacktv.ddns.net:2052/12345/54321/55281
+#EXTINF:-1,BR: Globo SP
+http://attacktv.ddns.net:2052/12345/54321/55280
+#EXTINF:-1,BR: Band
+http://attacktv.ddns.net:2052/12345/54321/55279
+#EXTINF:-1,BR: Boomerang
+http://attacktv.ddns.net:2052/12345/54321/55278
+#EXTINF:-1,BR: Combate
+http://attacktv.ddns.net:2052/12345/54321/55277
+#EXTINF:-1,BR: Discovery Channel
+http://attacktv.ddns.net:2052/12345/54321/55276
+#EXTINF:-1,BR: Discovery Civilization
+http://attacktv.ddns.net:2052/12345/54321/55275
+#EXTINF:-1,BR: Discovery H&H
+http://attacktv.ddns.net:2052/12345/54321/55274
+#EXTINF:-1,BR: Discovery Science
+http://attacktv.ddns.net:2052/12345/54321/55273
+#EXTINF:-1,BR: Discovery Turbo
+http://attacktv.ddns.net:2052/12345/54321/55272
+#EXTINF:-1,BR: ESPN Brasil Sport
+http://attacktv.ddns.net:2052/12345/54321/55271
+#EXTINF:-1,BR: FOX
+http://attacktv.ddns.net:2052/12345/54321/55270
+#EXTINF:-1,BR: Fox Sports 2
+http://attacktv.ddns.net:2052/12345/54321/55269
+#EXTINF:-1,BR: Fox Sports
+http://attacktv.ddns.net:2052/12345/54321/55268
+#EXTINF:-1,BR: SporTV
+http://attacktv.ddns.net:2052/12345/54321/55267
+#EXTINF:-1,BR: SporTV 2
+http://attacktv.ddns.net:2052/12345/54321/55266
+#EXTINF:-1,BR: SporTV 3
+http://attacktv.ddns.net:2052/12345/54321/55265
+#EXTINF:-1,BR: Premiere 1 HD
+http://attacktv.ddns.net:2052/12345/54321/55264
+#EXTINF:-1,BR: PREMIERE CLUBES HD
+http://attacktv.ddns.net:2052/12345/54321/55263
+#EXTINF:-1,BR: Fish TV
+http://attacktv.ddns.net:2052/12345/54321/55262
+#EXTINF:-1,BR: The History Channel
+http://attacktv.ddns.net:2052/12345/54321/55261
+#EXTINF:-1,BR: National Geographic
+http://attacktv.ddns.net:2052/12345/54321/55260
+#EXTINF:-1,BR: Nickelodeon
+http://attacktv.ddns.net:2052/12345/54321/55259
+#EXTINF:-1,BR: Nick Jr
+http://attacktv.ddns.net:2052/12345/54321/55258
+#EXTINF:-1,BR: Tooncast
+http://attacktv.ddns.net:2052/12345/54321/55257
+#EXTINF:-1,BR: Universal Channel
+http://attacktv.ddns.net:2052/12345/54321/55256
+#EXTINF:-1,BR: A&E
+http://attacktv.ddns.net:2052/12345/54321/55255
+#EXTINF:-1,BR: AXN
+http://attacktv.ddns.net:2052/12345/54321/55254
+#EXTINF:-1,BR: Band News
+http://attacktv.ddns.net:2052/12345/54321/55253
+#EXTINF:-1,BR: Band Sports
+http://attacktv.ddns.net:2052/12345/54321/55252
+#EXTINF:-1,BR: Disney Channel
+http://attacktv.ddns.net:2052/12345/54321/55251
+#EXTINF:-1,BR: Disney Junior
+http://attacktv.ddns.net:2052/12345/54321/55250
+#EXTINF:-1,BR: Fox Life
+http://attacktv.ddns.net:2052/12345/54321/55249
+#EXTINF:-1,BR: HBO
+http://attacktv.ddns.net:2052/12345/54321/55248
+#EXTINF:-1,BR: HBO 2
+http://attacktv.ddns.net:2052/12345/54321/55247
+#EXTINF:-1,BR: HBO Family
+http://attacktv.ddns.net:2052/12345/54321/55246
+#EXTINF:-1,BR: HBO Plus
+http://attacktv.ddns.net:2052/12345/54321/55245
+#EXTINF:-1,BR: HBO Signature
+http://attacktv.ddns.net:2052/12345/54321/55244
+#EXTINF:-1,BR: Telecine Fun
+http://attacktv.ddns.net:2052/12345/54321/55243
+#EXTINF:-1,BR: FX
+http://attacktv.ddns.net:2052/12345/54321/55242
+#EXTINF:-1,BR: H2
+http://attacktv.ddns.net:2052/12345/54321/55241
+#EXTINF:-1,BR: Record News
+http://attacktv.ddns.net:2052/12345/54321/55240
+#EXTINF:-1,BR: TCM
+http://attacktv.ddns.net:2052/12345/54321/55239
+#EXTINF:-1,BR: TNT
+http://attacktv.ddns.net:2052/12345/54321/55238
+#EXTINF:-1,BR: Mais Globosat
+http://attacktv.ddns.net:2052/12345/54321/55237
+#EXTINF:-1,BR: Arte 1
+http://attacktv.ddns.net:2052/12345/54321/55236
+#EXTINF:-1,BR: Gloob
+http://attacktv.ddns.net:2052/12345/54321/55235
+#EXTINF:-1,BR: MegaPix
+http://attacktv.ddns.net:2052/12345/54321/55234
+#EXTINF:-1,BR: Syfy
+http://attacktv.ddns.net:2052/12345/54321/55233
+#EXTINF:-1,BR: Woohoo Brasil
+http://attacktv.ddns.net:2052/12345/54321/55232
+#EXTINF:-1,BR: Canal Sony
+http://attacktv.ddns.net:2052/12345/54321/55231
+#EXTINF:-1,BR: Discovery Kids
+http://attacktv.ddns.net:2052/12345/54321/55230
+#EXTINF:-1,BR: E!
+http://attacktv.ddns.net:2052/12345/54321/55229
+#EXTINF:-1,BR: Globo News
+http://attacktv.ddns.net:2052/12345/54321/55228
+#EXTINF:-1,BR: Investiga??o Discovery
+http://attacktv.ddns.net:2052/12345/54321/55227
+#EXTINF:-1,BR: PFC
+http://attacktv.ddns.net:2052/12345/54321/55226
+#EXTINF:-1,BR: Studio Universal
+http://attacktv.ddns.net:2052/12345/54321/55225
+#EXTINF:-1,BR: Telecine Pipoca
+http://attacktv.ddns.net:2052/12345/54321/55224
+#EXTINF:-1,BR: ESPN 2 FHD
+http://attacktv.ddns.net:2052/12345/54321/55223
+#EXTINF:-1,BR: ESPN EXTRA HD
+http://attacktv.ddns.net:2052/12345/54321/55222
+#EXTINF:-1,BR: Globo RJ HD
+http://attacktv.ddns.net:2052/12345/54321/55221
+#EXTINF:-1,BR: ESPN HD
+http://attacktv.ddns.net:2052/12345/54321/55220
+#EXTINF:-1,BR: DAZN 1 HD
+http://attacktv.ddns.net:2052/12345/54321/55219
+#EXTINF:-1,BR: DAZN 2 HD
+http://attacktv.ddns.net:2052/12345/54321/55218
+#EXTINF:-1,BR: DAZN 3 HD
+http://attacktv.ddns.net:2052/12345/54321/55217
+#EXTINF:-1,BR: DAZN 4 HD
+http://attacktv.ddns.net:2052/12345/54321/55216
+#EXTINF:-1,BR: CULTURA HD
+http://attacktv.ddns.net:2052/12345/54321/55215
+#EXTINF:-1,BR: FOX PREMIUM 1 HD
+http://attacktv.ddns.net:2052/12345/54321/55214
+#EXTINF:-1,BR: FOX PREMIUM 2 HD
+http://attacktv.ddns.net:2052/12345/54321/55213
+#EXTINF:-1,BR: Max
+http://attacktv.ddns.net:2052/12345/54321/30129
+#EXTINF:-1,BR: Max Up
+http://attacktv.ddns.net:2052/12345/54321/30130
+#EXTINF:-1,BR: Max Prime
+http://attacktv.ddns.net:2052/12345/54321/30131
+#EXTINF:-1,BR: Telecine Cult
+http://attacktv.ddns.net:2052/12345/54321/30133
+#EXTINF:-1,BR: Telecine Premium
+http://attacktv.ddns.net:2052/12345/54321/30134
+#EXTINF:-1,BR: Telecine Touch
+http://attacktv.ddns.net:2052/12345/54321/30135
+#EXTINF:-1,BR: Animal Planet
+http://attacktv.ddns.net:2052/12345/54321/30136
+#EXTINF:-1,BR: Disney XD
+http://attacktv.ddns.net:2052/12345/54321/30138
 #EXTINF:-1,ARG-26TV
 http://181.177.229.10:20000/play/a0my/index.m3u8
 #EXTINF:-1,ARG-A24HD
