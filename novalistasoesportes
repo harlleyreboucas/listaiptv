@@ -4,10 +4,63 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/playlist.m3u8
 #EXTINF:-1, SPORTV 1 FHD
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
 #EXTINF:-1, SPORTV 1 4k
-https://cdn.esporteone.com/SPORTV2SD/video.m3u8
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/playlist.m3u8
 #EXTINF:-1, SPORTV 2
 https://qqgy2btbq626ry2e.ezcdn462.net:8443/hls/rn2gk0wpq.m3u8?s=bgDEcFiOe882oRDAqZHp5w&e=1613298607
 #EXTINF:-1, SPORTV 3
 https://qqgy2btbq626ry2e.ezcdn462.net:8443/hls/kapktvfq06p84x.m3u8?s=RJoJrXeurXwkTpn66iwa5w&e=1613298637
 #EXTINF:-1, COMBATE
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index.m3u8
+#EXTINF:-1, PREMIERE 1
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
+#EXTINF:-1, PREMIERE 1 FHD
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
+#EXTINF:-1, PREMIERE 2
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes2/playlist.m3u8
+#EXTINF:-1, PREMIERE 2 FHD
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/esportes2_2000/index.m3u8
+#EXTINF:-1, PREMIERE 3
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/playlist.m3u8
+#EXTINF:-1, PREMIERE 3 FHD
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/esportes3_2000/index.m3u8
+#EXTINF:-1, PREMIERE 4 
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes4/playlist.m3u8
+#EXTINF:-1, PREMIERE 4 FHD
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes4/esportes4_2000/index.m3u8
+#EXTINF:-1, PREMIERE 5 
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes5/playlist.m3u8
+#EXTINF:-1, PREMIERE 5 FDH
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes5/esportes5_2000/index.m3u8
+#EXTINF:-1, TNT SPORTS
+https://abr-f.eu-central-1.edge.mycdn.live/eiplus/canal-01/playlist.m3u8
+#EXTINF:-1, TNT SPORTS HD
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/vintequatrohrs4_2000/index.m3u8
+#EXTINF:-1, FOX SPORTS 
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/playlist.m3u8
+#EXTINF:-1, FOX SPORTS HD
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8
+#EXTINF:-1, FOX SPORTS 2 
+https://abr-f.eu-central-1.edge.mycdn.live/eiplus/80ff5d21edfccbd012c4ac113f5a4f90/playlist.m3u8
+#EXTINF:-1, ESPN
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/master.m3u8
+#EXTINF:-1, ESPN HD
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, ESPN 2  
+https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/master.m3u8
+#EXTINF:-1, ESPN BRASIL
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_480_av-p.m3u8
+#EXTINF:-1, ESPN BRASIL HD
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/playlist.m3u8
+#EXTINF:-1, ESPN BRASIL FHD
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8
+#EXTINF:-1, DAZN
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes4/playlist.m3u8
+#EXTINF:-1, DAZN HD
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes4/esportes4_2000/index.m3u8
+#EXTINF:-1, RECORDTV SP HD
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+#EXTINF:-1, RECORDTV RJ HD
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8
+#EXTINF:-1, RECORDTV SP SD
+https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_480_av-p.m3u8
+
