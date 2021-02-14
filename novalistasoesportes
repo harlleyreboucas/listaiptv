@@ -6,9 +6,7 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs
 #EXTINF:-1, SPORTV 1 4k
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/playlist.m3u8
 #EXTINF:-1, SPORTV 2
-https://qqgy2btbq626ry2e.ezcdn462.net:8443/hls/rn2gk0wpq.m3u8?s=bgDEcFiOe882oRDAqZHp5w&e=1613298607
-#EXTINF:-1, SPORTV 3
-https://qqgy2btbq626ry2e.ezcdn462.net:8443/hls/kapktvfq06p84x.m3u8?s=RJoJrXeurXwkTpn66iwa5w&e=1613298637
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/sportv2.m3u8?mu3zAQc9HC3GbwJq=sdzyAjM5bVKG3Wo6JCjJyQ&3U1G7qaTxrPbalZnEx=1613332523
 #EXTINF:-1, COMBATE
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index.m3u8
 #EXTINF:-1, PREMIERE 1
@@ -63,4 +61,10 @@ https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8
 #EXTINF:-1, RECORDTV SP SD
 https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_480_av-p.m3u8
+#EXTINF:-1, SBT
+https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
+#EXTINF:-1, REDETV
+https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8
+#EXTINF:-1, CULTURA
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 
