@@ -1,93 +1,157 @@
 #EXTM3U
-#EXTINF:-1, GLOBO RJ HD
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/playlist.m3u8
-#EXTINF:-1, SPORTV 1 FHD
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/sportv1.m3u8?mu3zAQc9HC3GbwJq=rbrXuAr-ekQjRMuYp_xntw&3U1G7qaTxrPbalZnEx=1613340360
-#EXTINF:-1, SPORTV 1 HD
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/playlist.m3u8
-#EXTINF:-1, SPORTV 1 FHD
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
-#EXTINF:-1, SPORTV 2
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/sportv2.m3u8?mu3zAQc9HC3GbwJq=sdzyAjM5bVKG3Wo6JCjJyQ&3U1G7qaTxrPbalZnEx=1613332523
-#EXTINF:-1, COMBATE
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes1/esportes1_2000/index.m3u8
-#EXTINF:-1, COMBATE HD
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/combate.m3u8?mu3zAQc9HC3GbwJq=cEWX1whBDwD7dxM2ghkMsQ&3U1G7qaTxrPbalZnEx=1613333313
-#EXTINF:-1, PREMIERE 1
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/premiereclubes.m3u8?mu3zAQc9HC3GbwJq=XY0hLtI6OKWkuDvtnHfYhA&3U1G7qaTxrPbalZnEx=1613334450
-#EXTINF:-1, PREMIERE 1
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
-#EXTINF:-1, PREMIERE 1 FHD
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
-#EXTINF:-1, PREMIERE 1 4k
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/premiereclubes.m3u8?mu3zAQc9HC3GbwJq=XY0hLtI6OKWkuDvtnHfYhA&3U1G7qaTxrPbalZnEx=1613334450
-#EXTINF:-1, PREMIERE 2 4k
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes22/esportes22_2000/index.m3u8
-#EXTINF:-1, PREMIERE 2 HD
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes22/playlist.m3u8
-#EXTINF:-1, PREMIERE 2 FHD
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/esportes2_2000/index.m3u8
-#EXTINF:-1, PREMIERE 2 SD
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes2/playlist.m3u8
-#EXTINF:-1, PREMIERE 2 SD
-https://qqgy2btbq626ry2e.ezcdn462.net:8443/hls/4szb27ruet2uk.m3u8?s=crT1dP8VLuavwsDkq9rXoA&e=1613350239
-#EXTINF:-1, PREMIERE 3
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/playlist.m3u8
-#EXTINF:-1, PREMIERE 3 FHD
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/esportes3_2000/index.m3u8
-#EXTINF:-1, PREMIERE 4 
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes4/playlist.m3u8
-#EXTINF:-1, PREMIERE 4 FHD
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes4/esportes4_2000/index.m3u8
-#EXTINF:-1, PREMIERE 5 
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes5/playlist.m3u8
-#EXTINF:-1, PREMIERE 5 FDH
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes5/esportes5_2000/index.m3u8
-#EXTINF:-1, TNT SPORTS
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/playlist.m3u8
-#EXTINF:-1, TNT SPORTS HD
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/vintequatrohrs4_2000/index.m3u8
-#EXTINF:-1, FOX SPORTS 
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/playlist.m3u8
-#EXTINF:-1, FOX SPORTS HD
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8
-#EXTINF:-1, FOX SPORTS 2 
-https://abr-f.eu-central-1.edge.mycdn.live/eiplus/80ff5d21edfccbd012c4ac113f5a4f90/playlist.m3u8
-#EXTINF:-1, ESPN
-https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/master.m3u8
-#EXTINF:-1, ESPN HD
-https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1, ESPN 2  
-https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/master.m3u8
-#EXTINF:-1, ESPN BRASIL
-https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_480_av-p.m3u8
-#EXTINF:-1, ESPN BRASIL HD
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/playlist.m3u8
-#EXTINF:-1, ESPN BRASIL FHD
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/vintequatrohrs5_2000/index.m3u8
-#EXTINF:-1, DAZN
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes4/playlist.m3u8
-#EXTINF:-1, DAZN HD
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes4/esportes4_2000/index.m3u8
-#EXTINF:-1, RECORDTV SP HD
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
-#EXTINF:-1, RECORDTV RJ HD
-https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8
-#EXTINF:-1, RECORDTV SP SD
-https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_480_av-p.m3u8
-#EXTINF:-1, RECORDTV MANAUS HD
-https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/index_720_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1, SBT
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/sbt.m3u8?mu3zAQc9HC3GbwJq=FBWSyKUJJ_wjgteDiIzklg&3U1G7qaTxrPbalZnEx=1613334543
-#EXTINF:-1, SBT SD
-http://wz4.dnip.com.br:1935/bemtv/bemtv.sdp/live.m3u8
-#EXTINF:-1, REDETV
-https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8
-#EXTINF:-1, CULTURA
-https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
-#EXTINF:-1, HISTORY
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/history.m3u8?mu3zAQc9HC3GbwJq=E63K8TMhw7sDB_JPW9x1uQ&3U1G7qaTxrPbalZnEx=1613333517
-#EXTINF:-1, DISCOVERY
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/discovery.m3u8?mu3zAQc9HC3GbwJq=d_udAEmn46wbptfuv2v3Ug&3U1G7qaTxrPbalZnEx=1613333608
-#EXTINF:-1, CNN BRASIL
-https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+#EXTINF:-1,BR: TV Brasil
+http://attacktv.ddns.net:2052/12345/54321/55283
+#EXTINF:-1,BR: Canal Brasil
+http://attacktv.ddns.net:2052/12345/54321/55281
+#EXTINF:-1,BR: Globo SP
+http://attacktv.ddns.net:2052/12345/54321/55280
+#EXTINF:-1,BR: Band
+http://attacktv.ddns.net:2052/12345/54321/55279
+#EXTINF:-1,BR: Boomerang
+http://attacktv.ddns.net:2052/12345/54321/55278
+#EXTINF:-1,BR: Combate
+http://attacktv.ddns.net:2052/12345/54321/55277
+#EXTINF:-1,BR: Discovery Channel
+http://attacktv.ddns.net:2052/12345/54321/55276
+#EXTINF:-1,BR: Discovery Civilization
+http://attacktv.ddns.net:2052/12345/54321/55275
+#EXTINF:-1,BR: Discovery H&H
+http://attacktv.ddns.net:2052/12345/54321/55274
+#EXTINF:-1,BR: Discovery Science
+http://attacktv.ddns.net:2052/12345/54321/55273
+#EXTINF:-1,BR: Discovery Turbo
+http://attacktv.ddns.net:2052/12345/54321/55272
+#EXTINF:-1,BR: ESPN Brasil Sport
+http://attacktv.ddns.net:2052/12345/54321/55271
+#EXTINF:-1,BR: FOX
+http://attacktv.ddns.net:2052/12345/54321/55270
+#EXTINF:-1,BR: Fox Sports 2
+http://attacktv.ddns.net:2052/12345/54321/55269
+#EXTINF:-1,BR: Fox Sports
+http://attacktv.ddns.net:2052/12345/54321/55268
+#EXTINF:-1,BR: SporTV
+http://attacktv.ddns.net:2052/12345/54321/55267
+#EXTINF:-1,BR: SporTV 2
+http://attacktv.ddns.net:2052/12345/54321/55266
+#EXTINF:-1,BR: SporTV 3
+http://attacktv.ddns.net:2052/12345/54321/55265
+#EXTINF:-1,BR: Premiere 1 HD
+http://attacktv.ddns.net:2052/12345/54321/55264
+#EXTINF:-1,BR: PREMIERE CLUBES HD
+http://attacktv.ddns.net:2052/12345/54321/55263
+#EXTINF:-1,BR: Fish TV
+http://attacktv.ddns.net:2052/12345/54321/55262
+#EXTINF:-1,BR: The History Channel
+http://attacktv.ddns.net:2052/12345/54321/55261
+#EXTINF:-1,BR: National Geographic
+http://attacktv.ddns.net:2052/12345/54321/55260
+#EXTINF:-1,BR: Nickelodeon
+http://attacktv.ddns.net:2052/12345/54321/55259
+#EXTINF:-1,BR: Nick Jr
+http://attacktv.ddns.net:2052/12345/54321/55258
+#EXTINF:-1,BR: Tooncast
+http://attacktv.ddns.net:2052/12345/54321/55257
+#EXTINF:-1,BR: Universal Channel
+http://attacktv.ddns.net:2052/12345/54321/55256
+#EXTINF:-1,BR: A&E
+http://attacktv.ddns.net:2052/12345/54321/55255
+#EXTINF:-1,BR: AXN
+http://attacktv.ddns.net:2052/12345/54321/55254
+#EXTINF:-1,BR: Band News
+http://attacktv.ddns.net:2052/12345/54321/55253
+#EXTINF:-1,BR: Band Sports
+http://attacktv.ddns.net:2052/12345/54321/55252
+#EXTINF:-1,BR: Disney Channel
+http://attacktv.ddns.net:2052/12345/54321/55251
+#EXTINF:-1,BR: Disney Junior
+http://attacktv.ddns.net:2052/12345/54321/55250
+#EXTINF:-1,BR: Fox Life
+http://attacktv.ddns.net:2052/12345/54321/55249
+#EXTINF:-1,BR: HBO
+http://attacktv.ddns.net:2052/12345/54321/55248
+#EXTINF:-1,BR: HBO 2
+http://attacktv.ddns.net:2052/12345/54321/55247
+#EXTINF:-1,BR: HBO Family
+http://attacktv.ddns.net:2052/12345/54321/55246
+#EXTINF:-1,BR: HBO Plus
+http://attacktv.ddns.net:2052/12345/54321/55245
+#EXTINF:-1,BR: HBO Signature
+http://attacktv.ddns.net:2052/12345/54321/55244
+#EXTINF:-1,BR: Telecine Fun
+http://attacktv.ddns.net:2052/12345/54321/55243
+#EXTINF:-1,BR: FX
+http://attacktv.ddns.net:2052/12345/54321/55242
+#EXTINF:-1,BR: H2
+http://attacktv.ddns.net:2052/12345/54321/55241
+#EXTINF:-1,BR: Record News
+http://attacktv.ddns.net:2052/12345/54321/55240
+#EXTINF:-1,BR: TCM
+http://attacktv.ddns.net:2052/12345/54321/55239
+#EXTINF:-1,BR: TNT
+http://attacktv.ddns.net:2052/12345/54321/55238
+#EXTINF:-1,BR: Mais Globosat
+http://attacktv.ddns.net:2052/12345/54321/55237
+#EXTINF:-1,BR: Arte 1
+http://attacktv.ddns.net:2052/12345/54321/55236
+#EXTINF:-1,BR: Gloob
+http://attacktv.ddns.net:2052/12345/54321/55235
+#EXTINF:-1,BR: MegaPix
+http://attacktv.ddns.net:2052/12345/54321/55234
+#EXTINF:-1,BR: Syfy
+http://attacktv.ddns.net:2052/12345/54321/55233
+#EXTINF:-1,BR: Woohoo Brasil
+http://attacktv.ddns.net:2052/12345/54321/55232
+#EXTINF:-1,BR: Canal Sony
+http://attacktv.ddns.net:2052/12345/54321/55231
+#EXTINF:-1,BR: Discovery Kids
+http://attacktv.ddns.net:2052/12345/54321/55230
+#EXTINF:-1,BR: E!
+http://attacktv.ddns.net:2052/12345/54321/55229
+#EXTINF:-1,BR: Globo News
+http://attacktv.ddns.net:2052/12345/54321/55228
+#EXTINF:-1,BR: Investiga??o Discovery
+http://attacktv.ddns.net:2052/12345/54321/55227
+#EXTINF:-1,BR: PFC
+http://attacktv.ddns.net:2052/12345/54321/55226
+#EXTINF:-1,BR: Studio Universal
+http://attacktv.ddns.net:2052/12345/54321/55225
+#EXTINF:-1,BR: Telecine Pipoca
+http://attacktv.ddns.net:2052/12345/54321/55224
+#EXTINF:-1,BR: ESPN 2 FHD
+http://attacktv.ddns.net:2052/12345/54321/55223
+#EXTINF:-1,BR: ESPN EXTRA HD
+http://attacktv.ddns.net:2052/12345/54321/55222
+#EXTINF:-1,BR: Globo RJ HD
+http://attacktv.ddns.net:2052/12345/54321/55221
+#EXTINF:-1,BR: ESPN HD
+http://attacktv.ddns.net:2052/12345/54321/55220
+#EXTINF:-1,BR: DAZN 1 HD
+http://attacktv.ddns.net:2052/12345/54321/55219
+#EXTINF:-1,BR: DAZN 2 HD
+http://attacktv.ddns.net:2052/12345/54321/55218
+#EXTINF:-1,BR: DAZN 3 HD
+http://attacktv.ddns.net:2052/12345/54321/55217
+#EXTINF:-1,BR: DAZN 4 HD
+http://attacktv.ddns.net:2052/12345/54321/55216
+#EXTINF:-1,BR: CULTURA HD
+http://attacktv.ddns.net:2052/12345/54321/55215
+#EXTINF:-1,BR: FOX PREMIUM 1 HD
+http://attacktv.ddns.net:2052/12345/54321/55214
+#EXTINF:-1,BR: FOX PREMIUM 2 HD
+http://attacktv.ddns.net:2052/12345/54321/55213
+#EXTINF:-1,BR: Max
+http://attacktv.ddns.net:2052/12345/54321/30129
+#EXTINF:-1,BR: Max Up
+http://attacktv.ddns.net:2052/12345/54321/30130
+#EXTINF:-1,BR: Max Prime
+http://attacktv.ddns.net:2052/12345/54321/30131
+#EXTINF:-1,BR: Telecine Cult
+http://attacktv.ddns.net:2052/12345/54321/30133
+#EXTINF:-1,BR: Telecine Premium
+http://attacktv.ddns.net:2052/12345/54321/30134
+#EXTINF:-1,BR: Telecine Touch
+http://attacktv.ddns.net:2052/12345/54321/30135
+#EXTINF:-1,BR: Animal Planet
+http://attacktv.ddns.net:2052/12345/54321/30136
+#EXTINF:-1,BR: Disney XD
+http://attacktv.ddns.net:2052/12345/54321/30138
