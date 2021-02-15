@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, GLOBO RJ HD
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/playlist.m3u8
 #EXTINF:-1, SPORTV 1 FHD
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/sportv1.m3u8?mu3zAQc9HC3GbwJq=rbrXuAr-ekQjRMuYp_xntw&3U1G7qaTxrPbalZnEx=1613340360
 #EXTINF:-1, SPORTV 1 HD
@@ -17,12 +19,18 @@ https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fu
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
 #EXTINF:-1, PREMIERE 1 FHD
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
-#EXTINF:-1, PREMIERE 4k
+#EXTINF:-1, PREMIERE 1 4k
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/premiereclubes.m3u8?mu3zAQc9HC3GbwJq=XY0hLtI6OKWkuDvtnHfYhA&3U1G7qaTxrPbalZnEx=1613334450
-#EXTINF:-1, PREMIERE 2
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes2/playlist.m3u8
+#EXTINF:-1, PREMIERE 2 4k
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes22/esportes22_2000/index.m3u8
+#EXTINF:-1, PREMIERE 2 HD
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes22/playlist.m3u8
 #EXTINF:-1, PREMIERE 2 FHD
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/esportes2_2000/index.m3u8
+#EXTINF:-1, PREMIERE 2 SD
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes2/playlist.m3u8
+#EXTINF:-1, PREMIERE 2 SD
+https://qqgy2btbq626ry2e.ezcdn462.net:8443/hls/4szb27ruet2uk.m3u8?s=crT1dP8VLuavwsDkq9rXoA&e=1613350239
 #EXTINF:-1, PREMIERE 3
 https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/playlist.m3u8
 #EXTINF:-1, PREMIERE 3 FHD
@@ -83,5 +91,3 @@ https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fu
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/discovery.m3u8?mu3zAQc9HC3GbwJq=d_udAEmn46wbptfuv2v3Ug&3U1G7qaTxrPbalZnEx=1613333608
 #EXTINF:-1, CNN BRASIL
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
-
-
