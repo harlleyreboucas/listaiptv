@@ -1,383 +1,286 @@
-#EXTM3U
-#EXTINF:-1,BR: TV Brasil
-http://attacktv.ddns.net:2052/12345/54321/55283
-#EXTINF:-1,BR: Canal Brasil
-http://attacktv.ddns.net:2052/12345/54321/55281
-#EXTINF:-1,BR: Globo SP
-http://attacktv.ddns.net:2052/12345/54321/55280
-#EXTINF:-1,BR: Band
-http://attacktv.ddns.net:2052/12345/54321/55279
-#EXTINF:-1,BR: Boomerang
-http://attacktv.ddns.net:2052/12345/54321/55278
-#EXTINF:-1,BR: Combate
-http://attacktv.ddns.net:2052/12345/54321/55277
-#EXTINF:-1,BR: Discovery Channel
-http://attacktv.ddns.net:2052/12345/54321/55276
-#EXTINF:-1,BR: Discovery Civilization
-http://attacktv.ddns.net:2052/12345/54321/55275
-#EXTINF:-1,BR: Discovery H&H
-http://attacktv.ddns.net:2052/12345/54321/55274
-#EXTINF:-1,BR: Discovery Science
-http://attacktv.ddns.net:2052/12345/54321/55273
-#EXTINF:-1,BR: Discovery Turbo
-http://attacktv.ddns.net:2052/12345/54321/55272
-#EXTINF:-1,BR: ESPN Brasil Sport
-http://attacktv.ddns.net:2052/12345/54321/55271
-#EXTINF:-1,BR: FOX
-http://attacktv.ddns.net:2052/12345/54321/55270
-#EXTINF:-1,BR: Fox Sports 2
-http://attacktv.ddns.net:2052/12345/54321/55269
-#EXTINF:-1,BR: Fox Sports
-http://attacktv.ddns.net:2052/12345/54321/55268
-#EXTINF:-1,BR: SporTV
-http://attacktv.ddns.net:2052/12345/54321/55267
-#EXTINF:-1,BR: SporTV 2
-http://attacktv.ddns.net:2052/12345/54321/55266
-#EXTINF:-1,BR: SporTV 3
-http://attacktv.ddns.net:2052/12345/54321/55265
-#EXTINF:-1,BR: Premiere 1 HD
-http://attacktv.ddns.net:2052/12345/54321/55264
-#EXTINF:-1,BR: PREMIERE CLUBES HD
-http://attacktv.ddns.net:2052/12345/54321/55263
-#EXTINF:-1,BR: Fish TV
-http://attacktv.ddns.net:2052/12345/54321/55262
-#EXTINF:-1,BR: The History Channel
-http://attacktv.ddns.net:2052/12345/54321/55261
-#EXTINF:-1,BR: National Geographic
-http://attacktv.ddns.net:2052/12345/54321/55260
-#EXTINF:-1,BR: Nickelodeon
-http://attacktv.ddns.net:2052/12345/54321/55259
-#EXTINF:-1,BR: Nick Jr
-http://attacktv.ddns.net:2052/12345/54321/55258
-#EXTINF:-1,BR: Tooncast
-http://attacktv.ddns.net:2052/12345/54321/55257
-#EXTINF:-1,BR: Universal Channel
-http://attacktv.ddns.net:2052/12345/54321/55256
-#EXTINF:-1,BR: A&E
-http://attacktv.ddns.net:2052/12345/54321/55255
-#EXTINF:-1,BR: AXN
-http://attacktv.ddns.net:2052/12345/54321/55254
-#EXTINF:-1,BR: Band News
-http://attacktv.ddns.net:2052/12345/54321/55253
-#EXTINF:-1,BR: Band Sports
-http://attacktv.ddns.net:2052/12345/54321/55252
-#EXTINF:-1,BR: Disney Channel
-http://attacktv.ddns.net:2052/12345/54321/55251
-#EXTINF:-1,BR: Disney Junior
-http://attacktv.ddns.net:2052/12345/54321/55250
-#EXTINF:-1,BR: Fox Life
-http://attacktv.ddns.net:2052/12345/54321/55249
-#EXTINF:-1,BR: HBO
-http://attacktv.ddns.net:2052/12345/54321/55248
-#EXTINF:-1,BR: HBO 2
-http://attacktv.ddns.net:2052/12345/54321/55247
-#EXTINF:-1,BR: HBO Family
-http://attacktv.ddns.net:2052/12345/54321/55246
-#EXTINF:-1,BR: HBO Plus
-http://attacktv.ddns.net:2052/12345/54321/55245
-#EXTINF:-1,BR: HBO Signature
-http://attacktv.ddns.net:2052/12345/54321/55244
-#EXTINF:-1,BR: Telecine Fun
-http://attacktv.ddns.net:2052/12345/54321/55243
-#EXTINF:-1,BR: FX
-http://attacktv.ddns.net:2052/12345/54321/55242
-#EXTINF:-1,BR: H2
-http://attacktv.ddns.net:2052/12345/54321/55241
-#EXTINF:-1,BR: Record News
-http://attacktv.ddns.net:2052/12345/54321/55240
-#EXTINF:-1,BR: TCM
-http://attacktv.ddns.net:2052/12345/54321/55239
-#EXTINF:-1,BR: TNT
-http://attacktv.ddns.net:2052/12345/54321/55238
-#EXTINF:-1,BR: Mais Globosat
-http://attacktv.ddns.net:2052/12345/54321/55237
-#EXTINF:-1,BR: Arte 1
-http://attacktv.ddns.net:2052/12345/54321/55236
-#EXTINF:-1,BR: Gloob
-http://attacktv.ddns.net:2052/12345/54321/55235
-#EXTINF:-1,BR: MegaPix
-http://attacktv.ddns.net:2052/12345/54321/55234
-#EXTINF:-1,BR: Syfy
-http://attacktv.ddns.net:2052/12345/54321/55233
-#EXTINF:-1,BR: Woohoo Brasil
-http://attacktv.ddns.net:2052/12345/54321/55232
-#EXTINF:-1,BR: Canal Sony
-http://attacktv.ddns.net:2052/12345/54321/55231
-#EXTINF:-1,BR: Discovery Kids
-http://attacktv.ddns.net:2052/12345/54321/55230
-#EXTINF:-1,BR: E!
-http://attacktv.ddns.net:2052/12345/54321/55229
-#EXTINF:-1,BR: Globo News
-http://attacktv.ddns.net:2052/12345/54321/55228
-#EXTINF:-1,BR: Investiga??o Discovery
-http://attacktv.ddns.net:2052/12345/54321/55227
-#EXTINF:-1,BR: PFC
-http://attacktv.ddns.net:2052/12345/54321/55226
-#EXTINF:-1,BR: Studio Universal
-http://attacktv.ddns.net:2052/12345/54321/55225
-#EXTINF:-1,BR: Telecine Pipoca
-http://attacktv.ddns.net:2052/12345/54321/55224
-#EXTINF:-1,BR: ESPN 2 FHD
-http://attacktv.ddns.net:2052/12345/54321/55223
-#EXTINF:-1,BR: ESPN EXTRA HD
-http://attacktv.ddns.net:2052/12345/54321/55222
-#EXTINF:-1,BR: Globo RJ HD
-http://attacktv.ddns.net:2052/12345/54321/55221
-#EXTINF:-1,BR: ESPN HD
-http://attacktv.ddns.net:2052/12345/54321/55220
-#EXTINF:-1,BR: DAZN 1 HD
-http://attacktv.ddns.net:2052/12345/54321/55219
-#EXTINF:-1,BR: DAZN 2 HD
-http://attacktv.ddns.net:2052/12345/54321/55218
-#EXTINF:-1,BR: DAZN 3 HD
-http://attacktv.ddns.net:2052/12345/54321/55217
-#EXTINF:-1,BR: DAZN 4 HD
-http://attacktv.ddns.net:2052/12345/54321/55216
-#EXTINF:-1,BR: CULTURA HD
-http://attacktv.ddns.net:2052/12345/54321/55215
-#EXTINF:-1,BR: FOX PREMIUM 1 HD
-http://attacktv.ddns.net:2052/12345/54321/55214
-#EXTINF:-1,BR: FOX PREMIUM 2 HD
-http://attacktv.ddns.net:2052/12345/54321/55213
-#EXTINF:-1,BR: Max
-http://attacktv.ddns.net:2052/12345/54321/30129
-#EXTINF:-1,BR: Max Up
-http://attacktv.ddns.net:2052/12345/54321/30130
-#EXTINF:-1,BR: Max Prime
-http://attacktv.ddns.net:2052/12345/54321/30131
-#EXTINF:-1,BR: Telecine Cult
-http://attacktv.ddns.net:2052/12345/54321/30133
-#EXTINF:-1,BR: Telecine Premium
-http://attacktv.ddns.net:2052/12345/54321/30134
-#EXTINF:-1,BR: Telecine Touch
-http://attacktv.ddns.net:2052/12345/54321/30135
-#EXTINF:-1,BR: Animal Planet
-http://attacktv.ddns.net:2052/12345/54321/30136
-#EXTINF:-1,BR: Disney XD
-http://attacktv.ddns.net:2052/12345/54321/30138
-#EXTINF:-1,ARG-26TV
-http://181.177.229.10:20000/play/a0my/index.m3u8
-#EXTINF:-1,ARG-A24HD
-http://181.177.229.10:20000/play/a0mm/index.m3u8
-#EXTINF:-1,ARG-AMERICATVHD
-http://181.177.229.10:20000/play/a0mq/index.m3u8
-#EXTINF:-1,ARG-C5N
-http://181.177.229.10:20000/play/a0mt/index.m3u8
-#EXTINF:-1,ARG-CANAL7HD
-http://181.177.229.10:20000/play/a0hr/index.m3u8
-#EXTINF:-1,ARG-CANALCIUDAD
-http://181.177.229.10:20000/play/a0ms/index.m3u8
-#EXTINF:-1,ARG-DEPORTV
-http://181.177.229.10:20000/play/a0mp/index.m3u8
-#EXTINF:-1,ARG-ELNUEVEHD
-http://181.177.229.10:20000/play/a0mo/index.m3u8
-#EXTINF:-1,ARG-ELTRECEHD
-http://181.177.229.10:20000/play/a0ml/index.m3u8
-#EXTINF:-1,ARG-EUROPAEUROPA
-http://181.177.229.10:20000/play/a0gv/index.m3u8
-#EXTINF:-1,ARG-IN
-http://181.177.229.10:20000/play/a0mu/index.m3u8
-#EXTINF:-1,ARG-LANACION
-http://181.177.229.10:20000/play/a0mr/index.m3u8
-#EXTINF:-1,ARG-PUBLICIDAD
-http://181.177.229.10:20000/play/a0mw/index.m3u8
-#EXTINF:-1,ARG-TELEFEHD
-http://181.177.229.10:20000/play/a0mx/index.m3u8
-#EXTINF:-1,ARG-TNHD
-http://181.177.229.10:20000/play/a0mn/index.m3u8
-#EXTINF:-1,ARG-TNTSPORTSHD
-http://181.177.229.10:20000/play/a0mk/index.m3u8
-#EXTINF:-1,ARG-TVPUBLICAHD
-http://181.177.229.10:20000/play/a0mv/index.m3u8
-#EXTINF:-1,ARG-TYCSPORTSHD
-http://181.177.229.10:20000/play/a0mj/index.m3u8
-#EXTINF:-1,BOL-ABYAYALATV
-http://181.177.229.10:20000/play/a0d5/index.m3u8
-#EXTINF:-1,BOL-BOLIVIATV
-http://181.177.229.10:20000/play/a0d6/index.m3u8
-#EXTINF:-1,BOL-BOTVHD-ENC
-http://181.177.229.10:20000/play/a0d2/index.m3u8
-#EXTINF:-1,BOL-GIGAVISION
-http://181.177.229.10:20000/play/a0da/index.m3u8
-#EXTINF:-1,BOL-PODERDEDIOS
-http://181.177.229.10:20000/play/a0lz/index.m3u8
-#EXTINF:-1,BOL-RTP
-http://181.177.229.10:20000/play/a0dc/index.m3u8
-#EXTINF:-1,BOL-TVCULTURAS
-http://181.177.229.10:20000/play/a0dd/index.m3u8
-#EXTINF:-1,BOL-TVUNIVERSITARIA
-http://181.177.229.10:20000/play/a0df/index.m3u8
-#EXTINF:-1,BOL-UNITEL
-http://181.177.229.10:20000/play/a0dg/index.m3u8
-#EXTINF:-1,BOL-XTOTV
-http://181.177.229.10:20000/play/a0dh/index.m3u8
-#EXTINF:-1,CAMERA-LIVINGROOM
-http://181.177.229.10:20000/play/a0m1/index.m3u8
-#EXTINF:-1,CHI-13C
-http://181.177.229.10:20000/play/a0gm/index.m3u8
-#EXTINF:-1,CHI-24HORAS
-http://181.177.229.10:20000/play/a0ge/index.m3u8
-#EXTINF:-1,CHI-CANAL13HD
-http://181.177.229.10:20000/play/a0me/index.m3u8
-#EXTINF:-1,CHI-CDFBASICO
-http://181.177.229.10:20000/play/a0gt/index.m3u8
-#EXTINF:-1,CHI-CDOBASICO
-http://181.177.229.10:20000/play/a0gn/index.m3u8
-#EXTINF:-1,CHI-CDOPREMIUN
-http://181.177.229.10:20000/play/a0go/index.m3u8
-#EXTINF:-1,CHI-CHVHD
-http://181.177.229.10:20000/play/a0mf/index.m3u8
-#EXTINF:-1,CHI-CNN
-http://181.177.229.10:20000/play/a0fy/index.m3u8
-#EXTINF:-1,CHI-LARED
-http://181.177.229.10:20000/play/a0gq/index.m3u8
-#EXTINF:-1,CHI-MEGATVHD
-http://181.177.229.10:20000/play/a0ma/index.m3u8
-#EXTINF:-1,CHI-REC13
-http://181.177.229.10:20000/play/a0d4/index.m3u8
-#EXTINF:-1,CHI-TELECANAL
-http://181.177.229.10:20000/play/a0m7/index.m3u8
-#EXTINF:-1,CHI-TV+
-http://181.177.229.10:20000/play/a0gh/index.m3u8
-#EXTINF:-1,CHI-TVCHILE
-http://181.177.229.10:20000/play/a0jh/index.m3u8
-#EXTINF:-1,CHI-TVNHD
-http://181.177.229.10:20000/play/a0md/index.m3u8
-#EXTINF:-1,COL-CABLENOTICIAS
-http://181.177.229.10:20000/play/a0gi/index.m3u8
-#EXTINF:-1,COL-CANAL13
-http://181.177.229.10:20000/play/a0n7/index.m3u8
-#EXTINF:-1,COL-CANALCONGRESO
-http://181.177.229.10:20000/play/a0n8/index.m3u8
-#EXTINF:-1,COL-CANALUNO
-http://181.177.229.10:20000/play/a0n9/index.m3u8
-#EXTINF:-1,COL-CAPITAL
-http://181.177.229.10:20000/play/a0nd/index.m3u8
-#EXTINF:-1,COL-CARACOL
-http://181.177.229.10:20000/play/a0e6/index.m3u8
-#EXTINF:-1,COL-CITYTV
-http://181.177.229.10:20000/play/a0m8/index.m3u8
-#EXTINF:-1,COL-INSTITUCIONAL
-http://181.177.229.10:20000/play/a0nb/index.m3u8
-#EXTINF:-1,COL-NTN24
-http://181.177.229.10:20000/play/a0n6/index.m3u8
-#EXTINF:-1,COL-RCN
-http://181.177.229.10:20000/play/a0e7/index.m3u8
-#EXTINF:-1,COL-RCNNOVELAS
-http://181.177.229.10:20000/play/a0eu/index.m3u8
-#EXTINF:-1,COL-RCNNUESTRATELE
-http://181.177.229.10:20000/play/a0mi/index.m3u8
-#EXTINF:-1,COL-SENALCOLOMBIA
-http://181.177.229.10:20000/play/a0ne/index.m3u8
-#EXTINF:-1,COL-TELEANTIOQUIA
-http://181.177.229.10:20000/play/a0nc/index.m3u8
-#EXTINF:-1,COL-TELECAFE
-http://181.177.229.10:20000/play/a0nh/index.m3u8
-#EXTINF:-1,COL-TELECARIBE
-http://181.177.229.10:20000/play/a0ng/index.m3u8
-#EXTINF:-1,COL-TELEPACIFICO
-http://181.177.229.10:20000/play/a0nf/index.m3u8
-#EXTINF:-1,COL-TRO
-http://181.177.229.10:20000/play/a0na/index.m3u8
-#EXTINF:-1,COL-WIN
-http://181.177.229.10:20000/play/a0f9/index.m3u8
-#EXTINF:-1,CR-EXTRATV
-http://181.177.229.10:20000/play/a0k2/index.m3u8
-#EXTINF:-1,CR-REPRETEL11
-http://181.177.229.10:20000/play/a0km/index.m3u8
-#EXTINF:-1,CR-REPRETEL4
-http://181.177.229.10:20000/play/a0k1/index.m3u8
-#EXTINF:-1,CR-REPRETEL6
-http://181.177.229.10:20000/play/a0kp/index.m3u8
-#EXTINF:-1,CR-SINART13
-http://181.177.229.10:20000/play/a0kn/index.m3u8
-#EXTINF:-1,CR-TELETICA
-http://181.177.229.10:20000/play/a0kq/index.m3u8
-#EXTINF:-1,CR-VMLATINO
-http://181.177.229.10:20000/play/a0ko/index.m3u8
-#EXTINF:-1,CUB-ACN
-http://181.177.229.10:20000/play/a0du/index.m3u8
-#EXTINF:-1,CUB-CLAVE
-http://181.177.229.10:20000/play/a0dy/index.m3u8
-#EXTINF:-1,CUB-CONTRIBUCION
-http://181.177.229.10:20000/play/a0dv/index.m3u8
-#EXTINF:-1,CUB-CUBAVISION
-http://181.177.229.10:20000/play/a0dz/index.m3u8
-#EXTINF:-1,CUB-CUBAVISIONINTER
-http://181.177.229.10:20000/play/a0dw/index.m3u8
-#EXTINF:-1,CUB-CVI
-http://181.177.229.10:20000/play/a0dx/index.m3u8
-#EXTINF:-1,CUB-EDUCATIVO
-http://181.177.229.10:20000/play/a0e0/index.m3u8
-#EXTINF:-1,CUB-EDUCATIVO2
-http://181.177.229.10:20000/play/a0e1/index.m3u8
-#EXTINF:-1,CUB-INFANTIL
-http://181.177.229.10:20000/play/a0e2/index.m3u8
-#EXTINF:-1,CUB-MULTIVISION
-http://181.177.229.10:20000/play/a0e3/index.m3u8
-#EXTINF:-1,CUB-TELEREBELDE
-http://181.177.229.10:20000/play/a0e4/index.m3u8
-#EXTINF:-1,ECU-CANALUNO
-http://181.177.229.10:20000/play/a0e8/index.m3u8
-#EXTINF:-1,ECU-ECUADORTV
-http://181.177.229.10:20000/play/a0em/index.m3u8
-#EXTINF:-1,ECU-ECUAVISA
-http://181.177.229.10:20000/play/a0e9/index.m3u8
-#EXTINF:-1,ECU-GAMATV
-http://181.177.229.10:20000/play/a0ep/index.m3u8
-#EXTINF:-1,ECU-GOLTV
-http://181.177.229.10:20000/play/a0ea/index.m3u8
-#EXTINF:-1,ECU-TC
-http://181.177.229.10:20000/play/a0ed/index.m3u8
-#EXTINF:-1,ECU-TELEAMAZONAS
-http://181.177.229.10:20000/play/a0ee/index.m3u8
-#EXTINF:-1,ESA-CANAL10
-http://181.177.229.10:20000/play/a0ly/index.m3u8
-#EXTINF:-1,ESA-CANAL12
-http://181.177.229.10:20000/play/a0ku/index.m3u8
-#EXTINF:-1,ESA-CANAL19
-http://181.177.229.10:20000/play/a0kx/index.m3u8
-#EXTINF:-1,ESA-CANAL2
-http://181.177.229.10:20000/play/a0k6/index.m3u8
-#EXTINF:-1,ESA-CANAL21
-http://181.177.229.10:20000/play/a0lj/index.m3u8
-#EXTINF:-1,ESA-CANAL4
-http://181.177.229.10:20000/play/a0k9/index.m3u8
-#EXTINF:-1,ESA-CANAL6
-http://181.177.229.10:20000/play/a0ky/index.m3u8
-#EXTINF:-1,ESA-VTVCANAL35
-http://181.177.229.10:20000/play/a0lg/index.m3u8
-#EXTINF:-1,ESP-A3INTERNACIONALHD
-http://181.177.229.10:20000/play/a0do/index.m3u8
-#EXTINF:-1,ESP-A3SERIESHD
-http://181.177.229.10:20000/play/a0dp/index.m3u8
-#EXTINF:-1,ESP-ANTENA3
-http://181.177.229.10:20000/play/a0j4/index.m3u8
-#EXTINF:-1,ESP-CANALVASCO
-http://181.177.229.10:20000/play/a0ht/index.m3u8
-#EXTINF:-1,ESP-HOLATVHD
-http://181.177.229.10:20000/play/a0dr/index.m3u8
-#EXTINF:-1,ESP-MASCHIC
-http://181.177.229.10:20000/play/a0jd/index.m3u8
-#EXTINF:-1,ESP-TVE
-http://181.177.229.10:20000/play/a0gb/index.m3u8
-#EXTINF:-1,ESP-TVGA
-http://181.177.229.10:20000/play/a0hs/index.m3u8
-#EXTINF:-1,ESP-VATICANHD
-http://181.177.229.10:20000/play/a0ds/index.m3u8
-#EXTINF:-1,GUA-CANAL11
-http://181.177.229.10:20000/play/a0kt/index.m3u8
-#EXTINF:-1,GUA-CANAL13
-http://181.177.229.10:20000/play/a0kv/index.m3u8
-#EXTINF:-1,GUA-CANAL3
-http://181.177.229.10:20000/play/a0k8/index.m3u8
-#EXTINF:-1,GUA-CANAL7
-http://181.177.229.10:20000/play/a0ka/index.m3u8
-#EXTINF:-1,GUA-CANALANTIGUA
-http://181.177.229.10:20000/play/a0kb/index.m3u8
-#EXTINF:-1,GUA-CANALAZTECA
-http://181.177.229.10:20000/play/a0kc/index.m3u8
-#EXTINF:-1,GUA-GUATEVISION
-http://181.177.229.10:20000/play/a0jw/index.m3u8
-#EXTINF:-1,GUA-REDTV
-http://181.177.229.10:20000/play/a0jg/index.m3u8
+#EXTINF:-1,A&E
+http://rec2.distv.net:80/plinio/123/113
+#EXTINF:-1,AMC
+http://rec2.distv.net:80/plinio/123/223
+#EXTINF:-1,ANIMAL PLANET
+http://rec2.distv.net:80/plinio/123/114
+#EXTINF:-1,ARTE 1
+http://rec2.distv.net:80/plinio/123/115
+#EXTINF:-1,AXN
+http://rec2.distv.net:80/plinio/123/116
+#EXTINF:-1,BABY TV
+http://rec2.distv.net:80/plinio/123/117
+#EXTINF:-1,BAND
+http://rec2.distv.net:80/plinio/123/224
+#EXTINF:-1,BAND NEWS
+http://rec2.distv.net:80/plinio/123/118
+#EXTINF:-1,BAND SPORTS
+http://rec2.distv.net:80/plinio/123/119
+#EXTINF:-1,BIS
+http://rec2.distv.net:80/plinio/123/120
+#EXTINF:-1,BOOMERANG
+http://rec2.distv.net:80/plinio/123/121
+#EXTINF:-1,CANAL BRASIL
+http://rec2.distv.net:80/plinio/123/122
+#EXTINF:-1,CANAL SONY
+http://rec2.distv.net:80/plinio/123/123
+#EXTINF:-1,CANÇÃO NOVA
+http://rec2.distv.net:80/plinio/123/65
+#EXTINF:-1,CARTOON NETWORK
+http://rec2.distv.net:80/plinio/123/124
+#EXTINF:-1,CINE SKY 01
+http://rec2.distv.net:80/plinio/123/48
+#EXTINF:-1,CINE SKY 02
+http://rec2.distv.net:80/plinio/123/49
+#EXTINF:-1,CINE SKY 03
+http://rec2.distv.net:80/plinio/123/50
+#EXTINF:-1,CINE SKY 04
+http://rec2.distv.net:80/plinio/123/51
+#EXTINF:-1,CINE SKY 05
+http://rec2.distv.net:80/plinio/123/52
+#EXTINF:-1,CINE SKY 06
+http://rec2.distv.net:80/plinio/123/53
+#EXTINF:-1,CINE SKY 07
+http://rec2.distv.net:80/plinio/123/54
+#EXTINF:-1,CINE SKY 08
+http://rec2.distv.net:80/plinio/123/55
+#EXTINF:-1,CINE SKY 09
+http://rec2.distv.net:80/plinio/123/56
+#EXTINF:-1,CINE SKY 10
+http://rec2.distv.net:80/plinio/123/57
+#EXTINF:-1,CINEMAX
+http://rec2.distv.net:80/plinio/123/125
+#EXTINF:-1,CNN BRASIL
+http://rec2.distv.net:80/plinio/123/225
+#EXTINF:-1,COMBATE
+http://rec2.distv.net:80/plinio/123/126
+#EXTINF:-1,COMEDY CENTRAL
+http://rec2.distv.net:80/plinio/123/127
+#EXTINF:-1,CULTURA
+http://rec2.distv.net:80/plinio/123/128
+#EXTINF:-1,CURTA
+http://rec2.distv.net:80/plinio/123/129
+#EXTINF:-1,DAZN
+http://rec2.distv.net:80/plinio/123/226
+#EXTINF:-1,DISCOVERY CHANNEL
+http://rec2.distv.net:80/plinio/123/130
+#EXTINF:-1,DISCOVERY HOME & HEALTH
+http://rec2.distv.net:80/plinio/123/131
+#EXTINF:-1,DISCOVERY ID
+http://rec2.distv.net:80/plinio/123/132
+#EXTINF:-1,DISCOVERY KIDS
+http://rec2.distv.net:80/plinio/123/133
+#EXTINF:-1,DISCOVERY SCIENCE
+http://rec2.distv.net:80/plinio/123/134
+#EXTINF:-1,DISCOVERY THEATER
+http://rec2.distv.net:80/plinio/123/135
+#EXTINF:-1,DISCOVERY TURBO
+http://rec2.distv.net:80/plinio/123/136
+#EXTINF:-1,DISCOVERY WORLD
+http://rec2.distv.net:80/plinio/123/137
+#EXTINF:-1,DISNEY CHANNEL
+http://rec2.distv.net:80/plinio/123/138
+#EXTINF:-1,DISNEY JR
+http://rec2.distv.net:80/plinio/123/139
+#EXTINF:-1,DISNEY XD
+http://rec2.distv.net:80/plinio/123/140
+#EXTINF:-1,E!
+http://rec2.distv.net:80/plinio/123/141
+#EXTINF:-1,ESPN
+http://rec2.distv.net:80/plinio/123/142
+#EXTINF:-1,ESPN 2
+http://rec2.distv.net:80/plinio/123/143
+#EXTINF:-1,ESPN BRASIL
+http://rec2.distv.net:80/plinio/123/144
+#EXTINF:-1,ESPN EXTRA
+http://rec2.distv.net:80/plinio/123/145
+#EXTINF:-1,FILMS & ARTS
+http://rec2.distv.net:80/plinio/123/227
+#EXTINF:-1,FISH TV
+http://rec2.distv.net:80/plinio/123/146
+#EXTINF:-1,FOOD NETWORK
+http://rec2.distv.net:80/plinio/123/147
+#EXTINF:-1,FOX
+http://rec2.distv.net:80/plinio/123/148
+#EXTINF:-1,FOX LIFE
+http://rec2.distv.net:80/plinio/123/149
+#EXTINF:-1,FOX PREMIUM 1
+http://rec2.distv.net:80/plinio/123/150
+#EXTINF:-1,FOX PREMIUM 2
+http://rec2.distv.net:80/plinio/123/151
+#EXTINF:-1,FOX SPORTS
+http://rec2.distv.net:80/plinio/123/152
+#EXTINF:-1,FOX SPORTS 2
+http://rec2.distv.net:80/plinio/123/153
+#EXTINF:-1,FUTURA
+http://rec2.distv.net:80/plinio/123/228
+#EXTINF:-1,FX
+http://rec2.distv.net:80/plinio/123/229
+#EXTINF:-1,GAZETA
+http://rec2.distv.net:80/plinio/123/230
+#EXTINF:-1,GLOBO
+http://rec2.distv.net:80/plinio/123/231
+#EXTINF:-1,GLOBO BRASILIA HD
+http://rec2.distv.net:80/plinio/123/3
+#EXTINF:-1,GLOBO CEARA HD
+http://rec2.distv.net:80/plinio/123/4
+#EXTINF:-1,GLOBO FLORIANOPOLIS HD
+http://rec2.distv.net:80/plinio/123/5
+#EXTINF:-1,GLOBO MINAS HD
+http://rec2.distv.net:80/plinio/123/6
+#EXTINF:-1,GLOBO NATAL HD
+http://rec2.distv.net:80/plinio/123/7
+#EXTINF:-1,GLOBO NEWS
+http://rec2.distv.net:80/plinio/123/232
+#EXTINF:-1,GLOBO REDE AMAZÔNICA HD
+http://rec2.distv.net:80/plinio/123/11
+#EXTINF:-1,GLOBO RIO HD
+http://rec2.distv.net:80/plinio/123/13
+#EXTINF:-1,GLOBO RPC CURITIBA HD
+http://rec2.distv.net:80/plinio/123/14
+#EXTINF:-1,GLOBO SP HD
+http://rec2.distv.net:80/plinio/123/15
+#EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA HD
+http://rec2.distv.net:80/plinio/123/16
+#EXTINF:-1,GLOBO TV BAHIA HD
+http://rec2.distv.net:80/plinio/123/17
+#EXTINF:-1,GLOBO TV LIBERAL BELEM HD
+http://rec2.distv.net:80/plinio/123/18
+#EXTINF:-1,GLOBO TV MIRANTE HD (MA)
+http://rec2.distv.net:80/plinio/123/19
+#EXTINF:-1,GLOOB
+http://rec2.distv.net:80/plinio/123/154
+#EXTINF:-1,GLOOBINHO
+http://rec2.distv.net:80/plinio/123/215
+#EXTINF:-1,GNT
+http://rec2.distv.net:80/plinio/123/155
+#EXTINF:-1,HBO
+http://rec2.distv.net:80/plinio/123/156
+#EXTINF:-1,HBO 2
+http://rec2.distv.net:80/plinio/123/157
+#EXTINF:-1,HBO FAMILY
+http://rec2.distv.net:80/plinio/123/158
+#EXTINF:-1,HBO MUNDI
+http://rec2.distv.net:80/plinio/123/159
+#EXTINF:-1,HBO PLUS
+http://rec2.distv.net:80/plinio/123/160
+#EXTINF:-1,HBO POP
+http://rec2.distv.net:80/plinio/123/161
+#EXTINF:-1,HBO SIGNATURE
+http://rec2.distv.net:80/plinio/123/162
+#EXTINF:-1,HBO XTREME
+http://rec2.distv.net:80/plinio/123/163
+#EXTINF:-1,HGTV
+http://rec2.distv.net:80/plinio/123/164
+#EXTINF:-1,HISTORY
+http://rec2.distv.net:80/plinio/123/165
+#EXTINF:-1,HISTORY 2
+http://rec2.distv.net:80/plinio/123/166
+#EXTINF:-1,LIFE TIME
+http://rec2.distv.net:80/plinio/123/167
+#EXTINF:-1,LIKE
+http://rec2.distv.net:80/plinio/123/233
+#EXTINF:-1,MAIS GLOBOSAT
+http://rec2.distv.net:80/plinio/123/235
+#EXTINF:-1,MEGAPIX
+http://rec2.distv.net:80/plinio/123/168
+#EXTINF:-1,MTV
+http://rec2.distv.net:80/plinio/123/169
+#EXTINF:-1,MTV LIVE
+http://rec2.distv.net:80/plinio/123/236
+#EXTINF:-1,MULTISHOW
+http://rec2.distv.net:80/plinio/123/170
+#EXTINF:-1,MUSIC BOX BRAZIL
+http://rec2.distv.net:80/plinio/123/171
+#EXTINF:-1,NAT GEO
+http://rec2.distv.net:80/plinio/123/172
+#EXTINF:-1,NAT GEO KIDS
+http://rec2.distv.net:80/plinio/123/173
+#EXTINF:-1,NAT GEO WILD
+http://rec2.distv.net:80/plinio/123/174
+#EXTINF:-1,NICK
+http://rec2.distv.net:80/plinio/123/175
+#EXTINF:-1,NICK JR
+http://rec2.distv.net:80/plinio/123/176
+#EXTINF:-1,OFF
+http://rec2.distv.net:80/plinio/123/177
+#EXTINF:-1,PARAMOUNT
+http://rec2.distv.net:80/plinio/123/178
+#EXTINF:-1,PLAY KIDS
+http://rec2.distv.net:80/plinio/123/216
+#EXTINF:-1,PREMIERE 2
+http://rec2.distv.net:80/plinio/123/179
+#EXTINF:-1,PREMIERE 3
+http://rec2.distv.net:80/plinio/123/180
+#EXTINF:-1,PREMIERE 4
+http://rec2.distv.net:80/plinio/123/181
+#EXTINF:-1,PREMIERE 5
+http://rec2.distv.net:80/plinio/123/182
+#EXTINF:-1,PREMIERE 6
+http://rec2.distv.net:80/plinio/123/183
+#EXTINF:-1,PREMIERE 7
+http://rec2.distv.net:80/plinio/123/237
+#EXTINF:-1,PREMIERE CLUBES
+http://rec2.distv.net:80/plinio/123/184
+#EXTINF:-1,PRIME BOX BRAZIL
+http://rec2.distv.net:80/plinio/123/185
+#EXTINF:-1,RECORD BAHIA
+http://rec2.distv.net:80/plinio/123/23
+#EXTINF:-1,RECORD BRASILIA
+http://rec2.distv.net:80/plinio/123/25
+#EXTINF:-1,RECORD NEWS
+http://rec2.distv.net:80/plinio/123/28
+#EXTINF:-1,RECORD PARA
+http://rec2.distv.net:80/plinio/123/30
+#EXTINF:-1,RECORD RIO
+http://rec2.distv.net:80/plinio/123/31
+#EXTINF:-1,RECORD MG
+http://rec2.distv.net:80/plinio/123/32
+#EXTINF:-1,REDE TV
+http://rec2.distv.net:80/plinio/123/69
+#EXTINF:-1,SBT
+http://rec2.distv.net:80/plinio/123/238
+#EXTINF:-1,SMITHSONIAN
+http://rec2.distv.net:80/plinio/123/239
+#EXTINF:-1,SPACE
+http://rec2.distv.net:80/plinio/123/187
+#EXTINF:-1,SPORTV
+http://rec2.distv.net:80/plinio/123/188
+#EXTINF:-1,SPORTV 2
+http://rec2.distv.net:80/plinio/123/189
+#EXTINF:-1,SPORTV 3
+http://rec2.distv.net:80/plinio/123/190
+#EXTINF:-1,STUDIO UNIVERSAL
+http://rec2.distv.net:80/plinio/123/191
+#EXTINF:-1,SYFY
+http://rec2.distv.net:80/plinio/123/192
+#EXTINF:-1,TBS
+http://rec2.distv.net:80/plinio/123/193
+#EXTINF:-1,TELECINE ACTION
+http://rec2.distv.net:80/plinio/123/194
+#EXTINF:-1,TELECINE CULT
+http://rec2.distv.net:80/plinio/123/195
+#EXTINF:-1,TELECINE FUN
+http://rec2.distv.net:80/plinio/123/196
+#EXTINF:-1,TELECINE PIPOCA
+http://rec2.distv.net:80/plinio/123/197
+#EXTINF:-1,TELECINE PREMIUM
+http://rec2.distv.net:80/plinio/123/198
+#EXTINF:-1,TELECINE TOUCH
+http://rec2.distv.net:80/plinio/123/199
+#EXTINF:-1,TLC
+http://rec2.distv.net:80/plinio/123/200
+#EXTINF:-1,TNT
+http://rec2.distv.net:80/plinio/123/201
+#EXTINF:-1,TV BRASIL
+http://rec2.distv.net:80/plinio/123/241
+#EXTINF:-1,TV CIDADE-CARIRI CE
+http://rec2.distv.net:80/plinio/123/94
+#EXTINF:-1,TV NOVO TEMPO
+http://rec2.distv.net:80/plinio/123/242
+#EXTINF:-1,TV PAI ETERNO
+http://rec2.distv.net:80/plinio/123/103
+#EXTINF:-1,TV RA TIM BUM
+http://rec2.distv.net:80/plinio/123/204
+#EXTINF:-1,ZOOMOO
+http://rec2.distv.net:80/plinio/123/244
